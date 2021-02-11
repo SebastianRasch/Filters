@@ -1,7 +1,6 @@
 ! Title: Superstraktulation
 ! TimeUpdated: 2021-02-11T10:00:00
 ! Version: 1.3.112
-! Expires: 1 days (update frequency)
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
