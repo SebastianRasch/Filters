@@ -1,7 +1,6 @@
 ! Title: Superstraktulation
-! TimeUpdated: 2021-02-11T10:00:00
-! Version: 1.3.113
-! Test
+! Version: 1.3.114
+! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
 @@||gisanddata.maps.arcgis.com^$important,document,~extension
