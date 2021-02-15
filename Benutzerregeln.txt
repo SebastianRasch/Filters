@@ -1834,6 +1834,7 @@ anandtech.com##.show_resp
 app.ignition.fun##div:nth-child(13)
 app.ignition.fun##div:nth-child(14)
 apple.com##.lockedBottomBar
+appleinsider.com##div.container:nth-child(7)
 appleinsider.com###ios-app-promote
 appleinsider.com#$##article-social { margin-top: 0 !important; }
 blocket.se##.blocket-placement
@@ -1948,26 +1949,27 @@ golem.de##[id^="mob_afcbecoh"]
 golem.de###mob_art1
 golem.de###pre-thread > a:nth-child(2)
 golem.de##footer > nav
-google.se##.ads-fr
-google.se##.commercial-unit-mobile-top
-google.se##.f570C
-google.se##.irc-deck:last-child
-google.se##.kno-ftr:last-child
-google.se##.qxsd.siXlze.yp1CPe.NV5pMe.a84NUc.CQKTwc.WDjuKe.gQkKBf.Iof2Le.mod:last-child
-google.se##.qxsd.xsZWvb.EfDVh.CQKTwc.WDjuKe.mod:nth-child(4)
-google.se##.qxsd.yp1CPe.xsZWvb.CQKTwc.WDjuKe.mod:last-child
-google.se##.rKJOcDNwrHj__banner-eames-border-radius:last-child
-google.se##.x8dMse > div:last-child
-google.se##.xpd.O9g5cc.uUPGi:nth-child(15)
-google.se##.xpd.O9g5cc.uUPGi:nth-child(16)
-google.se##.xpdbox.xpdclose:nth-child(2) > div.ifM9O:first-child > div:nth-child(2) > div.kp-body:last-child >.qxsd.mod:nth-child(3)
-google.se##.xpdclose:nth-child(2) > div.ifM9O:first-child > div:nth-child(2) > div.kp-body:last-child > .qxsd.mod:last-child
-google.se###arc-srp10 > div:first-child > div > g-card
-google.se###arc-srp10 > div:first-child > div.srg > div.mnr-c > div.g.card-section
-google.se###botstuff > div > div:nth-child(4)
-google.se###botstuff > div > div:nth-child(5)
-google.se###tscffb
-google.se##g-card > .bUNBRd.mnr-c
+google.de##.ads-fr
+google.de##.commercial-unit-mobile-top
+google.de##.f570C
+google.de##.irc-deck:last-child
+google.de##.kno-ftr:last-child
+google.de##.qxsd.siXlze.yp1CPe.NV5pMe.a84NUc.CQKTwc.WDjuKe.gQkKBf.Iof2Le.mod:last-child
+google.de##.qxsd.xsZWvb.EfDVh.CQKTwc.WDjuKe.mod:nth-child(4)
+google.de##.qxsd.yp1CPe.xsZWvb.CQKTwc.WDjuKe.mod:last-child
+google.de##.rKJOcDNwrHj__banner-eames-border-radius:last-child
+google.de##.x8dMse > div:last-child
+google.de##.xpd.O9g5cc.uUPGi:nth-child(15)
+google.de##.xpd.O9g5cc.uUPGi:nth-child(16)
+google.de##.xpdbox.xpdclose:nth-child(2) > div.ifM9O:first-child > div:nth-child(2) > div.kp-body:last-child >.qxsd.mod:nth-child(3)
+google.de##.xpdclose:nth-child(2) > div.ifM9O:first-child > div:nth-child(2) > div.kp-body:last-child > .qxsd.mod:last-child
+google.de###arc-srp10 > div:first-child > div > g-card
+google.de###arc-srp10 > div:first-child > div.srg > div.mnr-c > div.g.card-section
+google.de###botstuff > div > div:nth-child(4)
+google.de###botstuff > div > div:nth-child(5)
+google.de###tscffb
+google.de##g-card > .bUNBRd.mnr-c
+google.de##.AuP6le.VTZT1b.kno-ftr:last-child
 hallon.se##article.messagebox
 heise.de##.akwa-ad-container
 heise.de##.footer-imprint__list--copyright
@@ -1999,6 +2001,9 @@ kingworldnews.com##.post-content > p:nth-last-child(-n+5)
 kingworldnews.com##.ssba
 live.com##.nativeScrollInertia:first-child > div:nth-child(2)
 live.com##.NSwn5prLOvNoVlZx-qXe_:first-child
+localiiz.com##.bglight-culture.block-articles.loaded-js
+localiiz.com###header-pre
+localiiz.com###header-top
 macrumors.com##.footerLegal
 macrumors.com##.funbox
 macrumors.com##.i-amphtml-layout:nth-child(14)
@@ -2037,6 +2042,8 @@ pcgameshardware.de##.cbox_embedded
 pcgameshardware.de##.cboxlinks
 pcgameshardware.de##.ui-footer-fixed
 pcgameshardware.de###ct_mo_sb
+pcgameshardware.de###supportNote
+pcgameshardware.de###addToHomeScreen
 pda.leo.org##.info
 pda.leo.org###footer
 pda.leo.org###topBranding
@@ -2118,14 +2125,22 @@ svt.se##.sp-footer__row:first-child
 svt.se##.sp-footer-navbar__item:last-child
 svt.se##.sp-journalistic-transparency
 techacrobat.com##.amp-wp-share
+theawesomer.com##strong > p:first-child
 theawesomer.com##.back-to-top
 theawesomer.com##.fbbutton
+theawesomer.com##.single > p:nth-child(7)
+theawesomer.com##.page-wrapper:first-child > div:nth-child(2)
+theawesomer.com##.not-single > p:nth-child(2)
+theawesomer.com##.not-single > p:nth-child(3)
 theawesomer.com##.not-page.no-thumbnail > div:nth-child(11)
 theawesomer.com##.not-page.no-thumbnail > p:nth-child(10)
 theawesomer.com##.not-page.no-thumbnail > p:nth-child(8)
 theawesomer.com##.not-page.no-thumbnail > p:nth-child(9)
 theawesomer.com##.wptouch-mobile-switch
 theawesomer.com###single-nav-bar
+theawesomer.com###section-slider
+theawesomer.com###header > p:nth-child(2)
+theawesomer.com###search-dropper
 theguardian.com##[id^="dfp-ad--"]
 theinventory.com##.core-decorated-commerce.js_inset
 thekitchn.com##.ActionButtonRow
