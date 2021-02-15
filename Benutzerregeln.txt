@@ -121,7 +121,7 @@ appleinsider.com##.feat-deal-new
 appleinsider.com##.article ~ .news-cell
 appleinsider.com##.article-nav
 appleinsider.com##.carousel
-appleinsider.com,~forums.appleinsider.com##body > .container:not(#top-half-snap) > .row:not(#latest-news)
+appleinsider.com##body > .container:not(#top-half-snap) > .row:not(#latest-news)
 appleinsider.com##.container > #river-load-more
 appleinsider.com##.inline-disclaimer
 appleinsider.com##.push:nth-child(2)
