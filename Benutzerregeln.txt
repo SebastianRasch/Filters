@@ -159,7 +159,6 @@ appleinsider.com###top-promo
 appleinsider.com###topic-nav
 appleinsider.com###ZeroClipboardMovie_1
 appleinsider.com#$#h2 { text-align: left !important; }
-appleinsider.com#$#.h1-adjust { margin-top: 0 !important; }
 appleinsider.com#$#.col-lg-5 { width: 65% !important; margin-top: 40px !important; margin-bottom: 20px !important; }
 appleinsider.com#$#.col-lg-4 { width: 35% !important; margin-top: 40px !important; }
 appleinsider.com#$#.col-lg-4 > .sub-header { margin-left: 18px !important; }
@@ -167,7 +166,6 @@ appleinsider.com#$#.col-lg-9 { padding-right: 15px !important; }
 appleinsider.com#$#.col-sm-4 { padding-left: 0 !important; }
 appleinsider.com#$#.col-sm-12, .row.main-page > .container { padding-left: 0 !important; padding-right: 0 !important; }
 appleinsider.com#$#.row > .row > .col-sm-12 { text-align: justify !important; }
-appleinsider.com#$##topstory-hero { max-height: none !important; width: 100% !important; }
 appleinsider.com#$#.visible-lg { padding: 0 !important; }
 appleinsider.com#$#.sidebar-article h2 { margin-top: -5px !important; }
 appleinsider.com#$#.article-image, #article-hero img { width: 100% !important; }
@@ -176,6 +174,7 @@ appleinsider.com#$#.header-bookend { padding-top: 10px !important; }
 appleinsider.com#$#.navbar-nav>li>a { padding-top: 15px !important; }
 appleinsider.com#$#.header-bookend { height: 50px !important; }
 appleinsider.com#$#.footer-cont { margin-top: 0 !important; }
+appleinsider.com#$##topstory-hero { max-height: none !important; width: 100% !important; }
 forums.appleinsider.com#$#@media (min-width: 768px) { .container { width: 750px !important; }}
 ! ARBETSFÖRMEDLINGEN
 arbetsformedlingen.se##.vngage-tab
@@ -1836,6 +1835,7 @@ app.ignition.fun##div:nth-child(13)
 app.ignition.fun##div:nth-child(14)
 apple.com##.lockedBottomBar
 appleinsider.com###ios-app-promote
+appleinsider.com#$##article-social { margin-top: 0 !important; }
 blocket.se##.blocket-placement
 blocket.se##[class^="PropertyValuation"]
 blocket.se##[data-reactid="61"]
