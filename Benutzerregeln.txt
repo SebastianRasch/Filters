@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.4
+! Version: 1.4.5
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -503,6 +503,7 @@ faz.net#$##FAZContentLeftInner .NachrichtenKamin { margin-left: 280px !important
 faz.net#$#.ContentFooter { margin-top: -50px !important; }
 ! FEEDLY
 feedly.com##.primary.button-icon-only
+feedly.com##.button--primary.pro
 feedly.com##.close-button
 feedly.com##.condensed-tools
 feedly.com##.condensedTools
@@ -554,7 +555,7 @@ feedly.com##.empty-state > .illustration
 feedly.com##.LeftnavListRow:nth-of-type(3)
 ! Oberstes Band 
 feedly.com#$##feedlyMessageBar { width: 1162px !important; }
-feedly.com#$#.fixed-bar { box-shadow: none !important; left: 240px !important; }
+feedly.com#$#.fixed-bar { box-shadow: none !important; left: 260px !important; }
 ! Schrift
 feedly.com#$#.LeftnavListRow { font-size: inherit !important; }
 feedly.com#$#.entryBody { font-family: sans-serif !important; margin-bottom: 25px !important; margin-top: 15px !important; }
