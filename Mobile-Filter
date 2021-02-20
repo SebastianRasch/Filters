@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 2.2
+! Version: 2.3
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -27,8 +27,6 @@ app.ignition.fun##div:nth-child(14)
 apple.com##.lockedBottomBar
 appleinsider.com##div.container:nth-child(7)
 appleinsider.com###ios-app-promote
-appleinsider.com#$##article-social { margin-top: 0 !important; }
-appleinsider.com#$#.h1-adjust { margin-top: 55px !important; }
 blocket.se##.blocket-placement
 blocket.se##[class^="PropertyValuation"]
 blocket.se##[data-reactid="61"]
