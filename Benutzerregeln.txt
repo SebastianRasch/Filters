@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.9
+! Version: 1.4.10
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -395,9 +395,10 @@ designboom.com#$#.nav-search-toggler { top: 7px !important; }
 ! DI.FM
 di.fm##.content-module-wrapper
 di.fm##.premium-upsell
+di.fm##.temp-message.notice.visible
+di.fm##.get-apps-cta
 di.fm##[class^="premium-upsell-banner"]
 di.fm##[class*="go-premium"]
-di.fm##.get-apps-cta
 di.fm###main-footer > nav
 di.fm###responsive-module1279
 di.fm#$#.footer-bottom { margin: 0 !important; }
