@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.11
+! Version: 1.4.12
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -121,18 +121,20 @@ appleinsider.com##.feat-deal-new
 appleinsider.com##.article ~ .news-cell
 appleinsider.com##.article-nav
 appleinsider.com##.carousel
-appleinsider.com##body > .container:not(#top-half-snap) > .row:not(#latest-news)
+appleinsider.com##.footer-articles
+appleinsider.com#$#.new-footer > DIV > .row { margin-top: 0 !important; }
+appleinsider.com##body:not(.Profile,#vanilla_categories_index) > .container:not(#top-half-snap) > .row:not(#latest-news)
 appleinsider.com##.container > #river-load-more
 appleinsider.com##.inline-disclaimer
 appleinsider.com##.push:nth-child(2)
 appleinsider.com##.featured-content-body-container
+appleinsider.com##.font-sz.right
 appleinsider.com##.rel-half-l-cnt
 appleinsider.com##.col-sm-12.col-lg-12 > .row:nth-child(2)
 appleinsider.com##.col-sm-12.col-lg-12 > .row:nth-child(3)
 appleinsider.com##article.feat-deal2
 appleinsider.com##hr:nth-child(5)
 appleinsider.com##hr:last-child
-appleinsider.com##[class="font-sz right"]
 appleinsider.com##[href*="id578462575"]
 appleinsider.com##[href="http://appleinsider.com/giftguide"]
 appleinsider.com##[href="http://deals.appleinsider.com"]
@@ -140,6 +142,7 @@ appleinsider.com##[id^="google_ads"]
 appleinsider.com##[id^="rcjsload_"]
 appleinsider.com###topic-nav-spacer
 appleinsider.com###top-half-snap > div.row.main-page > div.col-lg-3.col-xs-12:nth-child(2) > hr:nth-child(5)
+appleinsider.com###river-load-more
 appleinsider.com###article-footer-deals
 appleinsider.com###article-share-container
 appleinsider.com###article-share-facebook
