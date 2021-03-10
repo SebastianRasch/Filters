@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.17
+! Version: 1.4.18
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -174,6 +174,7 @@ appleinsider.com#$#.push { margin-top: 25px !important; }
 appleinsider.com#$#.header-bookend { padding-top: 10px !important; }
 appleinsider.com#$#.navbar-nav>li>a { padding-top: 15px !important; }
 appleinsider.com#$#.header-bookend { height: 50px !important; }
+appleinsider.com#$##Form_Comment { margin-bottom: 35px !important; }
 appleinsider.com#$#.new-footer > DIV > .row { margin-top: 0 !important; }
 appleinsider.com#$#.footer-cont { margin-top: 0 !important; }
 appleinsider.com#$##topstory-hero { max-height: none !important; width: 100% !important; }
