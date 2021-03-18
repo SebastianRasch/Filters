@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.21
+! Version: 1.4.22
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1689,6 +1689,7 @@ zeit.de##.nextread-advertisement
 zeit.de##.partnerbox
 zeit.de##.print-box--angebot
 zeit.de##.print-box
+zeit.de##.x-spacing.container_49
 zeit.de##.sharing-menu
 zeit.de##.tb-newShareBox
 zeit.de##.teaser-small--ad
