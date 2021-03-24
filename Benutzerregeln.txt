@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.24
+! Version: 1.4.25
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1128,6 +1128,7 @@ macrumors.com###sideAd
 macrumors.com###contentAd
 macrumors.com##[class^="colLinks--"]
 macrumors.com##[class^="colStaff--"] > div:last-child
+macrumors.com##[class^="main--"] > div > h2
 forums.macrumors.com##.similarThreads
 forums.macrumors.com##.samCodeUnit > .samItem > div
 forums.macrumors.com##.funbox
