@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.27
+! Version: 1.4.28
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -130,6 +130,7 @@ appleinsider.com##.font-sz.right
 appleinsider.com##.rel-half-l-cnt
 appleinsider.com##.col-sm-12.col-lg-12 > .row:nth-child(2)
 appleinsider.com##.col-sm-12.col-lg-12 > .row:nth-child(3)
+appleinsider.com##.col-sm-12:last-child > p > em
 appleinsider.com##.col-lg-3
 appleinsider.com##article.feat-deal2
 appleinsider.com##hr:nth-child(5)
