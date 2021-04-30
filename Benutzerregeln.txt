@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.32
+! Version: 1.4.33
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -180,6 +180,7 @@ appleinsider.com#$#.footer-cont { margin-top: 0 !important; }
 appleinsider.com#$#body > .container { padding-bottom: 35px !important; }
 appleinsider.com#$##topstory-hero { max-height: none !important; width: 100% !important; }
 forums.appleinsider.com##.Methods
+forums.appleinsider.com##.MessageList > li:not(.Item)
 forums.appleinsider.com#$#@media (min-width: 768px) { .container { width: 750px !important; }}
 ! ARBETSFÖRMEDLINGEN
 arbetsformedlingen.se##.vngage-tab
