@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.33
+! Version: 1.4.34
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -574,7 +574,8 @@ feedly.com#$#.theme--dark .LeftnavListRow { color: rgba(190, 190, 190, 0.88) !im
 ! Hintergründe
 feedly.com#$#.headerInfo-expanded-img:hover, .save-for-later:hover, .button-addurl:hover, .button-refresh:hover { background-color: transparent !important; }
 feedly.com#$#.entry--highlight { animation: none !important; }
-! feedly.com#$#.entry--selected.u0 { background-color: rgb(220 220 220) !important; }
+feedly.com#$#.entry--selected.u0, .entry--selected.u0:hover { background-color: #f2f2f2 !important; }
+feedly.com#$#.entry.u0:hover { background-color: #fbfbfb !important; }
 ! Artikel: Rahmen und Hintergrundfarbe
 feedly.com#$#.shareBarHolder { margin-bottom: 4px !important; }
 feedly.com#$#.headerInfo, .entry.u0 { border: 0 !important; }
