@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.34
+! Version: 1.4.35
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -940,22 +940,7 @@ heise.de##figure.branding
 heise.de#$#.article-layout__content, .a-article-header {max-width: 100% !important; }
 heise.de#$#@media screen and (min-width: 768px) { .perf-cls-reduc-leaderboard { min-height: 40px !important; }}
 ! IDOWNLOADBLOG
-idownloadblog.com##.top_posts
-idownloadblog.com##[class="col-md-12 related-posts hidden-xs"]
-idownloadblog.com##[class="entry-social hidden-xs"]
-idownloadblog.com###footer
-idownloadblog.com###logo_banner
-idownloadblog.com###sidebar
-idownloadblog.com#$#.col-md-8 { text-align: justify !important; width: 100% !important; }
-idownloadblog.com#$#.post-content img { width: 100% !important; }
-idownloadblog.com#$#.comments-count { margin-right: -17px !important; }
-idownloadblog.com#$#.container { width: 900px !important; }
-idownloadblog.com#$#.main-content { margin-top: 0 !important; box-shadow: none !important; }
-idownloadblog.com#$#.sb-search { right: -14px !important; }
-idownloadblog.com#$##placement-bottom { display: none !important; }
-idownloadblog.com#$#article { text-align: justify !important; }
-idownloadblog.com#$#body { background: none !important; }
-idownloadblog.com#$#.adtester-container { min-height: 0 !important; }
+idownloadblog.com###ajax-load-more
 ! IG
 ig.com##[class="sticky-footer"]
 ! IGNITION
