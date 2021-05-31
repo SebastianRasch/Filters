@@ -1,6 +1,6 @@
 ! Title: Superstraktulation
-! Version: 1.4.38
-! 
+! Version: 1.4.39
+!
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
 @@||gisanddata.maps.arcgis.com^$important,document,~extension
@@ -1696,24 +1696,24 @@ zeit.de##.teaser-small--ad
 zeit.de##.teaser-small--inhouse
 zeit.de##.zon-teaser-standard--inhouse
 zeit.de##.article__item--marginalia:nth-of-type(2)
-zeit.de##[class="article-lineage js-fix-position article-lineage--absolute"]
-zeit.de##[class="article-lineage js-fix-position article-lineage--fixed"]
+zeit.de##.article-lineage .js-fix-position .article-lineage--absolute
+zeit.de##.article-lineage .js-fix-position .article-lineage--fixed
 zeit.de##.cp-area--shop
 zeit.de##.jobbox
+zeit.de##.bx-overlay-next
+zeit.de##.bx-overlay-prev
+zeit.de##.sticky-nav--visible.sticky-nav
 zeit.de###iqd_mainAd
 zeit.de###addefend-overlay
 zeit.de###adrtx_tag
 zeit.de###iq-artikelanker
 zeit.de###newsletter-teaser-form
-zeit.de###newsletter-signup-was-jetzt
 zeit.de###RA2VW2
 zeit.de###services
 zeit.de###vp_1
-zeit.de##.bx-overlay-next
-zeit.de##.bx-overlay-prev
-zeit.de##.sticky-nav--visible.sticky-nav
 zeit.de###overlay-addefend
 zeit.de###data-protection-overlay
+zeit.de##[id^="newsletter-signup-"]
 blog.zeit.de##.newsletter-teaser-box
 blog.zeit.de###colophon
 zeit.de#$#body { background-color: #fff !important; }
