@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.39
+! Version: 1.4.40
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -942,7 +942,6 @@ heise.de#$#@media screen and (min-width: 768px) { .perf-cls-reduc-leaderboard { 
 ! IDOWNLOADBLOG
 idownloadblog.com###ajax-load-more
 idownloadblog.com##.entry-social
-idownloadblog.com##[id^="ctcg_frame_"]
 idownloadblog.com#$#.entry-content { text-align: justify !important; }
 idownloadblog.com#$#body { padding-bottom: 0 !important; }
 idownloadblog.com#$#footer { padding: 10px 0 5px !important; }
