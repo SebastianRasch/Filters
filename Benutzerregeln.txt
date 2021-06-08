@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.41
+! Version: 1.4.42
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -458,9 +458,10 @@ disqus.com##[name="dsq-app5"]
 ! DUCKDUCKGO
 duckduckgo.com##.footer
 ! EBAY
-ebay.de##.connected-placements
-ebay.de##.fixed-tiles
-ebay.de###scandal100547
+ebay.de, ebay.co.uk##.connected-placements
+ebay.de, ebay.co.uk##.fixed-tiles
+ebay.de, ebay.co.uk###scandal100547
+ebay.de, ebay.co.uk##[id^="ad_html_"]
 ! ECONOMICTIMES
 economictimes.indiatimes.com##.band_wrapper
 economictimes.indiatimes.com##.fixedNav
