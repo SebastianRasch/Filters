@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 2.3
+! Version: 2.4
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -170,6 +170,7 @@ idownloadblog.com##.idb-block:nth-child(5)
 idownloadblog.com##.nav-controls
 idownloadblog.com##.sharing-options
 idownloadblog.com##.wptouch-custom-ad
+idownloadblog.com###idb-sidebar
 idownloadblog.com###iDB_Mobile_Below_Content
 idownloadblog.com###sidebar .widget-area
 ignition.fun##.navbar-through > .page > .page-content > center
