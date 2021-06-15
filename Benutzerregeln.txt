@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.42
+! Version: 1.4.43
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -373,8 +373,9 @@ crackdb.com##td:nth-of-type(1) > table:nth-of-type(3)
 de.bab.la##.info-panel
 de.bab.la###fixed
 ! FINANCE.YAHOO
-de.finance.yahoo.com##[class="yom-mod yom-iframe"]
-de.finance.yahoo.com##[id="mediaiframe"]
+finance.yahoo.com##.yom-mod.yom-iframe
+finance.yahoo.com###mediaiframe
+finance.yahoo.com###module-spotIm
 ! DEGIRO
 trader.degiro.nl##.gyfmR7wu._3qG1CsaZ
 ! DESIGNBOOM
