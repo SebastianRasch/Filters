@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.48
+! Version: 1.4.49
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1278,6 +1278,12 @@ popinsomniacs.com##.at4-share-outer .addthis-smartlayers .addthis-smartlayers-de
 ! PIA
 privateinternetaccess.com###alert
 privateinternetaccess.com###google_translate_element
+! PIRATEBAY
+pirateproxy-bay.com###nord-stiky
+pirateproxy-bay.com###nord-message
+pirateproxy-bay.com##.main__content-123
+pirateproxy-bay.com###fp > div
+pirateproxy-bay.com###fp > nav
 ! PROFIT F
 profitf.com###text-28
 ! QUORA
