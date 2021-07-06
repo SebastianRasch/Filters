@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.50
+! Version: 1.4.51
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1281,9 +1281,8 @@ privateinternetaccess.com###google_translate_element
 ! PIRATEBAY
 thepiratesproxy.org###nord-stiky
 thepiratesproxy.org###nord-message
+thepiratesproxy.org###main > div
 thepiratesproxy.org##.main__content-123
-thepiratesproxy.org###fp > div
-thepiratesproxy.org###fp > nav
 ! PROFIT F
 profitf.com###text-28
 ! QUORA
