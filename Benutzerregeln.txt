@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.53
+! Version: 1.4.54
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -605,6 +605,7 @@ feedly.com#$#.list-entries { margin-left: -3px !important; }
 feedly.com#$#.button-refresh  { margin-right: -10px !important; }
 feedly.com#$#.save-for-later  { margin-left:  -12px !important; }
 feedly.com#$#span.ago { padding-right: .2rem !important; }
+feedly.com#$#.ShareBar__wrapper { width: auto !important; }
 ! Artikel: Abstände
 feedly.com#$##feedlyPart0.area { padding-left: 15px !important; }
 feedly.com#$##feedlyPageHeader { margin-right: 23px !important; margin-left: 11px !important; }
