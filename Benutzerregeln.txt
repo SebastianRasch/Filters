@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.58
+! Version: 1.4.59
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -404,6 +404,7 @@ designboom.com#$#.nav-search-toggler { top: 7px !important; }
 ! DI.FM
 di.fm##.content-module-wrapper
 di.fm##.premium-upsell
+di.fm##.side-nav-menu-item--premium
 di.fm##.temp-message.notice.visible
 di.fm##.get-apps-cta
 di.fm##[class^="premium-upsell-banner"]
@@ -524,10 +525,12 @@ feedly.com##.icon-fx-setting-gear-sm-black
 feedly.com##.m-r-h
 feedly.com##.AddToDatasetButton
 feedly.com##.hhint
+feedly.com##.EntryList__heading
 !feedly.com##.LeftnavDock__button:nth-child(n+2)
 feedly.com##.LeftnavDock__button:nth-child(2)
 feedly.com##.LeftnavDock__button:nth-child(3)
 feedly.com##.LeftnavListRow--link
+feedly.com##.LeftnavHeading__organize-button
 feedly.com##.LeftnavPin
 feedly.com##.nonempty.label
 feedly.com##.pinButton
@@ -1114,6 +1117,8 @@ live.com##.c_ic_bar.c_ic_greenframe
 livingathome.de##[class="lp_mwi_dialog-overlay lp_mwi_dialog-overlay--is-active"]
 ! LUFTHANSA
 lufthansa.com##.pi-privacy
+lufthansa.com##.alert-container
+lufthansa.com##.badge-count
 ! MAC EINSTEIGER
 maceinsteiger.de##.opener
 maceinsteiger.de###break_ivolution4
@@ -1375,10 +1380,13 @@ simyo.de##*#nbo_SIM_NBO_POSTP_PP_TREU
 ! SKATTEVERKET
 skatteverket.se##.alertWrp
 ! SKYSCANNER
-skyscanner.de##.FlightsInline_link__3Quln
-skyscanner.de##.clearfix.fss-cross-sell-inline
-skyscanner.ie##.fss-cross-sell-inline.clearfix
-skyscanner.de###sidebar
+skyscanner.se##.FlightsInline_link__3Quln
+skyscanner.se##.clearfix.fss-cross-sell-inline
+skyscanner.se##.fss-cross-sell-inline.clearfix
+skyscanner.se###sidebar
+skyscanner.se##.InlineHotelsBanner_inlineHotelsBannerContainer__3_3dy
+skyscanner.se##.InlineBrandBanner_link__3-w4T
+skyscanner.se###price-alerts
 ! SL
 sl.se##.campaign-message
 ! SMARTEYES
