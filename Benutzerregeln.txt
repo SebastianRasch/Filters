@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.60
+! Version: 1.4.61
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -812,11 +812,11 @@ golem.de###WPuLmJQ
 golem.de###ioTtTYB
 golem.de###a2a-popup
 golem.de###bannerTopWrapper
+golem.de###small-header
 golem.de###contact
 golem.de###followers
 golem.de###followrss
 golem.de###gftroba
-golem.de###grandwrapper > DIV:first-child
 golem.de###gservices
 golem.de###gts-clip
 golem.de###hn1-audio
