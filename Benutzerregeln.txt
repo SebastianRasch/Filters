@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.61
+! Version: 1.4.62
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1202,6 +1202,7 @@ mywot.com##[class^="StyledScorecard__ScorecardSideBannerContainer"]
 mywot.com###wot-install-button
 ! NESPRESSO
 nespresso.com###sticky-banner
+nespresso.com###vup-august-terms
 nespresso.com###cofSubBan
 nespresso.com##[id^="machinesubscription-plp-topbanner"]
 nespresso.com##[id^="machinesubscription-home-topbanner"]
