@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.62
+! Version: 1.4.63
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1210,6 +1210,7 @@ nespresso.com##[id^="n-hero-cta-"]
 nespresso.com##n-cards-highlight-container
 nespresso.com##n-plp-dynamic-banner
 nespresso.com##n-banner
+nespresso.com#$#.MiniBasketDropdown { margin-top: -2px !important; }
 ! NIKE
 nike.com##.loading-screen
 ! NIKON RUMORS
