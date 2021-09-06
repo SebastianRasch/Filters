@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 2.5.1
+! Version: 2.6
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -138,8 +138,17 @@ golem.de##.nav-main > li:nth-child(n+14)
 golem.de##.social-sticky
 golem.de##.toggle-nav
 golem.de##[id^="mob_afcbecoh"]
+golem.de###seminars
+golem.de###side-panel__open
 golem.de###mob_art1
 golem.de###pre-thread > a:nth-child(2)
+golem.de###screen > div:first-child
+golem.de###screen > article:nth-child(3) > div.formatted:nth-child(2) > div:nth-child(2)
+golem.de###grandwrapper > div:nth-child(3)
+golem.de###nl-banner
+golem.de###screen > div.clearfix:nth-child(5)
+golem.de###tusplit1
+golem.de###tusplit2
 golem.de##footer > nav
 google.de##.ads-fr
 google.de##.commercial-unit-mobile-top
@@ -161,6 +170,7 @@ google.de###botstuff > div > div:nth-child(4)
 google.de###botstuff > div > div:nth-child(5)
 google.de###tscffb
 google.de##g-card > .bUNBRd.mnr-c
+google.de###stUuGf > div > div.FAVrq.it9gVe.gdwOPe.mB14jb.eofmDb:last-child
 google.de##.AuP6le.VTZT1b.kno-ftr:last-child
 hallon.se##article.messagebox
 heise.de##.akwa-ad-container
@@ -213,6 +223,7 @@ macuser.de##.linkGroup
 macuser.de##.xbMobileBar
 macuser.de###logoBlock
 mail1a.de##center:first-child > iframe:last-child
+mashable.com##[id^="incontent-"]
 n-tv.de##.download-app
 n-tv.de##.social-services
 n-tv.de##.teaser
