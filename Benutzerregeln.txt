@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.4.63
+! Version: 1.5.0
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1625,15 +1625,19 @@ weather.com##.region-top.region
 welt.de##.c-inline-element--has-commercials
 welt.de##.c-la-loading
 welt.de##.c-taboola.nocontent
-welt.de##.c-teaser-inline
+welt.de##.external-more-like-this-taboola-marker
+welt.de##[data-qa="InlineTeaser"]
+welt.de##[data-component="OEmbedComponent"]
 welt.de##[data-qa="MoreLikeThisArticles"]
-welt.de###Comments > DIV:last-child
+welt.de##[data-qa="Comments.Container"] > DIV > DIV:first-child
+welt.de##[data-qa="Comments.Container"] > DIV > DIV:last-child > DIV:nth-last-child(-n+2)
 welt.de#$#.c-stage--has-theme { padding-bottom: 5px !important; }
 welt.de#$#.c-grid__item.c-grid__item--is-full.c-grid__item--has-gap { margin-bottom: 0 !important; }
 welt.de#$#.c-content-container { max-width: 100% !important; }
 welt.de#$#.c-container--has-full-width, .c-inline-element { margin-left: 0 !important; margin-right: 0 !important; }
 welt.de#$#.c-article-text { text-align: justify !important; }
 welt.de#$#.c-sticky-video__body--is-fixed { margin-left: -1.85rem !important; }
+welt.de#$#.c-social-bar, .c-social-bar--is-sticky { margin-left: -65px !important; }
 welt.de#$#.c-image-element__caption { padding: .75rem !important; }
 ! WIKINVEST
 wikinvest.com##[class="sigfig-banner-holder"]
