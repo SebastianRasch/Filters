@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.5.2.3b3
+! Version: 1.5.3
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -455,6 +455,10 @@ digitaltrends.com##.m-pint-wrap:nth-of-type(2)
 ! DISQUS
 disqus.com##[class="padding-default"]
 disqus.com##[name="dsq-app5"]
+! DISTILLER
+distiller.com##.offers-background
+distiller.com###offers-section
+distiller.com###region-filters
 ! DUCKDUCKGO
 duckduckgo.com##.footer
 ! EBAY
@@ -485,6 +489,7 @@ engadget.com#$#.pt-45\@tp\+ { padding-top: 0 !important; }
 enpass.io##.cookie-notice-container
 ! FACEBOOK
 facebook.com##.cxgpxx05:nth-child(2) > div:first-child > div
+facebook.com###u_0_c_zN
 ! FAZ
 faz.net##.Editors
 faz.net##.FAZArtikelFunktionen
@@ -1076,6 +1081,8 @@ isohunt.to##IMG[src="/img/arrow-down-blue.png"]
 jibapps.com##[id="cboxOverlay"]
 jumpshare.com#$#.logo-wrapper { margin-top: 29px !important; }
 jumpshare.com#$#.viewer-header.clearfix > .logo-wrapper { margin-top: 17px !important; }
+! JOKER
+live.jokerswidget.org##.sidebar-chat
 ! JUST-EAT
 just-eat.ie##[class="menuCardMsg"]
 ! KAT
@@ -1181,6 +1188,8 @@ macworld.com##[class="sharing-tools"]
 mail1a.de##[class="cc_banner2-wrapper "]
 mail1a.de##[id="ZeroClipboardMovie_1"]
 mail1a.de##[src^="//adwol.com/"]
+! MALTWHISKY
+maltwhisky.de###tve_tcb2_blank-in-content-form
 ! MICROSOFT
 microsoft.com##.compareFixed
 ! MITTI
