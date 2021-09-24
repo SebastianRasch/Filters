@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.5.3
+! Version: 1.5.4
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -960,6 +960,7 @@ idownloadblog.com#$#body { padding-bottom: 0 !important; }
 idownloadblog.com#$#footer { padding: 10px 0 5px !important; }
 idownloadblog.com#$#article { border-bottom: none !important; }
 idownloadblog.com#$##idb-index #blog-posts { border-right: none !important; }
+idownloadblog.com#$#body, article > header { background-color: transparent !important; }
 ! IG
 ig.com##[class="sticky-footer"]
 ! IGNITION
