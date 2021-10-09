@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 2.6
+! Version: 2.7
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -75,6 +75,7 @@ designboom.com###header-banner-desktop > div.dboom-wrapper > a:nth-child(3) > im
 designboom.com###header-banner-mobile
 designboom.com###iFrameContainer
 di.se###pwOverlay
+dict.cc###adslot_rect
 dict.cc###mobilewebsitebanner
 dict.cc###overDiv
 dict.cc###shst
@@ -224,6 +225,7 @@ macuser.de##.xbMobileBar
 macuser.de###logoBlock
 mail1a.de##center:first-child > iframe:last-child
 mashable.com##[id^="incontent-"]
+nytimes.com###appContainer
 n-tv.de##.download-app
 n-tv.de##.social-services
 n-tv.de##.teaser
@@ -351,6 +353,7 @@ thekitchn.com##.ActionButtonRow
 thenextweb.com##.footer-links
 thenextweb.com##.footer-trending
 thenextweb.com##.split .sidebar
+theverge.com##.connatix-container
 theverge.com##.adblock-whitelist-messaging__article-wrapper
 theverge.com##.article__share-buttons
 theverge.com##.c-compact-river
