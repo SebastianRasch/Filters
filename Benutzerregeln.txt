@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.5.6
+! Version: 1.5.7
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -12,7 +12,7 @@
 ##.adwrapper
 ##.adsbygoogle
 ##[id^="div-gpt-ad-"]
-##[id*="-ad-"]
+##[id*="-ad-"]zeit.de##.topbar--turqoise
 ##[href^="http://easydownload4you.com"]
 ##[href^="http://starmediasearch.com"]
 #$#[src^="https://embed.podcasts.apple.com"] { max-width: 100% !important; }
@@ -1713,6 +1713,7 @@ zdnet.com##.breakingNewsContainer
 ! ZEIT
 ze.tt##.ph-app-banner-in-content
 ze.tt##.ph-article-oembed-wrapper.is-facebook
+zeit.de##.topbar--turqoise
 zeit.de##.ad-container
 zeit.de##.anzeige
 zeit.de##.article-interactions
