@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.5.10
+! Version: 1.5.11
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1088,7 +1088,7 @@ live.jokerswidget.org##.sidebar-chat
 jokerlivestream.xyz##.col-sm-3:last-child
 jokerlivestream.xyz##.col-xl-3.sidebar
 jokerlivestream.xyz###nwmlay
-jokerlivestream.xyz#$#.col-xl-9 { flex-basis, max-width: 100% !important; }
+jokerlivestream.xyz#$#.col-xl-9 { flex-basis: 100% !important; max-width: 100% !important; }
 ! JUST-EAT
 just-eat.ie##[class="menuCardMsg"]
 ! KAT
