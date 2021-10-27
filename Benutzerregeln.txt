@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.5.12
+! Version: 1.5.13
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1085,10 +1085,12 @@ jumpshare.com#$#.logo-wrapper { margin-top: 29px !important; }
 jumpshare.com#$#.viewer-header.clearfix > .logo-wrapper { margin-top: 17px !important; }
 ! JOKER
 live.jokerswidget.org##.sidebar-chat
+jokerlivestream.xyz##.col-lg-12
 jokerlivestream.xyz##.col-sm-3:last-child
 jokerlivestream.xyz##.col-xl-3.sidebar
 jokerlivestream.xyz###nwmlay
-jokerlivestream.xyz##.f1-podium-right
+jokerlivestream.xyz#$#.f1-podium-right { display: none !important; }
+jokerlivestream.xyz#$#.primary-links { display: inline !important; }
 jokerlivestream.xyz#$#.col-xl-9 { flex-basis: 100% !important; max-width: 100% !important; }
 ! JUST-EAT
 just-eat.ie##[class="menuCardMsg"]
