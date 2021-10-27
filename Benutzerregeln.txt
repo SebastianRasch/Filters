@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.5.14
+! Version: 1.5.15
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1092,6 +1092,7 @@ jokerlivestream.xyz##.f1-podium--link > span:last-child
 jokerlivestream.xyz#$#.f1-podium-subdetail { width: 440px !important; }
 jokerlivestream.xyz#$#.f1-podium-right-fixed { width: 50% !important; }
 jokerlivestream.xyz#$#.f1-podium-right { display: none !important; }
+jokerlivestream.xyz#$#.primary-links { display: inline !important; }
 jokerlivestream.xyz#$#.col-xl-9 { flex-basis: 100% !important; max-width: 100% !important; }
 jokerswidget.org#$#.col-xl-9 { flex-basis: 100% !important; max-width: 100% !important; }
 jokerswidget.org##.sidebar-chat
