@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.5.23
+! Version: 1.6.0
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
