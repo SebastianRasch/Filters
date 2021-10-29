@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.5.19
+! Version: 1.5.20
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -337,13 +337,19 @@ computerbase.de#$#:root { --gray2b: #fff !important; --gray3b: #fff !important; 
 computerbase.de#$#@media (prefers-color-scheme: dark) { :root:not(.light-mode) { --subheader-bgcolor: #121212 !important; --menu-bgcolor: #222 !important; --gray2b: #121212 !important; --gray3: #222 !important; --gray3b: #121212 !important; }}
 computerbase.de#$#.content-list > li { border-top: 0 !important; padding: .7em 0 1.1em !important; }
 ! Artikel
-computerbase.de#$#.row--article-view { padding: 0 !important; }
+computerbase.de#$#.row--article-view, .row, .padding-2 { padding: 0 !important; }
 computerbase.de#$#.article-view { padding: 1.25em 0 !important; }
 computerbase.de#$#.article-view__header, .text-width { max-width: none !important; padding: 0 !important; }
 computerbase.de#$#.article-view__content { text-align: justify !important; }
 computerbase.de#$#.article-view__h1, li.article-comment, .gist--right, table > thead { text-align: left !important; }
 computerbase.de#$#.border-image, .thumbs--align-captions figure, .article-view__footer  { border: none !important; }
 computerbase.de#$#.article-view__rectangle { display: none !important; }
+computerbase.de#$#.article-view__entry-nav { margin-bottom: 0 !important; }
+computerbase.de#$#.related-list { padding: 1.25em 0 !important; }
+computerbase.de#$#.entry-nav__prev:before { left: 0 !important; }
+computerbase.de#$#.entry-nav__next:before { right: 0 !important; }
+computerbase.de#$#.entry-nav__prev { padding-left: 45px !important; }
+computerbase.de#$#.entry-nav__next { padding-right: 45px !important; }
 computerbase.de#$#.blockquote:before, .twitter-tweet:before { left: -45px !important; }
 computerbase.de#$#.table { min-width: 100% !important; }
 computerbase.de#$#.image__wrap { max-width: none !important; }
