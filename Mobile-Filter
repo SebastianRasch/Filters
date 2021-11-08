@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 2.8.2
+! Version: 2.8.3
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -125,9 +125,20 @@ golem.de##.list-comments li:nth-child(4)
 golem.de##.list-comments li:nth-child(5n+8)
 golem.de##.media__teaser-list:nth-of-type(4) > li:nth-of-type(2)
 golem.de##.media__teaser-list:nth-of-type(4) > li:nth-of-type(6)
-golem.de##.has-gpure-btn:not(.has-gpure-btn > .t-wrapper)
 golem.de##.social-sticky
 golem.de##.toggle-nav
+golem.de##.nav-main > [rel="career"]
+golem.de##.nav-main > [rel="jobs"]
+golem.de##.nav-main > [rel="akademie"]
+golem.de##.nav-main > [rel="shifoo"]
+golem.de##.nav-main > [rel="golempc"]
+golem.de##.nav-main > [rel="profis"]
+golem.de##.nav-main > [rel="gymglish"]
+golem.de##.nav-main > [rel="preisvergleich"]
+golem.de##.nav-main > [rel="deals"]
+golem.de##.nav-main > [rel="audio"]
+golem.de##.nav-main > [rel="video"]
+golem.de##.nav-main > li:nth-child(n+14)
 golem.de##[id^="mob_afcbecoh"]
 golem.de###seminars
 golem.de###side-panel__open
@@ -135,7 +146,6 @@ golem.de###mob_art1
 golem.de###pre-thread > a:nth-child(2)
 golem.de###screen > div:first-child
 golem.de###screen > article:nth-child(3) > div.formatted:nth-child(2) > div:nth-child(2)
-golem.de###grandwrapper > div:nth-child(3)
 golem.de###nl-banner
 golem.de###screen > .clearfix:nth-child(5)
 golem.de###tusplit1
