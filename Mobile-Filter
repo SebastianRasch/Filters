@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 2.8
+! Version: 2.8.1
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -125,7 +125,7 @@ golem.de##.list-comments li:nth-child(4)
 golem.de##.list-comments li:nth-child(5n+8)
 golem.de##.media__teaser-list:nth-of-type(4) > li:nth-of-type(2)
 golem.de##.media__teaser-list:nth-of-type(4) > li:nth-of-type(6)
-golem.de##.has-gpure-btn > nav
+golem.de##.has-gpure-btn:not(.t-wrapper)
 golem.de##.social-sticky
 golem.de##.toggle-nav
 golem.de##[id^="mob_afcbecoh"]
