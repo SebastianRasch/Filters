@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.6.4
+! Version: 1.6.5
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1024,7 +1024,8 @@ investing.com###leftColumn > .largeTitle:nth-child(12)
 investing.com###footerWrapper > section.top
 investing.com###theDisclaimer
 investing.com##H2
-investing.com#$#.has-ads-free-promo-header { top: 38px !important; }
+investing.com#$#.navBar { top: 38px !important; }
+investing.com#$#.wrapper { padding-top: 120px !important; }
 investing.com#$##opinionsHpWidget, .TabContainer { margin-top: 35px !important; }
 ! IPHONEHACKS
 iphonehacks.com##.gsc-control-cse.gsc-control-cse-en
