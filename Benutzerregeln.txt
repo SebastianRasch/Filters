@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.6.5
+! Version: 1.6.6
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -13,11 +13,13 @@
 ##.adwrapper
 ##.adsbygoogle
 ##[id^="div-gpt-ad-"]
-##[id*="-ad-"]zeit.de##.topbar--turqoise
+##[id*="-ad-"]
 ##[href^="http://easydownload4you.com"]
 ##[href^="http://starmediasearch.com"]
-#$#[src^="https://embed.podcasts.apple.com"] { max-width: 100% !important; }
+##[src^="https://secure.adnxs.com"]
+###adsense
 ###js-gdpr-consent-banner
+#$#[src^="https://embed.podcasts.apple.com"] { max-width: 100% !important; }
 polygon.com, feedly.com#$#.twitter-tweet { width: 100% !important; }
 polygon.com, feedly.com#$#.EmbeddedTweet { max-width: 100% !important; }
 ||facebook.com/plugins/like_box.php*
