@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.6.2
+! Version: 1.6.3
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -801,6 +801,7 @@ godmode-trader.de###cookies-container
 godmode-trader.de###logo
 ! GOLEM
 golem.de##.activity.g6.g
+golem.de##.g.g6.g-ie6.activity
 golem.de##.article aside li:nth-last-child(2)
 golem.de##.forum #thread-detail ol li:nth-child(-4n+16):not([style^="overflow: hidden;"])
 golem.de##.forum #thread-list li:nth-child(-4n+16)
@@ -818,11 +819,11 @@ golem.de##.pcgh
 golem.de##.pcgh_head
 golem.de##[href^="https://www.awin1.com/cread.php"]
 golem.de##[class^="plista"]
-golem.de##[class="g g6 g-ie6 activity"]
 golem.de##[style*="min-height:266px;"]
 golem.de###WPuLmJQ
 golem.de###ioTtTYB
 golem.de###a2a-popup
+golem.de###side-panel__open
 golem.de###bannerTopWrapper
 golem.de###small-header
 golem.de###contact
@@ -874,36 +875,24 @@ forum.golem.de#$#.inputTextarea > textarea { width: 946px !important; margin-rig
 forum.golem.de#$#a.g3 { width: 860px !important; }
 forum.golem.de#$#p.g3 { width: 780px !important; }
 ! GOOGLE
-google.com##._fdd.std
-google.com##._Ubu
-google.com##.b2hzT
-google.com##.gb_fb.gb_lb.gb_za
-google.com###ad
-google.com###prm-pt
-google.com###taw
-google.com##g-section-with-header
-google.de##._fdd.std
-google.de##._Ubu
-google.de##.gb_fb.gb_lb.gb_za
-google.de###ad
-google.de###prm-pt
-google.de###taw
-google.se##._fdd.std
-google.se##._Ubu
-google.se##.gb_fb.gb_lb.gb_za
-google.se###ad
-google.se###prm-pt
-google.se###taw
 mail.google.com##DIV.nH.anT
+google.com,google.de,google.se##._fdd.std
+google.com,google.de,google.se##._Ubu
+google.com,google.de,google.se##.b2hzT
+google.com,google.de,google.se##.gb_fb.gb_lb.gb_za
+google.com,google.de,google.se###ad
+google.com,google.de,google.se###prm-pt
+google.com,google.de,google.se###taw
+google.com,google.de,google.se##g-section-with-header
 google.com,google.de,google.se#$##taw > div:nth-child(3) { padding: 0 !important; }
 google.com,google.de,google.se#$##sblsbb { height: 38px !important; }
-! Ergebnisse
+!Ergebnisse
 google.com,google.de,google.se#$#center_col, #res, div#extrares.med { padding-left: 0 !important; }
 google.com,google.de,google.se#$##resultStats { padding-left: 0 !important; }
 google.com,google.de,google.se#$#ol#rso { margin-right: 8px !important; }
 google.com,google.de,google.se#$#div#rg_s { margin-left: 4px !important; }
 google.com,google.de,google.se#$#g-scrolling-carousel { margin: -4px -20px 0 -3px !important; }
-! Farbe
+!Farbe
 google.com,google.de,google.se#$##hdtb-msb .hdtb-mitem.hdtb-msel, #hdtb-msb .hdtb-mitem.hdtb-msel-pre, #hdtb .hdtb-mitem a:active, #hdtb-more:active, .hdtb-mn-hd:active { color: #dd4b39 !important; }
 google.com,google.de,google.se#$#.YTDezd { background: #dd4b39 !important; }
 google.com,google.de,google.se#$#.kpbb { background-color: #d14836 !important; background-image: -webkit-linear-gradient(top, #dd4b39, #d14836) !important; border: 1px solid #d14836 !important; }
