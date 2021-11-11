@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.6.7
+! Version: 1.6.8
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -855,17 +855,16 @@ forum.golem.de##.g2.g:nth-of-type(4)
 forum.golem.de###recently
 forum.golem.de###screen > .g2.g
 forum.golem.de###small-ticker
-golem.de#$#[onclick*="rklmhit"] { display: none !important; }
-golem.de#$#.gbox_affiliate { display: none !important; }
-golem.de#$##grandwrapper { border-width: 10px 0 !important; }
+golem.de#$#.gbox_affiliate, [onclick*="rklmhit"] { display: none !important; }
+golem.de#$#.promos { border: none !important; margin: 0 !important; }
 golem.de#$#.header-wrapper { background-color: transparent !important; }
-golem.de#$##header { margin-top: 8px !important; }
-golem.de#$#div.golem-flip-std, body { margin-top: -18px !important; }
+golem.de#$#.golem-flip-std, body { margin-top: -18px !important; }
 golem.de#$#OL.list-pages {margin-left: 0 !important; }
-golem.de#$#DIV.g.g4.g-ie6 > ARTICLE > DIV { min-height: 0 !important; }
-golem.de#$#article, .formatted { text-align: justify !important; }
-golem.de#$#.toc { text-align: left !important; }
-golem.de#$#header.cluster-header, h1, h2, h3, h4, h5, h6, .dh1, .dh2, .dh3, .dh4, .dh5, .dh6 { text-align: left !important; }
+golem.de#$#.g.g4.g-ie6 > ARTICLE > DIV { min-height: 0 !important; }
+golem.de#$#.formatted, article { text-align: justify !important; }
+golem.de#$#.toc, header.cluster-header, h1, h2, h3, h4, h5, h6, .dh1, .dh2, .dh3, .dh4, .dh5, .dh6 { text-align: left !important; }
+golem.de#$##header { margin-top: 8px !important; }
+golem.de#$##grandwrapper { border-width: 10px 0 !important; }
 !Seite breitziehen
 golem.de#$#.g6 article { width: 100% !important; padding: 0 !important; }
 golem.de#$#.article .rmp-container:not(.rmp-fullscreen-on) { min-height: 595px !important; }
