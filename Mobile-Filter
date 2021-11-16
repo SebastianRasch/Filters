@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 2.9
+! Version: 2.10
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -129,18 +129,7 @@ golem.de##.media__teaser-list:nth-of-type(4) > li:nth-of-type(2)
 golem.de##.media__teaser-list:nth-of-type(4) > li:nth-of-type(6)
 golem.de##.social-sticky
 golem.de##.toggle-nav
-golem.de##.nav-main > [rel="career"]
-golem.de##.nav-main > [rel="jobs"]
-golem.de##.nav-main > [rel="akademie"]
-golem.de##.nav-main > [rel="shifoo"]
-golem.de##.nav-main > [rel="golempc"]
-golem.de##.nav-main > [rel="profis"]
-golem.de##.nav-main > [rel="gymglish"]
-golem.de##.nav-main > [rel="preisvergleich"]
-golem.de##.nav-main > [rel="deals"]
-golem.de##.nav-main > [rel="audio"]
-golem.de##.nav-main > [rel="video"]
-golem.de##.nav-main > li:nth-child(n+14)
+golem.de##.nav-main > li:not([rel="ticker"], [rel="video"], [rel="forum"])
 golem.de##[id^="mob_afcbecoh"]
 golem.de###seminars
 golem.de###side-panel__open
