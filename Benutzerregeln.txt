@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.6.8
+! Version: 1.6.9
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -307,6 +307,7 @@ computerbase.de##.wrapper--forum-footer-articles
 computerbase.de##.adbox
 computerbase.de##.promobar
 computerbase.de##.adblock-plea
+computerbase.de##.blackfriday
 computerbase.de##.block--ads
 computerbase.de##.block1--ads
 computerbase.de##.block1--pro-box
@@ -323,6 +324,7 @@ computerbase.de###preisvergleich
 computerbase.de##DIV[style^="height:312px;"]
 computerbase.de##[data-widget-key="xfes_thread_view_below_quick_reply_similar_threads"]
 ! Kopf
+computerbase.de#$#.block1.header, .block1.subheader { background-color: #295B99 !important; }
 computerbase.de#$#.homepage-link { transition: none !important; transform: scale(.66) !important; }
 computerbase.de#$#.mainmenu-nav { transition: none !important; transform: translateX(-50px) !important; }
 computerbase.de#$#.follow-links li:first-child { display: none !important; }
@@ -766,6 +768,8 @@ gamesradar.com#$#.nav-list.component-loaded { margin-top: -5px !important; }
 gamestar.de##.adp-admarker-text
 ! GENIUS
 genius.com##dfp-ad
+! GITHUB
+github.com#$#@media (prefers-color-scheme: light) { head { [content="var(--color-canvas-default)"] !important; } .Header { background-color: var(--color-canvas-default) !important; } .Header-link { color: var(--color-fg-default) !important; } .Header-link:hover, .Header-link:focus { color: var(--color-fg-subtle) !important; } header { border-bottom: 1px solid var(--color-border-default) !important; } .header-search-wrapper { background-color: var(--color-canvas-subtle) !important; border-color: var(--color-border-default) !important; } input::placeholder { color: darkgray !important; } }
 ! GIZMODO
 gizmodo.com, kinja.com, jalopnik.com, deadspin.com, jezebel.com, kotaku.com, lifehacker.com, theroot.com, splinternews.com, thetakeout.com, clickhole.com, theinventory.com, theonion.com##.blog-group-gizmodo > .sidebar > .sidebar__content
 gizmodo.com, kinja.com, jalopnik.com, deadspin.com, jezebel.com, kotaku.com, lifehacker.com, theroot.com, splinternews.com, thetakeout.com, clickhole.com, theinventory.com, theonion.com##.footer-subscribe
@@ -1782,6 +1786,7 @@ zeit.de##[id^="newsletter-signup-"]
 blog.zeit.de##.newsletter-teaser-box
 blog.zeit.de###colophon
 zeit.de#$#body { background-color: #fff !important; }
+zeit.de#$#@media (prefers-color-scheme: dark) { .nav, .page__content { background-color: #1F1F20 !important; }}
 zeit.de#$#.page__content { box-shadow: none !important; }
 zeit.de#$#.page__content, .article__item, .article__item--wide, .figure__caption, .video-figure__description { max-width: 55em !important; }
 ! Breite
