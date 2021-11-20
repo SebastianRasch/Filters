@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 2.10
+! Version: 2.11
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -123,13 +123,13 @@ gamesradar.com##DIV[style^="position: relative; box-sizing: border-box; height: 
 goal.com###myConsentFlow
 golem.de#$#.has-gpure-btn { min-height: 0 !important; }
 golem.de#$#.has-gpure-btn+#screen { padding-top: 126px !important; }
+golem.de##.nav-main > li:not([rel="ticker"], [rel="video"], [rel="forum"])
 golem.de##.list-comments li:nth-child(4)
 golem.de##.list-comments li:nth-child(5n+8)
 golem.de##.media__teaser-list:nth-of-type(4) > li:nth-of-type(2)
 golem.de##.media__teaser-list:nth-of-type(4) > li:nth-of-type(6)
 golem.de##.social-sticky
 golem.de##.toggle-nav
-golem.de##.nav-main > li:not([rel="ticker"], [rel="video"], [rel="forum"])
 golem.de##[id^="mob_afcbecoh"]
 golem.de###seminars
 golem.de###side-panel__open
@@ -142,6 +142,7 @@ golem.de###screen > .clearfix:nth-child(5)
 golem.de###tusplit1
 golem.de###tusplit2
 golem.de##footer > nav
+forum.golem.de##.teaser-widget
 forum.golem.de##.nav-main > li:nth-child(5)
 forum.golem.de##nav > .toggle-nav
 account.golem.de##.box-basic:nth-child(2)
