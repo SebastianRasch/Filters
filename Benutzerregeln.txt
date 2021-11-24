@@ -435,36 +435,6 @@ dict.cc###maincontent > div:nth-child(10)
 dict.cc#$#.td7cml, .td7nl, .td7cmr {background-color: rgb(233, 233, 233) !important; }
 dict.cc#$##maincontent { margin-left: 319px !important; }
 dict.cc#$##shst.noline { left: 1072px !important; }
-! DICT.LEO
-dict.leo.org##.app-footer-content
-dict.leo.org##.l-dict-adv
-dict.leo.org##.l-www-adv
-dict.leo.org##.m-top.m-right-medium
-dict.leo.org##.m-v-large
-dict.leo.org##.secondarydata.gray.ui-helper-hidden
-dict.leo.org##.viewnavigation
-dict.leo.org##[class="loadingcircle "]
-dict.leo.org###right.wgt
-dict.leo.org###secondColumn
-dict.leo.org###topBranding
-dict.leo.org#$#body { max-width: 950px !important; min-width: 150px !important; width: 100% !important; margin: 0 auto !important; }
-dict.leo.org#$#header { min-width: 150px !important; width: 100% !important; }
-dict.leo.org#$##mainContent { width: 100% !important; margin-top: -105px !important; }
-dict.leo.org#$#.l-dict-content { left: 0 !important; width: 100% !important; }
-dict.leo.org#$#.l-dict-content-main { left: 0 !important; right: 0 !important; }
-dict.leo.org#$#.l-www-content, .l-www-content-main { left: 0 !important; }
-dict.leo.org#$#.l-www-content { top: 153px !important; }
-! Suche
-dict.leo.org#$##searchBoxContainerLeft { top: 12px !important; left: 31px!important; }
-dict.leo.org#$##searchBoxContainerCenter { left: 288px !important; }
-dict.leo.org#$##searchBoxContainerRight { text-align: right !important; }
-dict.leo.org#$#.fl-right { padding-right: 20px !important; }
-dict.leo.org#$#.bs-1, #searchBar { box-shadow: none !important; }
-dict.leo.org#$#.section, .border { border: 0 !important; }
-! Footer
-dict.leo.org#$##footer, #footerWWW { width: 950px !important; text-align: center !important; left: unset !important; }
-dict.leo.org#$#.footer { border-top: none !important; }
-dict.leo.org#$##forumResults { padding-bottom: 28px !important; }
 ! DIGITALTRENDS
 digitaltrends.com##.m-pint-wrap:nth-of-type(2)
 ! DISQUS
