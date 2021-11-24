@@ -63,15 +63,6 @@ polygon.com, feedly.com#$#.EmbeddedTweet { max-width: 100% !important; }
 9to5mac.com##[class="jp-carousel-slide ad selected"]
 9to5mac.com##[class="jp-carousel-slide ad"]
 9to5mac.com###facebook-likebox-6
-! ABDUZEEDO
-abduzeedo.com##.node-collections > div > div > .col-2
-abduzeedo.com##.sstk_widget
-abduzeedo.com###block-adsensecontentbottom
-abduzeedo.com###block-contenttop
-abduzeedo.com###block-floatingad
-abduzeedo.com###fusion_ad
-abduzeedo.com###sidebar
-abduzeedo.com###block-broughttoyoubyads
 ! AERLINGUS
 aerlingus.com##A[href="/de/family-first/"]
 aerlingus.com##DIV[class="banners-wrapper"]
