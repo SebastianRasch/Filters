@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 3.1
+! Version: 3.2
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -209,7 +209,7 @@ localiiz.com###header-pre
 localiiz.com###header-top
 macrumors.com##.block--2_RlJqhg
 macrumors.com##.main--3s50rdtq > div:nth-of-type(4)
-macrumors.com##.footerLegal
+macrumors.com##.footerRow--1v7dvMKX
 macrumors.com##.funbox
 macrumors.com##.i-amphtml-layout:nth-child(14)
 macrumors.com##.newsletter
@@ -217,10 +217,8 @@ macrumors.com##.social
 macrumors.com###adUnder_mobile
 macrumors.com###fRight
 macrumors.com###staffList
-macrumors.com##[class^="colLinks--"]
-macrumors.com##[class^="colStaff--"] > div:last-child
-macrumors.com##[class^="colStaff--"] > .button
 macrumors.com##[class^="main--"] > div > h2
+forums.macrumors.com##FOOTER:not(.message-footer)
 macuser.de##.button.DisableOnSubmit
 macuser.de##.dataTable
 macuser.de##.footer_copyright
