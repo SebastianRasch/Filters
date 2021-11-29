@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 2.13
+! Version: 2.14
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -404,5 +404,5 @@ ze.tt###iqadtile1-mobile-wrapper
 ze.tt###iqadtile3-mobile-article-wrapper
 ze.tt###iqadtile4-mobile-article-wrapper
 zeit.de##.article-page #rawr-embed-auto
-zeit.de##.footer > itemscope
+zeit.de##.footer > DIV:last-child
 zeit.de##.nextread
