@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.6.11
+! Version: 1.6.12
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -773,7 +773,6 @@ golem.de##.article aside li:nth-last-child(2)
 golem.de##.forum #thread-detail ol li:nth-child(-4n+16):not([style^="overflow: hidden;"])
 golem.de##.forum #thread-list li:nth-child(-4n+16)
 golem.de##.list-articles [style^="padding:14px"]
-golem.de##.g.g6 > DIV:not(.specialletters,.topics)
 golem.de##.g2.g:nth-of-type(5)
 golem.de##.golem-forum_flattr
 golem.de##.plista_widget_belowVideo_v2
@@ -811,6 +810,8 @@ golem.de###pricehits
 golem.de###recently
 golem.de###related
 golem.de###screen > .g2
+golem.de###tusplit1 > .g.g6
+golem.de###tusplit2
 golem.de###small-ticker10
 golem.de###whitepaper
 golem.de##a.text1
@@ -825,6 +826,7 @@ golem.de#$#.promos { border: none !important; margin: 0 !important; }
 golem.de#$#.header-wrapper { background-color: transparent !important; }
 golem.de#$#.golem-flip-std, body { margin-top: -18px !important; }
 golem.de#$#OL.list-pages {margin-left: 0 !important; }
+golem.de#$#.wraptusplit { min-height: 0 !important; }
 golem.de#$#.g.g4.g-ie6 > ARTICLE > DIV { min-height: 0 !important; }
 golem.de#$#.formatted, article { text-align: justify !important; }
 golem.de#$#.toc, header.cluster-header, h1, h2, h3, h4, h5, h6, .dh1, .dh2, .dh3, .dh4, .dh5, .dh6 { text-align: left !important; }
