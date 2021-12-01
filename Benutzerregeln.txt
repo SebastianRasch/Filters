@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.6.12
+! Version: 1.6.13
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1068,10 +1068,11 @@ jokerswidget.org##.sidebar-chat
 ! JUST-EAT
 just-eat.ie##[class="menuCardMsg"]
 ! KAT
-katcr.co##[class="icon16"][href="#"]
-katcr.co##[class="line50perc showmore botmarg0"]
-katcr.co##TD[width="100%"] > div:nth-child(2)
-katcr.co##.list_group:last-child > .list_group__list_item:last-child
+kickasstorrents.to##[class="icon16"][href="#"]
+kickasstorrents.to##[class="line50perc showmore botmarg0"]
+kickasstorrents.to##TD[width="100%"] > div:nth-child(2)
+kickasstorrents.to##.list_group:last-child > .list_group__list_item:last-child
+kickasstorrents.to##.iaconbox.center.floatright
 ! KING WORLD NEWS
 kingworldnews.com##.post-content > [style="text-align: center;"]
 kingworldnews.com##.post-content > hr
@@ -1550,28 +1551,7 @@ tradingview.com##.control-bar-wrapper
 tradingview.com##.pane-separator
 tradingview.com###tv-toasts
 ! TRAKT
-trakt.tv##[class*="huckster"]
-trakt.tv##[class*="huck-ster"]
-trakt.tv##[class*="hu-ck-ster"]
-trakt.tv##[class*="hu-ck-st-er"]
-trakt.tv##[class*="hu-ck-s-t-er"]
-trakt.tv##[class*="hu-c-k-s-t-er"]
-trakt.tv##[class*="h-u-c-k-s-t-er"]
-trakt.tv##[class*="h-u-c-k-s-t-e-r"]
-trakt.tv##[class*="hu-ck--st-er"]
-trakt.tv##[class*="hu--ck--st-er"]
-trakt.tv##[class*="hu--ck--st--er"]
-trakt.tv##[id*="huckster"]
-trakt.tv##[id*="huck-ster"]
-trakt.tv##[id*="hu-ck-ster"]
-trakt.tv##[id*="hu-ck-st-er"]
-trakt.tv##[id*="hu-ck-s-t-er"]
-trakt.tv##[id*="hu-c-k-s-t-er"]
-trakt.tv##[id*="h-u-c-k-s-t-er"]
-trakt.tv##[id*="h-u-c-k-s-t-e-r"]
-trakt.tv##[id*="hu-ck--st-er"]
-trakt.tv##[id*="hu--ck--st-er"]
-trakt.tv##[id*="hu--ck--st--er"]
+trakt.tv##[class*="-grid-item"]
 trakt.tv##.toast-success
 trakt.tv###header-shop
 trakt.tv###loading-bg
