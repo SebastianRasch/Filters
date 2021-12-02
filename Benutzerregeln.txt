@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.6.13
+! Version: 1.6.14
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1068,10 +1068,6 @@ jokerswidget.org##.sidebar-chat
 ! JUST-EAT
 just-eat.ie##[class="menuCardMsg"]
 ! KAT
-kickasstorrents.to##[class="icon16"][href="#"]
-kickasstorrents.to##[class="line50perc showmore botmarg0"]
-kickasstorrents.to##TD[width="100%"] > div:nth-child(2)
-kickasstorrents.to##.list_group:last-child > .list_group__list_item:last-child
 kickasstorrents.to##.iaconbox.center.floatright
 ! KING WORLD NEWS
 kingworldnews.com##.post-content > [style="text-align: center;"]
