@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.6.14
+! Version: 1.6.15
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -770,8 +770,6 @@ godmode-trader.de###logo
 golem.de##.activity.g6.g
 golem.de##.g.g6.g-ie6.activity
 golem.de##.article aside li:nth-last-child(2)
-golem.de##.forum #thread-detail ol li:nth-child(-4n+16):not([style^="overflow: hidden;"])
-golem.de##.forum #thread-list li:nth-child(-4n+16)
 golem.de##.list-articles [style^="padding:14px"]
 golem.de##.g2.g:nth-of-type(5)
 golem.de##.golem-forum_flattr
@@ -839,6 +837,7 @@ golem.de#$#.g4, .golem-gallery2-inneritem img { width: 100% !important; }
 golem.de#$#.forum #thread-list h2 { background-position-x: 960px !important; }
 golem.de#$#[src^="https://www.youtube.com"] { width: 100% !important; height: 550px !important; overflow: hidden !important; }
 golem.de#$#.embedcontent.embedcontent-show { padding: 10px 0 !important; border: 0 !important; }
+forum.golem.de#$#.forum #thread-list li { border-top-style: none !important; }
 forum.golem.de#$#.inputTextarea > textarea { width: 946px !important; margin-right: 0 !important; }
 forum.golem.de#$#a.g3 { width: 860px !important; }
 forum.golem.de#$#p.g3 { width: 780px !important; }
