@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.6.24
+! Version: 1.6.25
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1330,6 +1330,7 @@ reuters.com##.Sticky_track:nth-of-type(4)
 reuters.com##.teads-inread.sm-screen
 reuters.com##.TwoColumnLayout_right
 reuters.com##.yospace-player-container.video-sticky
+reuters.com##[class^="RegistrationPrompt__container"]
 reuters.com##[data-template="article_list"] > DIV[style="position: relative; width: 100%; border: none; min-height: 1px; background-color: rgb(236, 236, 236); align-items: center; justify-content: center; overflow: hidden; background-position: initial initial; background-repeat: initial initial;"]
 reuters.com###article_video_player-poster
 reuters.com###breakingNewsContainer
