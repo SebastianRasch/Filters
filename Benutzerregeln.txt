@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.6.22
+! Version: 1.6.23
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1207,7 +1207,7 @@ nikonrumors.com##[name="dsq-app4"]
 nikonrumors.com##[src*="nikon_trade_in-banner"]
 nikonrumors.com##.widgetcontainer.widget_text
 ! NOMICS
-nomics.com##.fresnel-greaterThanOrEqual-md
+nomics.com##.fresnel-container:not(.nsh-menu-items)
 nomics.com##.anchor-section.relative
 nomics.com##.db-l.absolute.right-0:last-child
 ! O2 ONLINE
