@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.6.20
+! Version: 1.6.21
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1206,6 +1206,10 @@ nike.com##.loading-screen
 nikonrumors.com##[name="dsq-app4"]
 nikonrumors.com##[src*="nikon_trade_in-banner"]
 nikonrumors.com##.widgetcontainer.widget_text
+! NOMICS
+nomics.com##.fresnel-container
+nomics.com##.anchor-section.relative
+nomics.com##.db-l.absolute.right-0:last-child
 ! O2 ONLINE
 o2online.de##.height2
 ! OIL PRICE
