@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 3.3
+! Version: 3.4
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -302,8 +302,8 @@ reuters.com##[class^="RegistrationPrompt__container"]
 reuters.com##[class^="RegularArticleLayout__right-rail"]
 reuters.com##[class^="RegularArticleLayout__related"]
 reuters.com##footer > section:not(section:last-child)
-reuters.com##[class^="SiteFooter__content-container"] > [class^="SiteFooter__ad-links"], [class^="SiteFooter__disclaimer"]
-reuters.com##[class^="connatix__heading"]
+reuters.com##[class^="SiteFooter__content-container"] > [class^="SiteFooter__ad-links"], [class*="SiteFooter__disclaimer"]
+reuters.com##[class*="connatix__heading"]
 reuters.com###connatix-wrapper
 reuters.com###quJPzRip
 sl.se##.site-footer-block:first-child
