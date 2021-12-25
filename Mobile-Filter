@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 3.5
+! Version: 3.6
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -122,6 +122,14 @@ gamesradar.com###article-body > div:nth-child(5)
 gamesradar.com###content-after-image > section:first-child > div:nth-child(4)
 gamesradar.com###main #sidebar
 gamesradar.com##DIV[style^="position: relative; box-sizing: border-box; height: auto;"]
+gamespot.com##.promo-masthead-list
+gamespot.com##.footer-network-row:last-child
+gamespot.com##.image-gallery__list-item-aside
+gamespot.com##.image-gallery__list-wrapper > DIV > SCRIPT
+gamespot.com##.footer-links-mobile
+gamespot.com##.related-content
+gamespot.com###in-page-nav
+gamespot.com###below-content
 goal.com###myConsentFlow
 golem.de#$#.has-gpure-btn { min-height: 0 !important; }
 golem.de#$#.has-gpure-btn+#screen { padding-top: 126px !important; }
