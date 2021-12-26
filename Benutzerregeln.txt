@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.6.34
+! Version: 1.6.35
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -713,6 +713,7 @@ gamespot.com###below-content
 gamespot.com###in-page-nav
 gamespot.com#$#.article-body { margin: 0 !important; text-align: justify !important; }
 gamespot.com#$#.article-body > div > figure { width: 100% !important; }
+gamespot.com#$#[data-embed-type="video"] { margin-left: 0 !important; margin-right: 0 !important; }
 gamespot.com#$##default-content > .secondary-content { margin-top: 50px !important; }
 ! GAMESRADAR
 gamesradar.com##.author-block
