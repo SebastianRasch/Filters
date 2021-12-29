@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 3.9
+! Version: 3.10
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -247,6 +247,8 @@ newatlas.com##.social-bar
 newatlas.com##section.slab
 nikonrumors.com##.addtoany_share_save_container
 nikonrumors.com##.wptouch-showcase
+nomics.com##.fresnel-container:not(.nsh-menu-items > DIV > DIV)
+nomics.com##.anchor-section.relative
 nytimes.com##.css-mlcs8h.e1i2wxpm0
 nytimes.com##[class^="InlineMessage-inline--"]
 nytimes.com##[class^="Recirculation-collectionContent--"]
