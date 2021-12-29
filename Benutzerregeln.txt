@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.6.35
+! Version: 1.6.36
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -779,6 +779,7 @@ godmode-trader.de###adSpaceBorder_sponsoring-banner-oben
 godmode-trader.de###cookies-container
 godmode-trader.de###logo
 ! GOLEM
+golem.de##.logo-screen
 golem.de##.activity.g6.g
 golem.de##.g.g6.g-ie6.activity
 golem.de##.article aside li:nth-last-child(2)
@@ -831,6 +832,7 @@ forum.golem.de##.g2.g:nth-of-type(4)
 forum.golem.de###recently
 forum.golem.de###screen > .g2.g
 forum.golem.de###small-ticker
+golem.de#$#.logo-print { display: block !important; }
 golem.de#$#.gbox_affiliate, [onclick*="rklmhit"] { display: none !important; }
 golem.de#$#.promos { border: none !important; margin: 0 !important; }
 golem.de#$#.header-wrapper { background-color: transparent !important; }
@@ -840,7 +842,10 @@ golem.de#$#.wraptusplit { min-height: 0 !important; }
 golem.de#$#.g.g4.g-ie6 > ARTICLE > DIV { min-height: 0 !important; }
 golem.de#$#.formatted, article { text-align: justify !important; }
 golem.de#$#.toc, header.cluster-header, h1, h2, h3, h4, h5, h6, .dh1, .dh2, .dh3, .dh4, .dh5, .dh6 { text-align: left !important; }
-golem.de#$##header { margin-top: 8px !important; }
+golem.de#$##hn1-home, #hn1-ticker, #hn1-video, #hn1-forum { color: #000 !important; }
+golem.de#$##header .dh1 { margin-left: -2px !important; }
+golem.de#$##header nav { left: 230px !important; width: 770px !important; }
+golem.de#$##header { margin-top: 8px !important; background: #ffffff !important; }
 golem.de#$##grandwrapper { border-width: 10px 0 !important; }
 !Seite breitziehen
 golem.de#$#.g6 article { width: 100% !important; padding: 0 !important; }
