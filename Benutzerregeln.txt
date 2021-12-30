@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.7.1
+! Version: 1.7.2
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -849,6 +849,7 @@ golem.de#$##header input { height: 10px !important; }
 golem.de#$##header .dh1 { left: -2px !important; }
 golem.de#$#@media (prefers-color-scheme: dark) { .logo-screen { display: block !important; } .logo-print { display: none !important; } }
 golem.de#$#@media (prefers-color-scheme: light) { .logo-screen { display: none !important; } .logo-print { display: block !important; } }
+forum.golem.de#$#@media (prefers-color-scheme: light) { #header .dh1 { background-color: #000 !important; padding: 5px 7px !important; } }
 !Seite breitziehen
 golem.de#$#.g6 article { width: 100% !important; padding: 0 !important; }
 golem.de#$#.article .rmp-container:not(.rmp-fullscreen-on) { min-height: 595px !important; }
