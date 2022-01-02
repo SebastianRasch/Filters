@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 3.11
+! Version: 3.12
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -161,11 +161,15 @@ forum.golem.de##.nav-main > li:nth-child(5)
 forum.golem.de##nav > .toggle-nav
 forum.golem.de###screen > .information
 account.golem.de##.box-basic:nth-child(2)
+google.de##g-card > .mnr-c
 google.de##.ads-fr
 google.de##.commercial-unit-mobile-top
 google.de##.f570C
 google.de##.irc-deck:last-child
 google.de##.kno-ftr:last-child
+google.de##.mnr-c.fp-w.qs-ic.aig-grd
+google.de##.mnr-c > .card-section
+google.de##.AuP6le.VTZT1b.kno-ftr:last-child
 google.de##.qxsd.siXlze.yp1CPe.NV5pMe.a84NUc.CQKTwc.WDjuKe.gQkKBf.Iof2Le.mod:last-child
 google.de##.qxsd.xsZWvb.EfDVh.CQKTwc.WDjuKe.mod:nth-child(4)
 google.de##.qxsd.yp1CPe.xsZWvb.CQKTwc.WDjuKe.mod:last-child
@@ -173,16 +177,17 @@ google.de##.rKJOcDNwrHj__banner-eames-border-radius:last-child
 google.de##.x8dMse > div:last-child
 google.de##.xpd.O9g5cc.uUPGi:nth-child(15)
 google.de##.xpd.O9g5cc.uUPGi:nth-child(16)
-google.de##.xpdbox.xpdclose:nth-child(2) > div.ifM9O:first-child > div:nth-child(2) > div.kp-body:last-child >.qxsd.mod:nth-child(3)
+google.de##.xpdclose:nth-child(2) > div.ifM9O:first-child > div:nth-child(2) > div.kp-body:last-child > .qxsd.mod:nth-child(3)
 google.de##.xpdclose:nth-child(2) > div.ifM9O:first-child > div:nth-child(2) > div.kp-body:last-child > .qxsd.mod:last-child
-google.de###arc-srp10 > div:first-child > div > g-card
-google.de###arc-srp10 > div:first-child > div.srg > div.mnr-c > div.g.card-section
+google.de###dub_15
+google.de###bres
+google.de###tscffb
+google.de###rso > .mnr-c
+google.de###arc-srp_110 > div > div:nth-child(5)
+google.de###arc-srp10 > div > div > g-card
 google.de###botstuff > div > div:nth-child(4)
 google.de###botstuff > div > div:nth-child(5)
-google.de###tscffb
-google.de##g-card > .bUNBRd.mnr-c
-google.de###stUuGf > div > div.FAVrq.it9gVe.gdwOPe.mB14jb.eofmDb:last-child
-google.de##.AuP6le.VTZT1b.kno-ftr:last-child
+google.de###stUuGf > div > .FAVrq.it9gVe.gdwOPe.mB14jb.eofmDb:last-child
 hallon.se##article.messagebox
 heise.de##.akwa-ad-container
 heise.de##.footer-imprint__list--copyright
