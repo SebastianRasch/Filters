@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.7.3
+! Version: 1.7.4
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1622,6 +1622,7 @@ weather.com###teconsent
 weather.com##.region-top.region
 ! WELT
 welt.de##.c-page-header--is-sticky
+welt.de##.c-page-header-tools__item:first-child
 welt.de##.c-dialog__shadow
 welt.de##.c-tool-element--is-abo
 welt.de##.c-inline-teaser
