@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.7.7
+! Version: 1.7.8
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -696,6 +696,7 @@ gamefaqs.com##.pod.pod_gs
 ! GAMEINFORMER
 gameinformer.com##.title-activity-stream
 ! GAMESPOT
+gamespot.com##[data-embed-type="imageGallery"]
 gamespot.com##.promo-masthead-list
 gamespot.com##.footer-links
 gamespot.com##.image-gallery__list-item-aside
@@ -777,6 +778,7 @@ godmode-trader.de###cookies-container
 godmode-trader.de###logo
 ! GOLEM
 golem.de##.activity.g6.g
+golem.de##.g.g6.wraptusplit > .g.g6
 golem.de##.g.g6.g-ie6.activity
 golem.de##.article aside li:nth-last-child(2)
 golem.de##.list-articles [style^="padding:14px"]
