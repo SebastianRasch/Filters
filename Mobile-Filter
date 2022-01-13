@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 3.12
+! Version: 3.13
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -122,14 +122,21 @@ gamesradar.com###article-body > div:nth-child(5)
 gamesradar.com###content-after-image > section:first-child > div:nth-child(4)
 gamesradar.com###main #sidebar
 gamesradar.com##DIV[style^="position: relative; box-sizing: border-box; height: auto;"]
+gamespot.com##[data-embed-type="video"]
+gamespot.com##[id^="comments-block-"] > div:nth-child(2)
 gamespot.com##.promo-masthead-list
+gamespot.com##.secondary-content.medium-span5
+gamespot.com##.has-pad--max.overflow--hidden
+gamespot.com##.pod-recirc.pod-popular
 gamespot.com##.footer-network-row:last-child
 gamespot.com##.image-gallery__list-item-aside
 gamespot.com##.image-gallery__list-wrapper > DIV > .stub-leader
 gamespot.com##.footer-links-mobile
+gamespot.com##.js-mapped-ad
 gamespot.com##.js-seamless-content__page:not(.primary-content)
 gamespot.com##.related-content
 gamespot.com##.pod-related-games
+gamespot.com###onetrust-consent-sdk
 gamespot.com###in-page-nav
 gamespot.com###below-content
 gamespot.com#$#.image-gallery__image-wrapper { height: auto !important; }
@@ -192,6 +199,7 @@ hallon.se##article.messagebox
 heise.de##.akwa-ad-container
 heise.de##.footer-imprint__list--copyright
 heise.de##.shariff
+idownloadblog.com##.entry-social
 idownloadblog.com##.entryBody > .content > H2
 idownloadblog.com##.idb-block:nth-child(10)
 idownloadblog.com##.idb-block:nth-child(5)
