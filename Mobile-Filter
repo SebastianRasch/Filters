@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 3.14
+! Version: 3.15
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -57,6 +57,7 @@ cnn.com###footer-wrap
 cnn.com###social-share
 computerbase.de##div.text-asset > p.p
 computerbase.de##.adbox-wrapper
+computerbase.de##.promobar
 computerbase.de##.block1--abo-box
 computerbase.de##.block1--pro-box
 computerbase.de##.footer1
