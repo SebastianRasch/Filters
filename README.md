@@ -1,1 +1,1 @@
-Just some filter lists for AdGuard
+Just some user filters for AdGuard
