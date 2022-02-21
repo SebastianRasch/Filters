@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.7.12
+! Version: 1.8.0
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -198,13 +198,18 @@ blocket.se##[class^="MediumLayout__BodyRight-"]
 blocket.se##[class^="MediumLayout__CenterWithPadding-"] > div:first-child
 blocket.se###root > div.LayoutStyles__FullHeightWrapper-du5f0h-0.MediumLayout__Container-q6qal1-0.djgZzN:nth-child(3) > aside.MediumLayout__PuffWrapper-q6qal1-12.kqImFe:nth-child(5) > div.JobPuffs__PuffWrapper-sc-11j42ma-0.isWzDF
 blocket.se#$#.col-xs-9 { width: 100% !important; }
-! GAMEANALYTICS
-blog.gameanalytics.com##[class="panel"]
-blog.gameanalytics.com##[class="return_link"]
-blog.gameanalytics.com##[class="side-images"]
-blog.gameanalytics.com##[class="vacancy-block"]
-! GAMECOPYWORLD
-gamecopyworld.com##body > div:last-child
+! BINANCE
+binance.com##img.css-1ithwm4
+binance.com#$#.css-jmskxt, .css-6qqx1f { background-color: #FAFAFA !important; }
+binance.com#$#.css-4vx0ri, .css-d9xoa9, .css-10ofv3q, .css-1ghgn9y, .css-16xx8qo, .css-12e16i0 { background-color: #FFFFFF !important; }
+binance.com#$#.css-dpvb9s, .css-1iqe90x, .css-w6s4n4, .css-15he6up, .css-1tp5kus, .css-16s165w, .css-11onpk2 input, .css-1ef35y8, .css-ien7iv, .css-1xoflqm, .css-16xx8qo { color: #1E2329 !important; }
+binance.com#$#.css-plzhek { color: rgb(112, 122, 138) !important; }
+binance.com#$#.css-nht4qr:hover, .css-sup8gx:hover, .css-sup8gx.active, .css-16s165w:hover, .css-16s165w.active, .css-1poy6tl.active, .css-1poy6tl:hover, .css-ndzlyc { background-color: #F5F5F5 !important; }
+binance.com#$#.css-1ki30ro { border-bottom-color: rgb(234, 236, 239) !important; }
+binance.com#$#.css-11onpk2 { border-color: rgb(234, 236, 239) !important; }
+binance.com#$#.css-11onpk2:hover { border-color: rgb(240, 185, 11) !important; }
+binance.com#$#.css-1xoflqm:hover { color: rgb(240, 185, 11) !important; }
+binance.com##.css-1vr73xp
 ! BLOGLOVIN
 bloglovin.com##.fixed-bottom
 bloglovin.com##.fixed-top
@@ -289,6 +294,10 @@ cnn.com#$#.l-footer__content, .l-footer { padding-bottom: 0 !important; }
 cnn.com#$#.m-copyright-outercontainer, .m-footer-nav, .pg-rail-tall__wrapper { padding: 0 !important; }
 cnn.com#$#.zn-body__paragraph { text-align: justify !important; }
 cnn.com#$#@media screen and (min-width: 1100px) { .nav__container, .l-footer__content { margin: 0 auto !important; max-width: 935px !important; position: relative !important; right: 82px !important; } .pg-rail-tall > .l-container  { padding-right: 165px !important; }}
+! COINMARKETCAP
+coinmarketcap.com##.xahu3l-2
+coinmarketcap.com##.cards
+coinmarketcap.com##.sc-16r8icm-0.cGbbew
 ! COMPUTERBASE
 computerbase.de##.abo-link
 computerbase.de##.article-view__footer-ad
@@ -520,6 +529,7 @@ feedly.com##[data-alternate-link^="http://www.idownloadblog.com"] > .entryBody >
 feedly.com##[data-matching-uri*="academy"]
 feedly.com##[data-uri="filters"]
 feedly.com##[src="//s3.feedly.com/production/head/images/ab-ifttt.png"]
+feedly.com##[src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png"]
 feedly.com##[src="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"]
 feedly.com##[src="https://visuals.feedly.com/v1/resize?url=http%3A%2F%2Fs4.reutersmedia.net%2Fresources_v2%2Fimages%2Frcom-default.png&sizes=647x*!0.01"]
 feedly.com##[src$=".780x349.cZOq262i.jpg"]
@@ -691,6 +701,13 @@ flygresor.se##[class="box latest-searches"]
 ! FOCUS
 focus.de##[id^="google_ads_iframe"]
 focus.de###google_ads_iframe_\/3673\/focus\/homad_0
+! GAMEANALYTICS
+blog.gameanalytics.com##[class="panel"]
+blog.gameanalytics.com##[class="return_link"]
+blog.gameanalytics.com##[class="side-images"]
+blog.gameanalytics.com##[class="vacancy-block"]
+! GAMECOPYWORLD
+gamecopyworld.com##body > div:last-child
 ! GAMEFAQS
 gamefaqs.com##.pod.pod_gs
 ! GAMEINFORMER
@@ -912,7 +929,7 @@ hardwaremax.net##[id="gkBannerTop"]
 ! HARMANKARDON
 harmankardon.de##.cookie-modal
 ! HBO
-hbonordic.com##.q7p25
+hbomax.com##.q7p25
 ! HDENCODE
 hdencode.com##.box:nth-of-type(6)
 hdencode.com##.box:nth-of-type(7)
@@ -941,6 +958,28 @@ heise.de##section.article-sidebar
 heise.de##figure.branding
 heise.de#$#.article-layout__content, .a-article-header {max-width: 100% !important; }
 heise.de#$#@media screen and (min-width: 768px) { .perf-cls-reduc-leaderboard { min-height: 40px !important; }}
+! HI
+hi.com##.footer-referrer
+hi.com##.cookies-holder
+! ICQ
+web.icq.com#$#.im-main-page-block { border-right: 0 !important; }
+web.icq.com#$#.im-main-navbar { border-top: 0 !important; background-color: rgba(240,243,245) !important; }
+web.icq.com#$#.app-topbar { border-bottom: 0 !important; }
+web.icq.com#$#.im-message_self .im-message__bot-section, .im-message_self .im-message__text { background-color: rgb(214,255,224) !important; }
+web.icq.com#$#.im-message_self .im-message__date, .im-message_self .im-message-reactions .im-message-reaction__counter, .im-modal__thread .im-message-reactions .im-message-reaction__counter { color: rgb(10,189,71) !important; }
+web.icq.com#$#.im-list-entry_focused { background-color: rgb(29,207,103) !important; }
+web.icq.com#$#.im-favorite-avatar { background-color: rgb(56,237,128) !important; }
+web.icq.com#$#.im-list-entry_focused > .im-favorite-avatar { background-color: rgb(255,255,255) !important; }
+web.icq.com#$#.im-ui-button__main-navbar .im-app-icon__filled, .im-recent-item_min .im-list-entry_focused .im-avatarbox span, .im-file__ptt-play, .im-file__ptt-progress, .im-quick-menu__reaction:after { background-color: rgb(33,216,106) !important; }
+web.icq.com#$#.im-file__ptt-play:hover { background-color: rgb(30,195,96) !important; }
+web.icq.com#$#.im-list-entry_focused .im-recent-item__date, .im-list-entry_focused .im-recent-item__draft, .im-list-entry_focused .im-recent-item__msg, .im-list-entry_focused .im-recent-item__subtitle, .im-list-entry_focused .im-recent-item__subtitle__from, .im-list-entry_focused .im-recent-item__title.im-recent-item__title { color: rgb(255,255,255) !important; }
+web.icq.com#$#.im-cl-contact_self .im-recent-item__title, .im-file__ptt-duration, .im-message__from, .im-ui-button__main-navbar.tab-active div, .im-search-exit { color: rgb(0,184,77) !important; }
+web.icq.com#$#.im-search-exit:hover { background-color: rgb(0,168,70) !important; }
+web.icq.com#$#.im-file__ptt-play span { border-left-color: rgb(255,255,255) !important; }
+web.icq.com#$#.im-file__ptt-progress_box:before, .im-message_self .im-file__ptt-translate, .im-desktop .im-message_self .im-message-forward:hover, .im-desktop .im-message_self .im-message-forward:hover .im-message__text, .im-desktop .im-message_self .im-message-quote:hover, .im-desktop .im-message_self .im-message-quote:hover .im-message__text { background-color: rgb(200,249,212) !important; }
+web.icq.com#$#.im-message_self .im-file__ptt-translate:hover { background-color: rgb(177,246,194) !important; }
+web.icq.com#$#.im-file__ptt-translate span, .im-file__ptt-translate span:after { border-bottom-color: rgb(33,216,106) !important; border-top-color: rgb(33,216,106) !important; }
+web.icq.com#$#.im-message-quote { border-left-color: rgb(33,216,106) !important; }
 ! IDOWNLOADBLOG
 idownloadblog.com###ajax-load-more
 idownloadblog.com##.entry-social
@@ -1046,6 +1085,7 @@ iphonehacks.com#$#.title-area { margin-right: 12px !important; }
 iphonehacks.com#$#.top-bar-section { top: 8px !important; }
 iphonehacks.com#$#.top-bar-section > ul > li:not(.has-form) { border-width: 0 !important; }
 iphonehacks.com#$#[class*="column"] + [class*="column"]:last-child { padding-right: 1px !important; }
+iphonehacks.com#$#[id*="ezoic-pub-ad-placeholder"] { min-height: 0 !important; }
 iphonehacks.com#$#[src="http://cdn.iphonehacks.com/wp-content/uploads/2013/09/GetIt.jpg"] { float: left !important; }
 iphonehacks.com#$##content { width: 100% !important; border-right: none !important; padding: 15px 0 !important; }
 iphonehacks.com#$##header-blue ul li a { font-size: 14px !important; margin-top: 4px !important; }
@@ -1205,6 +1245,7 @@ medium.com###credential_picker_container
 ! MESSENGER
 messenger.com##._t
 messenger.com##._10.uiLayer._4-hy._3qw:not(._4ebx)
+messenger.com##.jb3vyjys.gl4o1x5y.qt6c0cv9.lt9micmv.g0mhvs5p
 messenger.com#$#.__6j._43kk { border: none !important; }
 ! MYWOT
 mywot.com##[class^="StyledScorecard__ScorecardSideBannerContainer"]
