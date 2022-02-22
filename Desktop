@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.8.1
+! Version: 1.8.2
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1093,7 +1093,7 @@ iphonehacks.com#$##main-wrapper { box-shadow: none !important; width: 875px !imp
 iphonehacks.com#$##wrapper { background: none !important; }
 iphonehacks.com#$##header-blue ul li a { font-size: 14px !important; margin-top: 4px !important; }
 iphonehacks.com#$#header { text-align: left !important; }
-iphonehacks.com#$#body { padding-bottom: 0 !important; }
+iphonehacks.com#$#body { height: 0 !important; }
 iphonehacks.com#$#figure.figure figcaption { padding: 8px 0 !important; }
 iphonehacks.com#$#h1 { font-size: 1.575rem !important; }
 iphonehacks.com#$#h2 { font-size: 1.2rem !important; }
