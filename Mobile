@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 3.19
+! Version: 3.20
 
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
@@ -233,6 +233,7 @@ iphonehacks.com###main-wrapper > div.row.nitefall_processed:nth-child(3)
 iphonehacks.com###sidebar
 iphonehacks.com###breadcrumbs
 iphonehacks.com###the-footer
+iphonehacks.com#$#body { padding-bottom: 0 !important; }
 ipsw.me##.alert-info
 kingworldnews.com##.post-content > p:nth-last-child(-n+5)
 kingworldnews.com##.ssba
