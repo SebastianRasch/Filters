@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.8.0
+! Version: 1.8.1
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1088,17 +1088,18 @@ iphonehacks.com#$#[class*="column"] + [class*="column"]:last-child { padding-rig
 iphonehacks.com#$#[id*="ezoic-pub-ad-placeholder"] { min-height: 0 !important; }
 iphonehacks.com#$#[src="http://cdn.iphonehacks.com/wp-content/uploads/2013/09/GetIt.jpg"] { float: left !important; }
 iphonehacks.com#$##content { width: 100% !important; border-right: none !important; padding: 15px 0 !important; }
-iphonehacks.com#$##header-blue ul li a { font-size: 14px !important; margin-top: 4px !important; }
-iphonehacks.com#$##main-wrapper { box-shadow: none !important; width: 875px !important; padding: 0 15px !important; }
 iphonehacks.com#$##menu-search-form { margin-top: 3px !important; margin-right: -64px !important; }
+iphonehacks.com#$##main-wrapper { box-shadow: none !important; width: 875px !important; padding: 0 15px !important; }
 iphonehacks.com#$##wrapper { background: none !important; }
+iphonehacks.com#$##header-blue ul li a { font-size: 14px !important; margin-top: 4px !important; }
+iphonehacks.com#$#header { text-align: left !important; }
+iphonehacks.com#$#body { padding-bottom: 0 !important; }
 iphonehacks.com#$#figure.figure figcaption { padding: 8px 0 !important; }
 iphonehacks.com#$#h1 { font-size: 1.575rem !important; }
 iphonehacks.com#$#h2 { font-size: 1.2rem !important; }
 iphonehacks.com#$#h3 { font-size: 1.1rem !important; }
 iphonehacks.com#$#h3.rpwe-title { line-height: 15px !important; }
 iphonehacks.com#$#h4 { font-size: 0.95rem !important; margin-top: 0.7rem !important; margin-bottom: 0.3rem !important; }
-iphonehacks.com#$#header { text-align: left !important; }
 ! IPSW.ME
 ipsw.me##.alert-dismissable
 ipsw.me##.frameForMoney
