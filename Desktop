@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.8.5
+! Version: 1.8.6
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -983,6 +983,7 @@ web.icq.com#$#.im-message-quote { border-left-color: rgb(33,216,106) !important;
 web.icq.com#$#.im-sidebar-delimiter { border-top-color: rgb(243,245,248) !important; }
 web.icq.com#$#.im-infopane { border-left-color: rgb(243,245,248) !important; }
 web.icq.com#$#.im-sidebar__topinfo-item .im-sidebar-topinfo__subtitle { color: rgb(131,134,144) !important; }
+web.icq.com#$#.im-ui-button__main-navbar.tab-active .im-msg-counter { border-color: rgb(232,250,240) !important; }
 ! IDOWNLOADBLOG
 idownloadblog.com###ajax-load-more
 idownloadblog.com##.entry-social
