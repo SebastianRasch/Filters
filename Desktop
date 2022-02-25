@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.8.11
+! Version: 1.8.12
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -968,6 +968,7 @@ web.icq.com#$#.im-main-navbar { border-top: 0 !important; background-color: rgba
 web.icq.com#$#.im-message_self .im-message__bot-section, .im-message_self .im-message__text { background-color: rgb(214,255,224) !important; }
 web.icq.com#$#.im-message_self .im-message__date, .im-message_self .im-message-reactions .im-message-reaction__counter, .im-modal__thread .im-message-reactions .im-message-reaction__counter { color: rgb(10,189,71) !important; }
 web.icq.com#$#.im-list-entry_focused { background-color: rgb(29,207,103) !important; }
+web.icq.com#$#.im-list-entry_focused .im-avatarmark { border-color: rgb(29,207,103) !important; }
 web.icq.com#$#.im-favorite-avatar { background-color: rgb(56,237,128) !important; }
 web.icq.com#$#.im-list-entry_focused > .im-favorite-avatar { background-color: rgb(255,255,255) !important; }
 web.icq.com#$#.im-ui-button__main-navbar .im-app-icon__filled, .im-recent-item_min .im-list-entry_focused .im-avatarbox span, .im-file__ptt-play, .im-file__ptt-progress, .im-quick-menu__reaction:after, .im-switch input[type=checkbox]:checked+.im-switch-lever, .im-switch.im-switch-checked>.im-switch-lever, .im-chat__history-go-down span, .im-tickbox.im-tickbox_checked, input[checked]+.im-tickbox, .im-search-tag_closable div:after, .im-msg-counter { background-color: rgb(33,216,106) !important; }
