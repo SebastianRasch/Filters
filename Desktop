@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.8.17
+! Version: 1.8.18
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -297,7 +297,7 @@ cnn.com#$#@media screen and (min-width: 1100px) { .nav__container, .l-footer__co
 ! COINMARKETCAP
 coinmarketcap.com##.xahu3l-2
 coinmarketcap.com##.cards
-coinmarketcap.com##.grid > .sc-16r8icm-0
+coinmarketcap.com##.grid > .sc-16r8icm-0:not(.container)
 coinmarketcap.com##.watermark
 ! COMPUTERBASE
 computerbase.de##.abo-link
