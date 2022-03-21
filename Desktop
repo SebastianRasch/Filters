@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.8.21
+! Version: 1.8.22
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -598,8 +598,8 @@ feedly.com#$##feedlyPart0.area { padding-left: 15px !important; }
 feedly.com#$##feedlyPageHeader { margin-right: 23px !important; margin-left: 11px !important; }
 feedly.com#$##feedlyPart { padding-right: 15px !important; }
 ! Mark all as read
-feedly.com#$#.giant-mark-as-read { border: none !important; padding-right: 11px !important; padding-left: 11px !important; }
-feedly.com#$#.giant-mark-as-read:hover { background-color: rgb(240 240 240) !important; }
+feedly.com#$#.GiantMarkAsRead       { background-color: rgba(0, 0, 0, 0.03) !important; border: none !important; padding-right: 11px !important; padding-left: 11px !important; }
+feedly.com#$#.GiantMarkAsRead:hover { background-color: rgba(0, 0, 0, 0.05) !important; border: none !important; }
 feedly.com#$#.theme--dark > #feedlyPersona > #feedlyChrome > #feedlyFrame > #feedlyPageHolderFX > #feedlyPageFX > .board > .giant-mark-as-read:hover { background-color: #2A2A2A !important; }
 feedly.com#$#.secondaryCallForAction:hover, .secondaryCallForAction { border: 0 !important; }
 feedly.com#$#.fx .button.secondary, .button-dropdown { border: none !important; }
