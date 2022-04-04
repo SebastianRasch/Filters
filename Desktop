@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.8.23
+! Version: 1.8.24
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -293,11 +293,15 @@ cnn.com#$#.el__leafmedia--standard, .el__video--fullwidth, .el__featured-video--
 cnn.com#$#.l-footer__content, .l-footer { padding-bottom: 0 !important; }
 cnn.com#$#.m-copyright-outercontainer, .m-footer-nav, .pg-rail-tall__wrapper { padding: 0 !important; }
 cnn.com#$#.zn-body__paragraph { text-align: justify !important; }
+cnn.com#$#.lcJwCV, .ewmEKt, .edQeav, .dsAzUG, .DYkmP:link, .DYkmP:visited, .DYkmP:hover, .DYkmP:active { color: rgb(12, 12, 12) !important; }
+cnn.com#$#header { background-color: rgba(245, 245, 245, 1) !important }
+cnn.com#$#header::before { border-bottom-color: transparent !important; }
 cnn.com#$#@media screen and (min-width: 1100px) { .nav__container, .l-footer__content { margin: 0 auto !important; max-width: 935px !important; position: relative !important; right: 82px !important; } .pg-rail-tall > .l-container  { padding-right: 165px !important; }}
 ! COINMARKETCAP
 coinmarketcap.com##.xahu3l-2
 coinmarketcap.com##.cards
 coinmarketcap.com##.grid > .sc-16r8icm-0:not(.container)
+coinmarketcap.com##.sc-1snuar3-11.cIdfQu:first-child
 coinmarketcap.com##.watermark
 ! COMPUTERBASE
 computerbase.de##.abo-link
@@ -861,6 +865,7 @@ golem.de#$#.wraptusplit { min-height: 0 !important; }
 golem.de#$#.g.g4.g-ie6 > ARTICLE > DIV { min-height: 0 !important; }
 golem.de#$#.formatted, article { text-align: justify !important; }
 golem.de#$#.toc, header.cluster-header, h1, h2, h3, h4, h5, h6, .dh1, .dh2, .dh3, .dh4, .dh5, .dh6 { text-align: left !important; }
+golem.de#$#.social-tools { display: none !important; }
 golem.de#$##grandwrapper { border-width: 10px 0 !important; }
 golem.de#$##header { margin-top: 8px !important; background: #ffffff !important; }
 golem.de#$##header nav { left: 230px !important; width: 770px !important; }
@@ -1683,6 +1688,7 @@ welt.de##.c-taboola.nocontent
 welt.de##.c-page-container.u-is-hidden-print
 welt.de##.c-page-footer__section:nth-child(n+2)
 welt.de##.c-page-footer-navigation__link-main:last-child
+welt.de##.c-end-screen
 welt.de##.external-more-like-this-taboola-marker
 welt.de##[data-content="Stage.Commercial"]
 welt.de##[data-component="OEmbedComponent"]
@@ -1727,6 +1733,7 @@ wired.com#$#.grid-margins { display: block !important; max-width: 900px !importa
 wired.com#$#.gallery__text-block, .gallery-slide-caption__dek { text-align: justify !important; }
 wired.com#$#.content-header__title-block, .content-header__accreditation { max-width: 900px !important; margin: auto !important; }
 ! YOUTUBE
+youtube.com##yt-related-chip-cloud-renderer
 youtube.com##[class^="ad-"]
 youtube.com##.html5-endscreen
 youtube.com##.autoplay-bar
