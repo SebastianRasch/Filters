@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.8.28
+! Version: 1.8.29
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1633,8 +1633,8 @@ tradingdesk.finanzen.net##[class="slide-aside"]
 ! TRADINGVIEW
 tradingview.com##.control-bar-wrapper
 tradingview.com##.pane-separator
+tradingview.com##[data-role="toast-container"]
 tradingview.com###tv-toasts
-tradingview.com##[class*="toast-positioning-wrapper-"]
 ! TRAKT
 trakt.tv##[class*="-grid-item"]
 trakt.tv##.toast-success
