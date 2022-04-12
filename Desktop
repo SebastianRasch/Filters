@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.8.30
+! Version: 1.8.31
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -82,6 +82,8 @@ aliexpress.com##[id="top-banner-container"]
 alternate.de###specialArea
 alternate.de#$#body { background: none !important; }
 ! AMAZON
+amazon.co.uk,amazon.com,amazon.de##.prime-ad-banner-content
+amazon.co.uk,amazon.com,amazon.de###widget-rightUpsellSlot
 amazon.co.uk,amazon.com,amazon.de###centerBelowExtra
 amazon.co.uk,amazon.com,amazon.de###centerBelowPlus
 amazon.co.uk,amazon.com,amazon.de###nav-swmslot
@@ -602,8 +604,8 @@ feedly.com#$##feedlyPart0.area { padding-left: 15px !important; }
 feedly.com#$##feedlyPageHeader { margin-right: 23px !important; margin-left: 11px !important; }
 feedly.com#$##feedlyPart { padding-right: 15px !important; }
 ! Mark all as read
-feedly.com#$#.GiantMarkAsRead       { background-color: rgba(0, 0, 0, 0.03) !important; border: none !important; padding-right: 11px !important; padding-left: 11px !important; }
-feedly.com#$#.GiantMarkAsRead:hover { background-color: rgba(0, 0, 0, 0.05) !important; border: none !important; }
+feedly.com#$#.GiantMarkAsRead       { background-color: #f6f7f8 !important; border: none !important; padding-right: 11px !important; padding-left: 11px !important; }
+feedly.com#$#.GiantMarkAsRead:hover { background-color: f1f2f4 !important; border: none !important; }
 feedly.com#$#.theme--dark > #feedlyPersona > #feedlyChrome > #feedlyFrame > #feedlyPageHolderFX > #feedlyPageFX > .board > .giant-mark-as-read:hover { background-color: #2A2A2A !important; }
 feedly.com#$#.secondaryCallForAction:hover, .secondaryCallForAction { border: 0 !important; }
 feedly.com#$#.fx .button.secondary, .button-dropdown { border: none !important; }
@@ -739,6 +741,7 @@ gamespot.com#$#.article-body { margin: 0 !important; text-align: justify !import
 gamespot.com#$#.article-body > div > figure { width: 100% !important; }
 gamespot.com#$#[data-embed-type="video"] { margin-left: 0 !important; margin-right: 0 !important; }
 gamespot.com#$##default-content > .secondary-content { margin-top: 50px !important; }
+gamespot.com#$##upvote_upvote:not(.upvoted) { padding-bottom: 4px !important; }
 ! GAMESRADAR
 gamesradar.com##.author-block
 gamesradar.com##.jump-to-comments
@@ -1679,6 +1682,7 @@ wargamer.com##.background_link
 weather.com###teconsent
 weather.com##.region-top.region
 ! WELT
+welt.de##.c-breaking
 welt.de##.c-page-header--is-sticky
 welt.de##.c-page-header-tools__item:first-child
 welt.de##.c-dialog__shadow
