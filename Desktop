@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.8.32
+! Version: 1.8.33
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -295,8 +295,10 @@ cnn.com#$#.el__leafmedia--standard, .el__video--fullwidth, .el__featured-video--
 cnn.com#$#.l-footer__content, .l-footer { padding-bottom: 0 !important; }
 cnn.com#$#.m-copyright-outercontainer, .m-footer-nav, .pg-rail-tall__wrapper { padding: 0 !important; }
 cnn.com#$#.zn-body__paragraph { text-align: justify !important; }
-cnn.com#$#.lcJwCV, .ewmEKt, .edQeav, .dsAzUG, .DYkmP:link, .DYkmP:visited, .DYkmP:hover, .DYkmP:active { color: rgb(12, 12, 12) !important; }
-cnn.com#$#header { background-color: rgba(245, 245, 245, 1) !important }
+cnn.com#$#[data-role="nav-links"] > ul > li > a, [data-test="moreMenu"] > div > li, [data-test="moreMenu"] > div > ul > li > a, #menuButton, [aria-label="AudioLink"], [data-test="searchButton"] { color: rgb(12, 12, 12) !important; }
+cnn.com#$#[data-role="nav-links"] > ul > li > a:hover, [data-test="moreMenu"] > div > ul > li > a:hover, #menuButton:hover, [aria-label="AudioLink"]:hover, [data-test="searchButton"]:hover { color: gray !important; }
+cnn.com#$#[data-test="moreMenu"] > div > ul > li { border-bottom-color: white !important; }
+cnn.com#$#[data-test="moreMenu"] > div, header { background-color: rgba(245, 245, 245, 1) !important }
 cnn.com#$#header::before { border-bottom-color: transparent !important; }
 cnn.com#$#@media screen and (min-width: 1100px) { .nav__container, .l-footer__content { margin: 0 auto !important; max-width: 935px !important; position: relative !important; right: 82px !important; } .pg-rail-tall > .l-container  { padding-right: 165px !important; }}
 ! COINMARKETCAP
