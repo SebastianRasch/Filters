@@ -1,6 +1,13 @@
 ! Title: Mobilerate pronkoderke
-! Version: 3.27
+! Version: 3.28
 
+80.lv##main > div:last-child > div:last-child
+80.lv##main > div:first-child
+80.lv##.Article__widget_type_pre-sale
+80.lv##[aria-label="Position for custom"]
+80.lv##[data-widget="author"] > div:last-child > div:last-child > div:last-child
+80.lv###__next > div:first-child > div:nth-last-child(2)
+80.lv#$#.Author__row_comments { margin-bottom: 0 !important; }
 9to5mac.com##.amp-wp-7023da7
 9to5mac.com##.featured-carousel:nth-child(7)
 9to5mac.com##.infinite-loader
