@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.8.34
+! Version: 1.8.35
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -53,8 +53,10 @@ polygon.com, feedly.com#$#.EmbeddedTweet { max-width: 100% !important; }
 80.lv##article > div > div:last-child
 80.lv##.Article__widget_type_pre-sale
 80.lv##[aria-label="Position for custom"]
+80.lv##[data-widget="author"] > div:last-child > div:last-child > div:last-child
 80.lv###__next > div:first-child > div:nth-last-child(2)
 80.lv#$#article > div > [data="article"], [data-widget-size="full"] { width: 100% !important; }
+80.lv#$#.Author__row_comments { margin-bottom: 0 !important; }
 ! 9T05MAC
 9to5mac.com##.author-gear
 9to5mac.com##.Google_feed
