@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.8.33
+! Version: 1.8.34
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -47,6 +47,14 @@ polygon.com, feedly.com#$#.EmbeddedTweet { max-width: 100% !important; }
 4kfilme.de##[id="text-58"]
 4kfilme.de##[src*="werbung-horizontal"]
 4kfilme.de##[src*="werbung-vertikal"]
+! 80.LV
+80.lv##main > div:last-child > div:last-child
+80.lv##main > div:first-child
+80.lv##article > div > div:last-child
+80.lv##.Article__widget_type_pre-sale
+80.lv##[aria-label="Position for custom"]
+80.lv###__next > div:first-child > div:nth-last-child(2)
+80.lv#$#article > div > [data="article"], [data-widget-size="full"] { width: 100% !important; }
 ! 9T05MAC
 9to5mac.com##.author-gear
 9to5mac.com##.Google_feed
