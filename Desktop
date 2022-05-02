@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.9.03
+! Version: 1.9.04
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1031,6 +1031,7 @@ ijunkie.com##.like_panel
 ijunkie.com##.related_wrap
 ijunkie.com##.related_box
 ijunkie.com##.apple_product
+ijunkie.com##.back-to-top
 ijunkie.com##footer > .container > .row > div.col-4:nth-child(2)
 ijunkie.com#$#.col-8 { max-width: 100% !important; flex: 0 0 100% !important; }
 ijunkie.com#$#.details_wrap > p > img { width: 100% !important; }
