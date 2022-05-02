@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.8.35
+! Version: 1.9.00
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1022,6 +1022,15 @@ ig.com##[class="sticky-footer"]
 ignition.fun##.content-block-inner
 ignition.fun##.hide-bars-on-scroll.page-content > .content-block-title
 ignition.fun##.hide-bars-on-scroll.page-content > center
+! IJUNKIE
+ijunkie.com##footer > .container > .row > div.col-4:nth-child(2)
+ijunkie.com##.subscribe
+ijunkie.com##.apple_product
+ijunkie.com##.subscribe_panel
+ijunkie.com##.like_panel
+ijunkie.com##.related_wrap
+ijunkie.com#$#.col-8 { max-width: 100% !important; flex: 0 0 100% !important; }
+ijunkie.com#$#.details_wrap > p > img { width: 100% !important; }
 ! INSPIRATIONDE
 inspirationde.com##.sidebar.sidebar-right-single
 inspirationde.com##.textwidget
@@ -1082,51 +1091,6 @@ investing.com##H2
 investing.com#$#.navBar { top: 38px !important; }
 investing.com#$#.wrapper { padding-top: 120px !important; }
 investing.com#$##opinionsHpWidget, .TabContainer { margin-top: 35px !important; }
-! IPHONEHACKS
-iphonehacks.com##.gsc-control-cse.gsc-control-cse-en
-iphonehacks.com##.at-tli
-iphonehacks.com##.at4-follow-inner
-iphonehacks.com##.connatix
-iphonehacks.com##.entry-utility
-iphonehacks.com##.hentryr.desktop
-iphonehacks.com##.optin-monster-saas-overlay
-iphonehacks.com##.social-wid
-iphonehacks.com##.sw-pinit-button
-iphonehacks.com##.swp_social_panel
-iphonehacks.com##[id$="-optin"]
-iphonehacks.com###at4-recommendedbox
-iphonehacks.com###at4-share
-iphonehacks.com###at4-toaster
-iphonehacks.com###atstbx
-iphonehacks.com###breadcrumbs
-iphonehacks.com###ctx-module
-iphonehacks.com###menu-search-form
-iphonehacks.com###om-slide-converse-optin
-iphonehacks.com###sidebar
-iphonehacks.com###text-20
-iphonehacks.com###the-footer
-iphonehacks.com##font[size="3"]
-iphonehacks.com#$#.entry-content figure img:not([src="http://cdn.iphonehacks.com/wp-content/uploads/2013/09/GetIt.jpg"]), figure.figure, .sw-pinit.aligncenter, .large-8 { width: 100% !important; }
-iphonehacks.com#$#.featured-content { margin-bottom: 15px !important; }
-iphonehacks.com#$#.title-area { margin-right: 12px !important; }
-iphonehacks.com#$#.top-bar-section { top: 8px !important; }
-iphonehacks.com#$#.top-bar-section > ul > li:not(.has-form) { border-width: 0 !important; }
-iphonehacks.com#$#[class*="column"] + [class*="column"]:last-child { padding-right: 1px !important; }
-iphonehacks.com#$#[id*="ezoic-pub-ad-placeholder"] { min-height: 0 !important; }
-iphonehacks.com#$#[src="http://cdn.iphonehacks.com/wp-content/uploads/2013/09/GetIt.jpg"] { float: left !important; }
-iphonehacks.com#$##content { width: 100% !important; border-right: none !important; padding: 15px 0 !important; }
-iphonehacks.com#$##menu-search-form { margin-top: 3px !important; margin-right: -64px !important; }
-iphonehacks.com#$##main-wrapper { box-shadow: none !important; width: 875px !important; padding: 0 15px !important; }
-iphonehacks.com#$##wrapper { background: none !important; }
-iphonehacks.com#$##header-blue ul li a { font-size: 14px !important; margin-top: 4px !important; }
-iphonehacks.com#$#header { text-align: left !important; }
-iphonehacks.com#$#body { height: 0 !important; }
-iphonehacks.com#$#figure.figure figcaption { padding: 8px 0 !important; }
-iphonehacks.com#$#h1 { font-size: 1.575rem !important; }
-iphonehacks.com#$#h2 { font-size: 1.2rem !important; }
-iphonehacks.com#$#h3 { font-size: 1.1rem !important; }
-iphonehacks.com#$#h3.rpwe-title { line-height: 15px !important; }
-iphonehacks.com#$#h4 { font-size: 0.95rem !important; margin-top: 0.7rem !important; margin-bottom: 0.3rem !important; }
 ! IPSW.ME
 ipsw.me##.alert-dismissable
 ipsw.me##.frameForMoney
