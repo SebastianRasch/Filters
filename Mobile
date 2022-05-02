@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 3.28
+! Version: 4.00
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -228,23 +228,17 @@ idownloadblog.com###idb-sidebar
 idownloadblog.com###iDB_Mobile_Below_Content
 idownloadblog.com###sidebar .widget-area
 ignition.fun##.navbar-through > .page > .page-content > center
+ijunkie.com##footer > .container > .row > div.col-4:nth-child(2)
+ijunkie.com##.subscribe
+ijunkie.com##.apple_product
+ijunkie.com##.subscribe_panel
+ijunkie.com##.like_panel
+ijunkie.com##.related_wrap
 imgur.com##.qc-cmp-ui-container
 imgur.com##.cta-image
 imgur.com##.FooterOIA-container
 investing.com##.followUs
 investing.com##.js-disclaimer-box
-iphonehacks.com##.bc_ads
-iphonehacks.com##.cat-ads
-iphonehacks.com##.gsc-search-box
-iphonehacks.com##.large-12.columns:last-child
-iphonehacks.com##.mobile-ad
-iphonehacks.com##.nc_wrapper
-iphonehacks.com##.sw-pinit.aligncenter .sw-pinit-button
-iphonehacks.com###main-wrapper > div.row.nitefall_processed:nth-child(3)
-iphonehacks.com###sidebar
-iphonehacks.com###breadcrumbs
-iphonehacks.com###the-footer
-iphonehacks.com#$#body { height: 0 !important; }
 ipsw.me##.alert-info
 kingworldnews.com##.post-content > p:nth-last-child(-n+5)
 kingworldnews.com##.ssba
