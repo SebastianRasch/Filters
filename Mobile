@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.03
+! Version: 4.04
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -231,6 +231,7 @@ ignition.fun##.navbar-through > .page > .page-content > center
 ijunkie.com##header form
 ijunkie.com##.subscribe
 ijunkie.com##.subscribe_panel
+ijunkie.com##.subscribe_box
 ijunkie.com##.like_panel
 ijunkie.com##.related_wrap
 ijunkie.com##.related_box
