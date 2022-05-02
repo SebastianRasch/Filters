@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.04
+! Version: 4.05
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -228,7 +228,7 @@ idownloadblog.com###idb-sidebar
 idownloadblog.com###iDB_Mobile_Below_Content
 idownloadblog.com###sidebar .widget-area
 ignition.fun##.navbar-through > .page > .page-content > center
-ijunkie.com##header form
+ijunkie.com##.search_btn
 ijunkie.com##.subscribe
 ijunkie.com##.subscribe_panel
 ijunkie.com##.subscribe_box
