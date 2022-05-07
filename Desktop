@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.9.12
+! Version: 1.9.13
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -585,11 +585,10 @@ feedly.com#$#.theme--dark .LeftnavListRow { color: rgba(190, 190, 190, 0.88) !im
 feedly.com##.entry--selected .CondensedToolbar:not(.entry:hover .CondensedToolbar, .entry--focused .CondensedToolbar)
 feedly.com#$#.headerInfo-expanded-img:hover, .save-for-later:hover, .button-addurl:hover, .button-refresh:hover { background-color: transparent !important; }
 feedly.com#$#.entry--highlight { animation: none !important; }
-feedly.com#$#.frameActionsTop { margin: -33px 0 15px !important; border-radius: 4px !important; transition: all 0.3s !important; }
+feedly.com#$#.frameActionsTop { margin-bottom: 15px !important; border-radius: 4px !important; transition: all 0.3s !important; }
 feedly.com#$#.frameActionsTop:not(.frameActionsTop:hover) { opacity: 0 !important; }
 feedly.com#$#.frameActionsTop:hover { opacity 1 !important; visibility: visible !important; transition: all 0.3s !important; background-color: #f6f7f8 !important; }
 ! Artikel: Rahmen und Hintergrundfarbe
-feedly.com#$#.close-button { margin-right: .65rem !important; opacity: 1 !important; z-index: 1 !important; }
 feedly.com#$#.shareBarHolder { margin-bottom: 4px !important; }
 feedly.com#$#.ShareBar, .headerInfo, .entry.u0 { border: 0 !important; }
 feedly.com#$#.headerInfo.headerInfo-article { margin-top: 0 !important; }
@@ -598,7 +597,6 @@ feedly.com#$#.headerInfo-links.right { margin-right: -15px; !important; }
 feedly.com#$#.inlineFrame { box-shadow: none !important; border-width: 0 0 1px !important; border-color: rgba(0, 0, 0, 0.05) !important; padding: 33px 0 0 !important; -webkit-transition-duration: 0 !important; background-color: transparent !important; }
 feedly.com#$#.entryBody [href^="https://www.zeit.de/"] { border-bottom: none !important; float: right !important; margin-left: 10px !important; }
 feedly.com#$#.u0Entry { border-color: #FFF !important; padding: 0 9px !important; margin-top: 0 !important; }
-! feedly.com#$#.entry.u0 { padding-right: 11px !important; padding-left: 14px !important; }
 feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 ! Artikel: Überschrift-Linie
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
@@ -606,21 +604,19 @@ feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
 feedly.com#$##feedlyPageFX.title-only { padding-right: 23px !important; padding-left: 23px !important; }
 feedly.com#$#.presentation-0 h4 { padding-left: 11px !important; }
 feedly.com#$#.presentation-0 h4.EntryList__heading { padding-left: 14px !important; }
-feedly.com#$#.presentation-0 header { padding-right: 3px !important; padding-left: 10px !important; }
 feedly.com#$#.entryBody, .u100Entry { max-width: 1000px !important; }
 feedly.com#$#.content { text-align: justify !important; }
-feedly.com#$#.list-entries { padding: 0 3px 0 10px !important; }
-feedly.com#$#.button-refresh  { margin-right: -10px !important; }
-feedly.com#$#.save-for-later  { margin-left:  -12px !important; }
+feedly.com#$#.button-refresh { margin-right: -10px !important; }
+feedly.com#$#.save-for-later { margin-left:  -12px !important; }
+feedly.com#$#.close-button   { margin-right:   7px !important; opacity: 1 !important; z-index: 1 !important; }
 feedly.com#$#span.ago { padding-right: 1rem !important; }
-feedly.com#$#.entry .CondensedToolbar { margin-right: 5px !important; }
 feedly.com#$#.ShareBar__wrapper { width: auto !important; }
 ! Artikel: Abstände
 feedly.com#$##feedlyPart0.area { padding-left: 15px !important; }
 feedly.com#$##feedlyPageHeader { margin-right: 23px !important; margin-left: 11px !important; }
 feedly.com#$##feedlyPart { padding-right: 15px !important; }
 ! Mark all as read
-feedly.com#$#.GiantMarkAsRead       { background-color: #f6f7f8 !important; border: none !important; padding-right: 11px !important; padding-left: 11px !important; }
+feedly.com#$#.GiantMarkAsRead       { background-color: #f6f7f8 !important; border: none !important; }
 feedly.com#$#.GiantMarkAsRead:hover { background-color: #f1f2f4 !important; border: none !important; }
 feedly.com#$#.theme--dark > #feedlyPersona > #feedlyChrome > #feedlyFrame > #feedlyPageHolderFX > #feedlyPageFX > .board > .giant-mark-as-read:hover { background-color: #2A2A2A !important; }
 feedly.com#$#.secondaryCallForAction:hover, .secondaryCallForAction { border: 0 !important; }
