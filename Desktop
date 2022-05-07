@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.9.06
+! Version: 1.9.07
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -529,6 +529,7 @@ feedly.com##.m-r-h
 feedly.com##.AddToDatasetButton
 feedly.com##.hhint
 feedly.com##.EntryList__heading
+feedly.com##.StreamPage > h2
 feedly.com##.LeftnavDock__button:nth-child(n+2)
 feedly.com##.LeftnavListRow--link
 feedly.com##.LeftnavHeading__organize-button
@@ -586,6 +587,9 @@ feedly.com#$#.entry--highlight { animation: none !important; }
 feedly.com#$#.entry--selected.u0, .entry--selected.u0:hover { background-color: #f2f2f2 !important; }
 feedly.com#$#.entry.u0:hover { background-color: #fbfbfb !important; }
 ! Artikel: Rahmen und Hintergrundfarbe
+feedly.com#$#.frameActionsTop { margin-bottom: 15px !important; border-radius: 4px !important; opacity: 0 !important; transition: opacity 0.7s !important; }
+feedly.com#$#.frameActionsTop:hover { visibility: visible !important; opacity 1 !important; background-color: #f6f7f8 }
+feedly.com#$#.close-button { opacity: 1 !important; z-index: 1 !important; }
 feedly.com#$#.shareBarHolder { margin-bottom: 4px !important; }
 feedly.com#$#.ShareBar, .headerInfo, .entry.u0 { border: 0 !important; }
 feedly.com#$#.headerInfo.headerInfo-article { margin-top: 0 !important; }
