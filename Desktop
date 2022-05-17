@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.10.08
+! Version: 1.10.09
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1686,7 +1686,7 @@ welt.de##.external-more-like-this-taboola-marker
 welt.de##[data-content="Stage.Commercial"]
 welt.de##[data-component="OEmbedComponent"]
 welt.de##[data-qa="MoreLikeThisArticles"]
-welt.de##[data-qa="Comments.Container"] > DIV > DIV:first-child
+welt.de##[data-qa="Comments.Container"] > div:last-child > div:first-child > div:first-child > div
 welt.de##[data-qa="Comments.Container"] > DIV > DIV:last-child > DIV:nth-last-child(-n+2)
 welt.de##[id^="c-dialog-"]
 welt.de#$#.c-social-bar { top: 10px !important; position: fixed !important; }
