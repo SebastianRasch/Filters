@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.10.16
+! Version: 1.10.17
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -643,7 +643,7 @@ feedly.com#$#.LeftnavListRow__favicon { margin-bottom: 2px !important; }
 ! Profilmenu
 feedly.com#$#.menu.m-a-0 { min-width: 160px !important; }
 ! Artikelmediengröße
-feedly.com#$#.entryBody > DIV > DIV > DIV > IMG, .entryBody > DIV > DIV > DIV > p > IMG, .entryBody > DIV > DIV > p > IMG, .entryBody > DIV > p > IMG, .entryBody > DIV > p > a > IMG, .entryBody > DIV > DIV > p > a > IMG, .entryBody > DIV > DIV > DIV > a > IMG, IMG[src^="https://theawesomer.com/"], IMG[src^="http://theawesomer.com/"], IMG[src^="https://abduzeedo.com/"], IMG[src^="http://imgs.abduzeedo.com/"], [data-alternate-link^="http://abduzeedo.com/"] > div > div > div > div > a > IMG, IMG[src^="http://img.etimg.com/"], IMG[src^="http://media.idownloadblog.com/"], IMG[src^="https://images.anandtech.com/"], IMG[src*=".digitaltrends.com/"], IMG[src^="https://cdn.vox-cdn.com/"], IMG[src^="https://www.designboom.com"], IMG[src^="https://www.yankodesign.com/images"], IMG[src^="https://ksr-ugc.imgix.net"], IMG[src^="https://images.macrumors.com/"], IMG[src*=".appleinsider.com"], IMG[src^="https://pics.computerbase.de"], IMG[src^="https://cdn.cnn.com/"], IMG[src^="https://nikonrumors.com/"], IMG[src*="googleusercontent.com"], IMG[src^="https://img.welt.de/"], IMG[src^="https://www.gamespot.com"]:not(IMG(src*="square_avatar"), IMG[src^="https://ijunkie.com"] { max-width: 100% !important; width: 100% !important; height: auto !important; margin: 0 0 15px !important; }
+feedly.com#$#.entryBody > DIV > DIV > DIV > IMG, .entryBody > DIV > DIV > DIV > p > IMG, .entryBody > DIV > DIV > p > IMG, .entryBody > DIV > p > IMG, .entryBody > DIV > p > a > IMG, .entryBody > DIV > DIV > p > a > IMG, .entryBody > DIV > DIV > DIV > a > IMG, IMG[src^="https://theawesomer.com/"], IMG[src^="http://theawesomer.com/"], IMG[src^="https://abduzeedo.com/"], IMG[src^="http://imgs.abduzeedo.com/"], [data-alternate-link^="http://abduzeedo.com/"] > div > div > div > div > a > IMG, IMG[src^="http://img.etimg.com/"], IMG[src^="http://media.idownloadblog.com/"], IMG[src^="https://images.anandtech.com/"], IMG[src*=".digitaltrends.com/"], IMG[src^="https://cdn.vox-cdn.com/"], IMG[src^="https://www.designboom.com"], IMG[src^="https://www.yankodesign.com/images"], IMG[src^="https://ksr-ugc.imgix.net"], IMG[src^="https://images.macrumors.com/"], IMG[src*=".appleinsider.com"], IMG[src^="https://pics.computerbase.de"], IMG[src^="https://cdn.cnn.com/"], IMG[src^="https://nikonrumors.com/"], IMG[src*="googleusercontent.com"], IMG[src^="https://img.welt.de/"], IMG[src^="https://www.gamespot.com"]:not(IMG[src*="square_avatar"]), IMG[src^="https://ijunkie.com"] { max-width: 100% !important; width: 100% !important; height: auto !important; margin: 0 0 15px !important; }
 feedly.com##IMG[src^="https://nikonrumors.com/"][src$="-170x170.jpg"]
 feedly.com#$#iframe:not(.twitter-tweet > iframe) { width: 100% !important; height: auto !important; aspect-ratio: auto 16 / 9 !important; }
 feedly.com#$#IMG { border: 0 !important; }
@@ -756,9 +756,12 @@ gamespot.com##.footer-network-row:last-child
 gamespot.com###onetrust-consent-sdk
 gamespot.com###below-content
 gamespot.com###in-page-nav
+gamespot.com#$#                            figure[data-embed-type="gallery"] a { width: 3.37rem !important; }
+gamespot.com#$#@media (min-width: 640px) { figure[data-embed-type="gallery"] a { width: 8rem    !important; }}
+gamespot.com#$#.image-gallery__list-image { display: inline !important; width: 100% !important; }
 gamespot.com#$#.article-body { margin: 0 !important; text-align: justify !important; }
 gamespot.com#$#.article-body > div > figure { width: 100% !important; }
-gamespot.com#$#[data-embed-type="video"] { margin-left: 0 !important; margin-right: 0 !important; }
+gamespot.com#$#[data-embed-type="video"], [data-embed-type="image"] { margin-left: 0 !important; margin-right: 0 !important; }
 gamespot.com#$##default-content > .secondary-content { margin-top: 50px !important; }
 gamespot.com#$##upvote_upvote.btn-mini { padding-bottom: 4px !important; }
 ! GAMESRADAR
