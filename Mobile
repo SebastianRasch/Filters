@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.05
+! Version: 4.06
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -68,6 +68,7 @@ coinmarketcap.com##.cbMfyE.visible
 coinmarketcap.com##.sc-1snuar3-11.cIdfQu:first-child
 coinmarketcap.com##.watermark
 coinmarketcap.com##footer
+coinmarketcap.com###__next > div.sc-1dqvtdb-0.jBjJED:nth-child(2)
 computerbase.de##div.text-asset > p.p
 computerbase.de##.adbox-wrapper
 computerbase.de##.promobar
@@ -228,6 +229,9 @@ idownloadblog.com###idb-sidebar
 idownloadblog.com###iDB_Mobile_Below_Content
 idownloadblog.com###sidebar .widget-area
 ignition.fun##.navbar-through > .page > .page-content > center
+ijunkie.com##.social_panel
+ijunkie.com##.social_icons
+ijunkie.com##.author_box > img
 ijunkie.com##.search_btn
 ijunkie.com##.subscribe
 ijunkie.com##.subscribe_panel
@@ -237,7 +241,6 @@ ijunkie.com##.related_wrap
 ijunkie.com##.related_box
 ijunkie.com##.apple_product
 ijunkie.com##.back-to-top
-ijunkie.com##.social_icons
 ijunkie.com##footer > .container > .row > div.col-4:nth-child(2)
 imgur.com##.qc-cmp-ui-container
 imgur.com##.cta-image
@@ -297,7 +300,9 @@ pcgamer.com##.socialite-widget-ul
 pcgamer.com###document-footer-content > nav:nth-child(2)
 pcgameshardware.de##.cbox_embedded
 pcgameshardware.de##.cboxlinks
+pcgameshardware.de##.articleTickerModule
 pcgameshardware.de##.ui-footer-fixed
+pcgameshardware.de###rgTable-1
 pcgameshardware.de###ct_mo_sb
 pcgameshardware.de###supportNote
 pcgameshardware.de###addToHomeScreen
@@ -447,15 +452,17 @@ vox.com##.c-footer__section-logo
 vox.com##.c-social-buttons
 voxmedia.com###privacy-consent
 washingtonpost.com##.interstitial
-welt.de##.c-page-header-placebo
-welt.de##.c-page-header-tools__item:first-child
-welt.de##.c-ad__skyscraper
+welt.de##.nocontent
+welt.de##.c-stage.nocontent
 welt.de##.c-tool-element--is-abo
+welt.de##.c-ad__skyscraper
 welt.de##.c-inline-teaser
 welt.de##.c-article-sharer__social-container
 welt.de##.c-video-sidebar-container
-welt.de##.c-stage.nocontent
-welt.de##.nocontent
+welt.de##.c-social-bar__sharing
+welt.de##.c-social-bar--is-sticky
+welt.de##.c-page-header-placebo
+welt.de##.c-page-header-tools__item:first-child
 welt.de##.c-page-container--has-commercials
 welt.de##.c-page-container.u-is-hidden-print
 welt.de##.c-page-footer-navigation__link-main:last-child
