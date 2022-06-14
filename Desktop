@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.10.23
+! Version: 1.10.24
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -627,11 +627,12 @@ feedly.com#$#.theme--dark > #feedlyPersona > #feedlyChrome > #feedlyFrame > #fee
 feedly.com#$#.secondaryCallForAction:hover, .secondaryCallForAction { border: 0 !important; }
 feedly.com#$#.fx .button.secondary, .button-dropdown { border: none !important; }
 ! Menü links
-feedly.com#$#.m-t-2 { margin-top: 1.7rem !important; }
 feedly.com#$##feedlyChrome__leftnav-wrapper { width: 264px !important; }
 feedly.com#$##feedlyFrame { margin-left: 264px !important; }
+feedly.com#$#.m-t-2 { margin-top: 1.7rem !important; }
+feedly.com#$#.Leftnav { background-color: #f6f7f8 !important; border-right: 1px solid #efefef !important; }
 feedly.com#$#.LeftnavDock { width: 44px !important; justify-content: end !important; }
-feedly.com#$#.LeftnavList { width: 220px !important; margin-left: 44px !important; }
+feedly.com#$#.LeftnavList { width: 220px !important; margin-left: 44px !important; margin-top: -1.3rem !important; }
 feedly.com#$#.LeftnavList__heading-button { margin-right: -16px !important; }
 feedly.com#$#.LeftnavList__heading-visibility-button { margin-right: 0 !important; }
 feedly.com#$#.LeftnavListRow { padding: 0 15px !important; }
