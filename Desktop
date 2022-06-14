@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.10.20
+! Version: 1.10.21
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -628,7 +628,7 @@ feedly.com#$#.secondaryCallForAction:hover, .secondaryCallForAction { border: 0 
 feedly.com#$#.fx .button.secondary, .button-dropdown { border: none !important; }
 ! Menü links
 feedly.com#$##feedlyChrome__leftnav-wrapper { width: 260px !important; }
-feedly.com#$##feedlyFrame { margin-left: 260px !important; }
+feedly.com#$##feedlyFrame { margin-left: 264px !important; }
 feedly.com#$#.LeftnavDock { width: 44px !important; justify-content: end !important; }
 feedly.com#$#.LeftnavDock__button--logo { padding-left: 9px !important; }
 feedly.com#$#.LeftnavList { width: 220px !important; margin-left: 44px !important; }
