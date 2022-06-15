@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.10.24
+! Version: 1.10.25
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -621,9 +621,8 @@ feedly.com#$##feedlyPart0.area { padding-left: 15px !important; }
 feedly.com#$##feedlyPageHeader { margin-right: 23px !important; margin-left: 11px !important; }
 feedly.com#$##feedlyPart { padding-right: 15px !important; }
 ! Mark all as read
-feedly.com#$#.OpuLUjMsXSkqLBmdswZg       { background-color: #f6f7f8 !important; border: none !important; }
-feedly.com#$#.OpuLUjMsXSkqLBmdswZg:hover { background-color: #f1f2f4 !important; border: none !important; }
-feedly.com#$#.theme--dark > #feedlyPersona > #feedlyChrome > #feedlyFrame > #feedlyPageHolderFX > #feedlyPageFX > .board > .giant-mark-as-read:hover { background-color: #2A2A2A !important; }
+feedly.com#$#.GiantMarkAsRead       { background-color: #f6f7f8 !important; border: none !important; }
+feedly.com#$#.GiantMarkAsRead:hover { background-color: #f1f2f4 !important; border: none !important; }
 feedly.com#$#.secondaryCallForAction:hover, .secondaryCallForAction { border: 0 !important; }
 feedly.com#$#.fx .button.secondary, .button-dropdown { border: none !important; }
 ! Menü links
