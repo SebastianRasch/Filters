@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.06
+! Version: 4.07
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -162,7 +162,7 @@ gamespot.com#$#.page-spacing-top { margin-top: 10px !important; }
 goal.com###myConsentFlow
 golem.de#$#.has-gpure-btn { min-height: 0 !important; }
 golem.de#$#.has-gpure-btn+#screen { padding-top: 126px !important; }
-golem.de##.nav-main > li:not([rel="ticker"], [rel="video"], [rel="forum"])
+golem.de##.nav-main > li:not([rel="ticker"], [rel="video"], [rel="forum"], .forum > #grandwrapper > header > nav > .nav-main > li:nth-child(2))
 golem.de##.media__teaser-list > li[style="min-height:4em; padding-left:0;"]:not([class]):not([id])
 golem.de##.list-comments li:nth-child(4)
 golem.de##.list-comments li:nth-child(5n+8)
