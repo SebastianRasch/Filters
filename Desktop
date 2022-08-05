@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.10.33
+! Version: 1.10.34
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -656,6 +656,10 @@ feedly.com#$#[src^="http://imgs.abduzeedo.com/files/best_week/"] { margin-bottom
 feedly.com#$#.entryBody h4 { margin-bottom: -1.4rem !important; }
 ! FIDO
 fido.ie##[id="f-sponsors"]
+! FIFA
+fifa.com##.fc-header-promotion-bar_collapsedBanner__ifvxd
+fifa.com##.fc-layout_promotionBannerPlaceholder__KjrJM
+fifa.com#$#.fc-header_header__vEPcy { position: absolute !important; top: 0 !important; transition: none !important; transform: none !important; }
 ! FINANZEN
 finanzen.net##.bs-wrapper
 finanzen.net##.clear-block.actuals > .mainRight > DIV:nth-child(3)
