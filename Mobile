@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.08
+! Version: 4.09
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -453,6 +453,7 @@ vox.com##.c-social-buttons
 voxmedia.com###privacy-consent
 washingtonpost.com##.interstitial
 welt.de##.nocontent
+welt.de##.c-dialog__shadow
 welt.de##.c-stage.nocontent
 welt.de##.c-tool-element--is-abo
 welt.de##.c-ad__skyscraper
