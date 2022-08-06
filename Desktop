@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.10.34
+! Version: 1.10.35
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -51,6 +51,7 @@ polygon.com, feedly.com#$#.EmbeddedTweet { max-width: 100% !important; }
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
 80.lv##article > div > div:last-child
+80.lv##._2-Oc1
 80.lv##.Article__widget_type_pre-sale
 80.lv##[aria-label="Position for custom"]
 80.lv##[data-widget="author"] > div:last-child > div:last-child > div:last-child
@@ -924,8 +925,9 @@ google.com,google.de,google.se##._Ubu
 google.com,google.de,google.se##.b2hzT
 google.com,google.de,google.se##.gb_fb.gb_lb.gb_za
 google.com,google.de,google.se###ad
-google.com,google.de,google.se###prm-pt
+google.com,google.de,google.se###dfo
 google.com,google.de,google.se###taw
+google.com,google.de,google.se###prm-pt
 google.com,google.de,google.se##g-section-with-header
 google.com,google.de,google.se#$##taw > div:nth-child(3) { padding: 0 !important; }
 google.com,google.de,google.se#$##sblsbb { height: 38px !important; }
@@ -1052,6 +1054,8 @@ ijunkie.com##footer > .container > .row > div.col-4:nth-child(2)
 ijunkie.com#$#.col-8 { max-width: 100% !important; flex: 0 0 100% !important; }
 ijunkie.com#$#.details_wrap > p > img { width: 100% !important; }
 ijunkie.com#$#.wp-post-content > p > img, iframe { width: 100% !important; height: 100% !important; aspect-ratio: auto 16 / 9 !important; }
+! IKEA
+ikea.com##.hnf-messages
 ! INSPIRATIONDE
 inspirationde.com##.sidebar.sidebar-right-single
 inspirationde.com##.textwidget
@@ -1075,6 +1079,7 @@ investing.com##.tradeNowRightColumn
 investing.com##.trc_rbox_outer
 investing.com##.js-scrollto-comment
 investing.com##.navMenuUL > li:nth-child(2)
+investing.com##body:style(overflow: auto !important)
 investing.com##[class="eventPage articleControl"]
 investing.com##[event_attr_id="1155"]
 investing.com##[event_attr_id="1156"]
@@ -1264,6 +1269,7 @@ messenger.com#$#.__6j._43kk { border: none !important; }
 mywot.com##[class^="StyledScorecard__ScorecardSideBannerContainer"]
 mywot.com###wot-install-button
 ! NESPRESSO
+nespresso.com###topDelBanner
 nespresso.com###sticky-banner
 nespresso.com###vup-august-terms
 nespresso.com###cofSubBan
@@ -1376,10 +1382,12 @@ rbs6nations.com##[class="at4-share-outer addthis-smartlayers addthis-smartlayers
 ! RECODE
 recode.net##.l-col__sidebar
 ! REDDIT
+reddit.com##.rpBJOHq2PR60pnwJlUyP0:nth-child(5) > div:nth-child(6)
 reddit.com##._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(2)
 reddit.com##._3SWQgWX2fzvWmGCv463r_-
 reddit.com##.promotedlink
 reddit.com###COIN_PURCHASE_DROPDOWN_ID
+reddit.com###SHORTCUT_FOCUSABLE_DIV > div:last-child
 reddit.com##h6
 reddit-livetv-links.blogspot.com###h237
 ! RELEVANT MAGAZINE
