@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.10.38
+! Version: 1.10.39
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1002,9 +1002,11 @@ hi.com##.cookies-holder
 ! ICQ
 web.icq.com#$#.im-main-page-block { border-right: 0 !important; }
 web.icq.com#$#.app-topbar { border-bottom: 0 !important; }
-web.icq.com#$#.im-main-navbar { border-top: 0 !important; background-color: rgba(240,243,245) !important; }
+web.icq.com#$#.im-main-navbar { border-top: 0 !important; background-color: rgb(240,243,245) !important; }
 web.icq.com#$#.im-message_self .im-message__bot-section, .im-message_self .im-message__text { background-color: rgb(214,255,224) !important; }
 web.icq.com#$#.im-message_self .im-message__date, .im-message_self .im-message-reactions .im-message-reaction__counter, .im-modal__thread .im-message-reactions .im-message-reaction__counter { color: rgb(10,189,71) !important; }
+web.icq.com#$#.im-message_self.im-message_sticker .im-message__text { background: none !important; }
+web.icq.com#$#.im-message-single_image .im-message__date, .im-message_self.im-message-single_image .im-message__date, .im-message_self.im-message_sticker .im-message__date, .im-message_sticker .im-message__date { color: rgb(255,255,255) !important; }
 web.icq.com#$#.im-list-entry_focused { background-color: rgb(29,207,103) !important; }
 web.icq.com#$#.im-list-entry_focused .im-avatarmark { border-color: rgb(29,207,103) !important; }
 web.icq.com#$#.im-favorite-avatar { background-color: rgb(56,237,128) !important; }
