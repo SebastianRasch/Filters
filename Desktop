@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.10.44
+! Version: 1.10.45
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -106,6 +106,7 @@ amazon.co.uk,amazon.com,amazon.de##.navFooterDescLine
 amazon.co.uk,amazon.com,amazon.de#$#.nav-right { min-width: 0 !important; }
 ! ANANDTECH
 anandtech.com##footer
+anandtech.com###taboola-mid-article
 anandtech.com#$#.pipeline_stories { margin-top: 0 !important; }
 anandtech.com#$#.header_top { padding-top: 0 !important; margin-top: -6px; !important; }
 ! APFELEIMER
