@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.10.45
+! Version: 1.10.46
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1100,7 +1100,6 @@ investing.com##[event_attr_id="1652"]
 investing.com##[event_attr_id="1653"]
 investing.com##[href^="/send-feedback/"]
 investing.com##[id*="TextAd"]
-investing.com###_sticky_footer_banner
 investing.com###abPopup
 investing.com###backToTop
 investing.com###broker_promotions
@@ -1112,8 +1111,9 @@ investing.com###findABroker
 investing.com###sln-hbanner
 investing.com###leftColumn > .mediumTitle1.analysisImg
 investing.com###leftColumn > .largeTitle:nth-child(12)
-investing.com###footerWrapper > section.top
 investing.com###theDisclaimer
+investing.com###_sticky_footer_banner
+investing.com###footerWrapper
 investing.com##H2
 investing.com#$#.navBar { top: 38px !important; }
 investing.com#$#.wrapper { padding-top: 120px !important; }
