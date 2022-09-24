@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.10.46
+! Version: 1.10.47
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -730,6 +730,10 @@ flygresor.se##[class="box latest-searches"]
 ! FOCUS
 focus.de##[id^="google_ads_iframe"]
 focus.de###google_ads_iframe_\/3673\/focus\/homad_0
+! FOX NEWS
+foxnews.com##.sidebar-article
+foxnews.com##footer-upper
+foxnews.com##.social-icons
 ! GAMEANALYTICS
 blog.gameanalytics.com##[class="panel"]
 blog.gameanalytics.com##[class="return_link"]
@@ -902,7 +906,6 @@ golem.de#$##grandwrapper { border-width: 10px 0 !important; }
 golem.de#$##header { margin-top: 8px !important; background: #ffffff !important; }
 golem.de#$##header nav { left: 230px !important; width: 770px !important; }
 golem.de#$##header nav a { color: #000 !important; }
-golem.de#$##header input { height: 10px !important; }
 golem.de#$##header .dh1 { left: -2px !important; }
 golem.de#$#@media (prefers-color-scheme: dark) { .logo-screen { display: block !important; } .logo-print { display: none !important; } }
 golem.de#$#@media (prefers-color-scheme: light) { .logo-screen { display: none !important; } .logo-print { display: block !important; } }
