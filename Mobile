@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.09
+! Version: 4.10
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -105,6 +105,7 @@ disqus.com##.padding-default
 dn.se###rich-media-ads
 duckduckgo.com###ads
 duckduckgo.com###zero_click_wrapper
+duden.de###aab-overlay
 electrek.co##.ad-container
 electrek.co##.adsense
 engadget.com##.latest
@@ -465,12 +466,14 @@ welt.de##.c-social-bar--is-sticky
 welt.de##.c-page-header-placebo
 welt.de##.c-page-header-tools__item:first-child
 welt.de##.c-page-container--has-commercials
+welt.de##.c-page-container--has-full-width:nth-child(3)
 welt.de##.c-page-container.u-is-hidden-print
 welt.de##.c-page-footer-navigation__link-main:last-child
 welt.de##.c-page-footer__section:nth-child(n+2)
 welt.de##[data-component="OEmbedComponent"]
 welt.de##[data-qa="Comments.Container"] > DIV > DIV:last-child > DIV:nth-last-child(-n+2)
 welt.de##[data-qa="Comments.Container"] > DIV:last-child > DIV:first-child > DIV:first-child > div
+welt.de##footer > div:last-child
 welt.de#$#.c-page-header { position: relative !important; }
 wired.co.uk##.ad__main
 yankodesign.com###ti_offical_partners-2
