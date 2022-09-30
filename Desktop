@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.10.53
+! Version: 1.10.54
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -214,6 +214,10 @@ blocket.se###root > div.LayoutStyles__FullHeightWrapper-du5f0h-0.MediumLayout__C
 blocket.se#$#.col-xs-9 { width: 100% !important; }
 ! BINANCE
 binance.com##img.css-1ithwm4
+binance.com##.css-e2h4xe
+binance.com##.css-f5thiz
+binance.com##.css-1qqdxiu
+binance.com#$#.css-1qqdxiu { display: none !important; }
 binance.com#$#.css-jmskxt, .css-6qqx1f { background-color: #FAFAFA !important; }
 binance.com#$#.css-4vx0ri, .css-d9xoa9, .css-10ofv3q, .css-1ghgn9y, .css-16xx8qo, .css-12e16i0 { background-color: #FFFFFF !important; }
 binance.com#$#.css-dpvb9s, .css-1iqe90x, .css-w6s4n4, .css-15he6up, .css-1tp5kus, .css-16s165w, .css-11onpk2 input, .css-1ef35y8, .css-ien7iv, .css-1xoflqm, .css-16xx8qo { color: #1E2329 !important; }
@@ -644,7 +648,7 @@ feedly.com#$#.LeftnavListRow__favicon { margin-bottom: 2px !important; }
 ! Profilmenu
 feedly.com#$#.menu.m-a-0 { min-width: 160px !important; }
 ! Artikelmediengröße
-feedly.com#$#.entryBody > DIV > DIV > DIV > IMG, .entryBody > DIV > DIV > DIV > p > IMG, .entryBody > DIV > DIV > p > IMG, .entryBody > DIV > p > IMG, .entryBody > DIV > p > a > IMG, .entryBody > DIV > DIV > p > a > IMG, .entryBody > DIV > DIV > DIV > a > IMG:not(IMG[src^="https://images.anandtech.com/galleries/"]), IMG[src^="https://theawesomer.com/"], IMG[src^="http://theawesomer.com/"], IMG[src^="https://abduzeedo.com/"], IMG[src^="http://imgs.abduzeedo.com/"], [data-alternate-link^="http://abduzeedo.com/"] > div > div > div > div > a > IMG, IMG[src^="http://img.etimg.com/"], IMG[src^="http://media.idownloadblog.com/"], IMG[src^="https://images.anandtech.com/"]:not(IMG[src^="https://images.anandtech.com/galleries/"]), IMG[src*=".digitaltrends.com/"], IMG[src^="https://cdn.vox-cdn.com/"], IMG[src^="https://www.designboom.com"], IMG[src^="https://www.yankodesign.com/images"], IMG[src^="https://ksr-ugc.imgix.net"], IMG[src^="https://images.macrumors.com/"], IMG[src*=".appleinsider.com"], IMG[src^="https://pics.computerbase.de"], IMG[src^="https://cdn.cnn.com/"], IMG[src^="https://nikonrumors.com/"], IMG[src*="googleusercontent.com"], IMG[src^="https://img.welt.de/"], IMG[src^="https://www.gamespot.com"]:not(IMG[src*="square_avatar"]), IMG[src^="https://ijunkie.com"] { max-width: 100% !important; width: 100% !important; height: auto !important; margin: 0 0 15px !important; }
+feedly.com#$#.entryBody > DIV > DIV > DIV > IMG, .entryBody > DIV > DIV > DIV > p > IMG, .entryBody > DIV > DIV > p > IMG, .entryBody > DIV > p > IMG, .entryBody > DIV > p > a > IMG, .entryBody > DIV > DIV > p > a > IMG, .entryBody > DIV > DIV > DIV > a > IMG:not(IMG[src^="https://images.anandtech.com/galleries/"]), IMG[src^="https://theawesomer.com/"], IMG[src^="http://theawesomer.com/"], IMG[src^="https://abduzeedo.com/"], IMG[src^="http://imgs.abduzeedo.com/"], [data-alternate-link^="http://abduzeedo.com/"] > div > div > div > div > a > IMG, IMG[src^="http://img.etimg.com/"], IMG[src^="http://media.idownloadblog.com/"], IMG[src^="https://images.anandtech.com/"]:not(IMG[src^="https://images.anandtech.com/galleries/"]), IMG[src*=".digitaltrends.com/"], IMG[src^="https://cdn.vox-cdn.com/"], IMG[src^="https://www.designboom.com"], IMG[src^="https://www.yankodesign.com/images"], IMG[src^="https://ksr-ugc.imgix.net"], IMG[src^="https://images.macrumors.com/"], IMG[src*=".appleinsider.com"], IMG[src^="https://pics.computerbase.de"], IMG[src^="https://cdn.cnn.com/"], IMG[src^="https://nikonrumors.com/"], IMG[src*="googleusercontent.com"], IMG[src^="https://img.welt.de/"], IMG[src^="https://www.gamespot.com"]:not(IMG[src*="square_avatar"]), IMG[src^="https://ijunkie.com"], IMG[src^="https://www.formula1.com/"], IMG[src*=".cloudfront.net/image"] { max-width: 100% !important; width: 100% !important; height: auto !important; margin: 0 0 15px !important; }
 feedly.com##IMG[src^="https://nikonrumors.com/"][src$="-170x170.jpg"]
 feedly.com#$#iframe:not(.twitter-tweet > iframe) { width: 100% !important; height: auto !important; aspect-ratio: auto 16 / 9 !important; }
 feedly.com#$#IMG { border: 0 !important; }
