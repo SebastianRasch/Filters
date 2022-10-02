@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.13
+! Version: 4.14
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -133,7 +133,8 @@ formula1.com##.row > .col-12.col-sm-6.col-lg-4.col-xl-3:has([href^="/en/latest/a
 formula1.com##.f1-article--rich-text > p:not(p:first-of-type) > strong
 formula1.com##.f1-article--related
 formula1.com##.f1-up-next
-formula1.com##footer > div:not(div:last-of-type)
+formula1.com##.f1-footer__top
+formula1.com##.f1-footer__middle
 gadgethacks.com##.whtaph-300
 gadgethacks.com###ad-top-lock
 gamesradar.com##.news-article:nth-child(2) > section:nth-child(4) > div:nth-child(6)
