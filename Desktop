@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.10.54
+! Version: 1.10.55
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -736,6 +736,7 @@ focus.de##[id^="google_ads_iframe"]
 focus.de###google_ads_iframe_\/3673\/focus\/homad_0
 ! FORMULA 1
 formula1.com##.row > .col-12.col-sm-6.col-lg-4.col-xl-3:has([href^="/en/latest/article.esports-series"])
+formula1.com##.f1-article--rich-text > p > strong
 ! FOX NEWS
 foxnews.com##.sidebar-article
 foxnews.com##.sidebar-columns > .collection
