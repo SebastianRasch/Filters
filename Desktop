@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.04
+! Version: 1.11.05
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -596,9 +596,9 @@ feedly.com#$#.theme--dark .LeftnavListRow { color: rgba(190, 190, 190, 0.88) !im
 feedly.com##.entry--selected .CondensedToolbar:not(.entry:hover .CondensedToolbar, .entry--focused .CondensedToolbar)
 feedly.com#$#.headerInfo-expanded-img:hover, .save-for-later:hover, .button-addurl:hover, .button-refresh:hover { background-color: transparent !important; }
 feedly.com#$#.entry--highlight { animation: none !important; }
-feedly.com#$#.frameActionsTop { margin-bottom: 15px !important; border-radius: 4px !important; transition: all 0.3s !important; }
-feedly.com#$#.frameActionsTop:not(.frameActionsTop:hover) { opacity: 0 !important; }
-feedly.com#$#.frameActionsTop:hover { opacity 1 !important; visibility: visible !important; transition: all 0.3s !important; background-color: #f6f7f8 !important; }
+feedly.com#$#.InlineArticleEdge--top { margin-bottom: 15px !important; border-radius: 4px !important; transition: all 0.3s !important; }
+feedly.com#$#.InlineArticleEdge--top:not(.InlineArticleEdge--top:hover) { opacity: 0 !important; }
+feedly.com#$#.InlineArticleEdge--top:hover { opacity 1 !important; visibility: visible !important; transition: all 0.3s !important; background-color: #f6f7f8 !important; }
 ! Artikel: Rahmen und Hintergrundfarbe
 feedly.com#$#.shareBarHolder { margin-bottom: 4px !important; }
 feedly.com#$#.ShareBar, .headerInfo, .entry.u0 { border: 0 !important; }
