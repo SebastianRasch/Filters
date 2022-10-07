@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.10.57
+! Version: 1.11.00
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -580,6 +580,7 @@ feedly.com##.ProfileBubble__menu > menu > li:nth-child(3), .ProfileBubble__menu 
 feedly.com##VIDEO
 feedly.com##.empty-state > .illustration
 feedly.com##.LeftnavListRow:nth-of-type(3)
+feedly.com##.col-xl-3-xlarge-only
 ! Oberstes Band 
 feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 feedly.com#$#.fixed-bar { box-shadow: none !important; left: 260px !important; margin-left: 260px !important; }
@@ -614,8 +615,12 @@ feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
 feedly.com#$##feedlyPageFX.title-only { padding-right: 23px !important; padding-left: 23px !important; }
 feedly.com#$#.presentation-0 h4 { padding-left: 11px !important; }
 feedly.com#$#.presentation-0 h4.EntryList__heading { padding-left: 14px !important; }
-feedly.com#$#.u100Entry { max-width: 1200px !important; margin-left: 180px !important; margin-right: 180px !important; }
-feedly.com#$#.entryBody { width: 100% !important; max-width: none !important; }
+feedly.com#$#.u100Entry, .sliderWidth, #feedlyPageFX:has(.presentation-4, .presentation-5, .presentation-100) { max-width: 1200px !important; width: auto !important; }
+feedly.com#$#.slideEntryContent > article > .entryholder > .u100Entry { margin-left: 0 !important; margin-right: 0 !immportant; }
+feedly.com#$#.u0 > DIV > article > .entryholder > .u100Entry, .container:has(.presentation-4, .presentation-5, .presentation-100) { margin-left: 180px !important; margin-right: 180px !important; }
+feedly.com#$#.entry.u4 { max-width: initial !important; margiin-left: 0 !important; margin-right: 0 !important; }
+feedly.com#$#.presentation-4 > DIV > header { margin-bottom: 15px !important; }
+feedly.com#$#.entryBody, .col-xl-9.col-xl-9-xlarge-only { width: 100% !important; max-width: none !important; }
 feedly.com#$#.content { text-align: justify !important; }
 feedly.com#$#.button-refresh { margin-right: -10px !important; }
 feedly.com#$#.save-for-later { margin-left:  -12px !important; }
