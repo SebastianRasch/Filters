@@ -4,7 +4,7 @@ Just some user filters for AdGuard. And a lot of cosmetic changes for some of my
 - appleinsider.com
 - cnn.com
 - computerbase.de
-- feedly.com
+- feedly.com _(total overhaul)_
 - gamespot.com
 - gamesradar.com
 - golem.de
