@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.00
+! Version: 1.11.01
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -585,6 +585,7 @@ feedly.com##.col-xl-3-xlarge-only
 feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 feedly.com#$#.fixed-bar { box-shadow: none !important; left: 260px !important; margin-left: 260px !important; }
 ! Schrift
+feedly.com#$#.content:not(.list-entries--layout-u5 > .EntryList__chunk > article > .content) { text-align: justify !important; }
 feedly.com#$#.LeftnavListRow { font-size: inherit !important; }
 feedly.com#$#.entryBody { font-family: sans-serif !important; margin-bottom: 25px !important; margin-top: 15px !important; }
 feedly.com#$#.theme--dark .entryBody, .theme--dark .entryBody h1, .theme--dark .entryBody h2, .theme--dark .entryBody h3, .theme--dark .entryBody h4, .theme--dark .entryBody .summary b, .theme--dark .entryBody .content b, .theme--dark .entryBody .content p, .theme--dark .entryBody .content .fx .feed-preview ul, .fx .feed-preview .theme--dark .entryBody .content ul, .theme--dark .entryBody .content a, .theme--dark .entryBody .td { color: rgba(190, 190, 190, 0.88) !important; }
@@ -606,22 +607,22 @@ feedly.com#$#.headerInfo-links.left { margin-left: -18px; !important; }
 feedly.com#$#.headerInfo-links.right { margin-right: -15px; !important; }
 feedly.com#$#.inlineFrame { box-shadow: none !important; border-width: 0 0 1px !important; border-color: rgba(0, 0, 0, 0.05) !important; padding: 33px 0 0 !important; -webkit-transition-duration: 0 !important; background-color: transparent !important; }
 feedly.com#$#.inlineFrame .close-button { right: 50% !important; }
+feedly.com#$#.entry { border: none !important; }
 feedly.com#$#.entryBody [href^="https://www.zeit.de/"] { border-bottom: none !important; float: right !important; margin-left: 10px !important; }
 feedly.com#$#.u0Entry { border-color: #FFF !important; padding: 0 9px !important; margin-top: 0 !important; }
 feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 ! Artikel: Überschrift-Linie
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
+feedly.com#$#.presentation-4, .presentation-5 > DIV > header { margin-bottom: 15px !important; }
 ! Artikel: Breite
 feedly.com#$##feedlyPageFX.title-only { padding-right: 23px !important; padding-left: 23px !important; }
 feedly.com#$#.presentation-0 h4 { padding-left: 11px !important; }
 feedly.com#$#.presentation-0 h4.EntryList__heading { padding-left: 14px !important; }
-feedly.com#$#.u100Entry, .sliderWidth, #feedlyPageFX:has(.presentation-4, .presentation-5, .presentation-100) { max-width: 1200px !important; width: auto !important; }
+feedly.com#$#.u0 > DIV > article > .entryholder > .u100Entry, .container:has(.presentation-100) { margin-left: 180px !important; margin-right: 180px !important; }
+feedly.com#$#.entry.u4 { max-width: initial !important; margin-left: 0 !important; margin-right: 0 !important; }
+feedly.com#$#.entryBody, #feedlyPageFX:has(.presentation-4, .presentation-5), .col-xl-9.col-xl-9-xlarge-only { width: 100% !important; max-width: none !important; }
+feedly.com#$#.u100Entry, .sliderWidth, #feedlyPageFX:has(.presentation-100) { max-width: 1200px !important; width: auto !important; }
 feedly.com#$#.slideEntryContent > article > .entryholder > .u100Entry { margin-left: 0 !important; margin-right: 0 !immportant; }
-feedly.com#$#.u0 > DIV > article > .entryholder > .u100Entry, .container:has(.presentation-4, .presentation-5, .presentation-100) { margin-left: 180px !important; margin-right: 180px !important; }
-feedly.com#$#.entry.u4 { max-width: initial !important; margiin-left: 0 !important; margin-right: 0 !important; }
-feedly.com#$#.presentation-4 > DIV > header { margin-bottom: 15px !important; }
-feedly.com#$#.entryBody, .col-xl-9.col-xl-9-xlarge-only { width: 100% !important; max-width: none !important; }
-feedly.com#$#.content { text-align: justify !important; }
 feedly.com#$#.button-refresh { margin-right: -10px !important; }
 feedly.com#$#.save-for-later { margin-left:  -12px !important; }
 feedly.com#$#.close-button   { margin-right: .8rem !important; opacity: 1 !important; z-index: 1 !important; }
