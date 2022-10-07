@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.06
+! Version: 1.11.07
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -606,7 +606,6 @@ feedly.com#$#.headerInfo-links.right { margin-right: -15px; !important; }
 feedly.com#$#.inlineFrame { border-width: 0 0 1px !important; border-color: rgba(0, 0, 0, 0.05) !important; padding: 50px 0 0 !important; -webkit-transition-duration: 0 !important; background-color: transparent !important; }
 feedly.com#$#.entry { border: none !important; }
 feedly.com#$#.entryBody [href^="https://www.zeit.de/"] { border-bottom: none !important; float: right !important; margin-left: 10px !important; }
-feedly.com#$#.u0Entry { border-color: #FFF !important; padding: 0 9px !important; margin-top: 0 !important; }
 feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 ! Artikel: Überschrift-Linie
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
