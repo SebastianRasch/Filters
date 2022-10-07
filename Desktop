@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.03
+! Version: 1.11.04
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -605,8 +605,8 @@ feedly.com#$#.ShareBar, .headerInfo, .entry.u0 { border: 0 !important; }
 feedly.com#$#.headerInfo.headerInfo-article { margin-top: 0 !important; }
 feedly.com#$#.headerInfo-links.left { margin-left: -18px; !important; }
 feedly.com#$#.headerInfo-links.right { margin-right: -15px; !important; }
-feedly.com#$#.InlineArticleEdge--top { box-shadow: none !important; border-width: 0 0 1px !important; border-color: rgba(0, 0, 0, 0.05) !important; padding: 33px 0 0 !important; -webkit-transition-duration: 0 !important; background-color: transparent !important; }
-feedly.com#$#.InlineArticle__close-button { right: 50% !important; }
+feedly.com#$#.inlineFrame { box-shadow: none !important; border-width: 0 0 1px !important; border-color: rgba(0, 0, 0, 0.05) !important; padding: 33px 0 0 !important; -webkit-transition-duration: 0 !important; background-color: transparent !important; }
+feedly.com#$#.inlineFrame .close-button { right: 50% !important; }
 feedly.com#$#.entry { border: none !important; }
 feedly.com#$#.entryBody [href^="https://www.zeit.de/"] { border-bottom: none !important; float: right !important; margin-left: 10px !important; }
 feedly.com#$#.u0Entry { border-color: #FFF !important; padding: 0 9px !important; margin-top: 0 !important; }
