@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.07
+! Version: 1.11.08
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -585,7 +585,7 @@ feedly.com##.col-xl-3-xlarge-only
 feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 feedly.com#$#.fixed-bar { box-shadow: none !important; left: 260px !important; margin-left: 260px !important; }
 ! Schrift
-feedly.com#$#.content:not(.list-entries--layout-u5 > .EntryList__chunk > article > .content) { text-align: justify !important; }
+feedly.com#$#.content:not(.list-entries--layout-u5 > .EntryList__chunk > article > .content) { text-align: left !important; }
 feedly.com#$#.LeftnavListRow { font-size: inherit !important; }
 feedly.com#$#.entryBody { font-family: sans-serif !important; margin-bottom: 25px !important; margin-top: 15px !important; }
 feedly.com#$#.theme--dark .entryBody, .theme--dark .entryBody h1, .theme--dark .entryBody h2, .theme--dark .entryBody h3, .theme--dark .entryBody h4, .theme--dark .entryBody .summary b, .theme--dark .entryBody .content b, .theme--dark .entryBody .content p, .theme--dark .entryBody .content .fx .feed-preview ul, .fx .feed-preview .theme--dark .entryBody .content ul, .theme--dark .entryBody .content a, .theme--dark .entryBody .td { color: rgba(190, 190, 190, 0.88) !important; }
