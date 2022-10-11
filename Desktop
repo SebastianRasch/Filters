@@ -617,8 +617,10 @@ feedly.com#$#.presentation-0 h4.EntryList__heading { padding-left: 14px !importa
 feedly.com#$#.u0 > DIV > article > .entryholder > .u100Entry, .container:has(.presentation-100) { margin-left: 180px !important; margin-right: 180px !important; }
 feedly.com#$#.entry.u4 { max-width: initial !important; margin-left: 0 !important; margin-right: 0 !important; }
 feedly.com#$#.entryBody, #feedlyPageFX:has(.presentation-4, .presentation-5), .col-xl-9.col-xl-9-xlarge-only { width: 100% !important; max-width: none !important; }
-feedly.com#$#.u100Entry, .sliderWidth, #feedlyPageFX:has(.presentation-4, .presentation-100) { max-width: 1200px !important; width: auto !important; }
-feedly.com#$#.slideEntryContent > article > .entryholder > .u100Entry { margin-left: 0 !important; margin-right: 0 !immportant; }
+feedly.com#$#.u100Entry, #feedlyPageFX:has(.presentation-4, .presentation-100) { max-width: 1200px !important; width: auto !important; }
+feedly.com#$#.sliderWidth { width: 800px !important; }
+feedly.com#$#.slideEntryContent > article > .entryholder > .u100Entry { max-width: 100% !important; }
+feedly.com#$#.sliderContainer { width: 82% !important; }
 feedly.com#$#.button-refresh { margin-right: -10px !important; }
 feedly.com#$#.save-for-later { margin-left:  -12px !important; }
 feedly.com#$#span.ago { padding-right: 1rem !important; }
