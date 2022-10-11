@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.11
+! Version: 1.11.12
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -614,9 +614,9 @@ feedly.com#$#.inlineFrame.u4 { margin-left: 10px !important; margin-right: 0 !im
 feedly.com#$##feedlyPageFX.title-only { padding-right: 23px !important; padding-left: 23px !important; }
 feedly.com#$#.presentation-0 h4 { padding-left: 11px !important; }
 feedly.com#$#.presentation-0 h4.EntryList__heading { padding-left: 14px !important; }
-feedly.com#$#.u0 > DIV > article > .entryholder > .u100Entry, .container:has(.presentation-4, .presentation-100) { margin-left: 180px !important; margin-right: 180px !important; }
+feedly.com#$#.u0 > DIV > article > .entryholder > .u100Entry, .container:has(.presentation-100) { margin-left: 180px !important; margin-right: 180px !important; }
 feedly.com#$#.entry.u4 { max-width: initial !important; margin-left: 0 !important; margin-right: 0 !important; }
-feedly.com#$#.entryBody, #feedlyPageFX:has(.presentation-5), .col-xl-9.col-xl-9-xlarge-only { width: 100% !important; max-width: none !important; }
+feedly.com#$#.entryBody, #feedlyPageFX:has(.presentation-4, .presentation-5), .col-xl-9.col-xl-9-xlarge-only { width: 100% !important; max-width: none !important; }
 feedly.com#$#.u100Entry, .sliderWidth, #feedlyPageFX:has(.presentation-4, .presentation-100) { max-width: 1200px !important; width: auto !important; }
 feedly.com#$#.slideEntryContent > article > .entryholder > .u100Entry { margin-left: 0 !important; margin-right: 0 !immportant; }
 feedly.com#$#.button-refresh { margin-right: -10px !important; }
