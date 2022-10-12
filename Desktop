@@ -1,9 +1,10 @@
 ! Title: Superstraktulation
-! Version: 1.11.16
+! Version: 1.11.17
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
 @@||gisanddata.maps.arcgis.com^$important,document,~extension
+@@||forums.appleinsider.com^$important,document
 ##.adblock-whitelist-messaging__article-wrapper
 ##.ad
 ##.ad_div
@@ -335,9 +336,6 @@ computerbase.de##.adbox
 computerbase.de##.promobar
 computerbase.de##.adblock-plea
 computerbase.de##.blackfriday
-computerbase.de##.block--ads
-computerbase.de##.block1--ads
-computerbase.de##.block1--pro-box
 computerbase.de##.col-aside > .col-aside-group:nth-child(2)
 computerbase.de##.app-install
 computerbase.de##.cookie-consent
@@ -345,11 +343,13 @@ computerbase.de##.jw-related-shelf-container
 computerbase.de##.options_block_container
 computerbase.de##.share-links--forum
 computerbase.de##.block1.footer1
+computerbase.de##[class*="--ads"]
+computerbase.de##[class*="--pro-box"]
 computerbase.de##[class="usermenu__link"][href="/abo/"]
 computerbase.de##[href="https://www.computerbase.de/abo/"]
-computerbase.de###preisvergleich
-computerbase.de##DIV[style^="height:312px;"]
 computerbase.de##[data-widget-key="xfes_thread_view_below_quick_reply_similar_threads"]
+computerbase.de##DIV[style^="height:312px;"]
+computerbase.de###preisvergleich
 ! Kopf
 computerbase.de#$#.block1.header, .block1.subheader { background-color: #295B99 !important; }
 computerbase.de#$#.homepage-link { transition: none !important; transform: scale(.66) !important; }
@@ -1332,6 +1332,10 @@ onvista.de##.MEGASIZE_BANNER
 onvista.de##.TEASERBOX DEPOT_KONTO
 ! OSXDAILY
 osxdaily.com###subscribe_box
+! OUTLOOK
+outlook.live.com##.eVNxg
+outlook.office.com###LeftRailItem_OneNote
+outlook.office.com###LeftRailItem_db5e5970-212f-477f-a3fc-2227dc7782bf
 ! PASTEBIN
 pastebin.com##[id="abrpm"]
 ! PC GAMER
@@ -1370,6 +1374,8 @@ pinterest.de##._4h._4j._4k._6d._6e._h._xt._4q
 pinterest.de##._78._77._2m._2l._2j._2s._25._0
 pinterest.se##div:nth-of-type(1) > div:nth-of-type(2) > .Hsu.iyn.zI7 > div
 pinterest.de##.navigateLinkWrapper
+! PITCHBOOK
+pitchbook.com###_evidon-barrier-wrapper
 ! POLYGON
 polygon.com##article > .l-segment > .l-col__main > .c-compact-river
 polygon.com##.c-shoppable
@@ -1726,6 +1732,8 @@ welt.de##.c-page-container.u-is-hidden-print
 welt.de##.c-page-footer__section:nth-child(n+2)
 welt.de##.c-page-footer-navigation__link-main:last-child
 welt.de##.c-end-screen
+welt.de##.c-teaser-power-teaser-fallback
+welt.de##.c-inline-teaser-list
 welt.de##.external-more-like-this-taboola-marker
 welt.de##[data-content="Stage.Commercial"]
 welt.de##[data-component="OEmbedComponent"]
