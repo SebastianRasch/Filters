@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.20
+! Version: 1.11.21
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -617,7 +617,7 @@ feedly.com#$#.u0 > DIV > article > .entryholder > .u100Entry, .container:has(.pr
 feedly.com#$#.u100Entry, #feedlyPageFX:has(.presentation-100) { max-width: 1200px !important; width: auto !important; }
 feedly.com#$#.entry.u4 { max-width: initial !important; margin-left: 0 !important; margin-right: 0 !important; }
 feedly.com#$#.entryBody, #feedlyPageFX:has(.presentation-4, .presentation-5), .col-xl-9.col-xl-9-xlarge-only { width: 100% !important; max-width: none !important; }
-feedly.com#$#.entry__meta-column { width: 75px !important; }
+feedly.com#$#.engagement-container { width: 30px !important; }
 feedly.com#$#.inlineFrame.u4 { margin-left: 0 !important; margin-right: 0 !important; margin-top: -12px !important; }
 feedly.com#$#.sliderWidth { width: 800px !important; }
 feedly.com#$#.slideEntryContent > article > .entryholder > .u100Entry { max-width: 100% !important; }
@@ -660,7 +660,7 @@ feedly.com#$#.LeftnavListRow__favicon { margin-bottom: 2px !important; }
 ! Profilmenu
 feedly.com#$#.menu.m-a-0 { min-width: 160px !important; }
 ! Artikelmediengröße
-feedly.com#$#.entryBody > DIV > DIV > DIV > IMG, .entryBody > DIV > DIV > DIV > p > IMG, .entryBody > DIV > DIV > p > IMG, .entryBody > DIV > p > IMG, .entryBody > DIV > p > a > IMG, .entryBody > DIV > DIV > p > a > IMG, .entryBody > DIV > DIV > DIV > a > IMG:not(IMG[src^="https://images.anandtech.com/galleries/"]), IMG[src^="https://theawesomer.com/"], IMG[src^="http://theawesomer.com/"], IMG[src^="https://abduzeedo.com/"], IMG[src^="http://imgs.abduzeedo.com/"], [data-alternate-link^="http://abduzeedo.com/"] > div > div > div > div > a > IMG, IMG[src^="http://img.etimg.com/"], IMG[src^="http://media.idownloadblog.com/"], IMG[src^="https://images.anandtech.com/"]:not(IMG[src^="https://images.anandtech.com/galleries/"]), IMG[src*=".digitaltrends.com/"], IMG[src^="https://cdn.vox-cdn.com/"], IMG[src^="https://www.designboom.com"], IMG[src^="https://www.yankodesign.com/images"], IMG[src^="https://ksr-ugc.imgix.net"], IMG[src^="https://images.macrumors.com/"], IMG[src*=".appleinsider.com"], IMG[src^="https://pics.computerbase.de"], IMG[src^="https://cdn.cnn.com/"], IMG[src^="https://nikonrumors.com/"], IMG[src*="googleusercontent.com"], IMG[src^="https://img.welt.de/"], IMG[src^="https://www.gamespot.com"]:not(IMG[src*="square_avatar"]), IMG[src^="https://ijunkie.com"], IMG[src^="https://www.formula1.com/"], IMG[src*=".cloudfront.net/image"] { max-width: 100% !important; width: 100% !important; height: auto !important; margin: 0 0 15px !important; }
+feedly.com#$#IMG[src^="https://theawesomer.com/"], IMG[src^="http://theawesomer.com/"], IMG[src^="https://abduzeedo.com/"], IMG[src^="http://imgs.abduzeedo.com/"], [data-alternate-link^="http://abduzeedo.com/"] > div > div > div > div > a > IMG, IMG[src^="http://img.etimg.com/"], IMG[src^="http://media.idownloadblog.com/"], IMG[src^="https://images.anandtech.com/"]:not(IMG[src^="https://images.anandtech.com/galleries/"]), IMG[src*=".digitaltrends.com/"], IMG[src^="https://cdn.vox-cdn.com/"], IMG[src^="https://www.designboom.com"], IMG[src^="https://www.yankodesign.com/images"], IMG[src^="https://ksr-ugc.imgix.net"], IMG[src^="https://images.macrumors.com/"], IMG[src*=".appleinsider.com"], IMG[src^="https://pics.computerbase.de"], IMG[src^="https://cdn.cnn.com/"], IMG[src^="https://nikonrumors.com/"], IMG[src*="googleusercontent.com"], IMG[src^="https://img.welt.de/"], IMG[src^="https://www.gamespot.com"]:not(IMG[src*="square_avatar"]), IMG[src^="https://ijunkie.com"], IMG[src^="https://www.formula1.com/"], IMG[src*=".cloudfront.net/image"] { max-width: 100% !important; width: 100% !important; height: auto !important; margin: 0 0 15px !important; }
 feedly.com##IMG[src^="https://nikonrumors.com/"][src$="-170x170.jpg"]
 feedly.com#$#iframe:not(.twitter-tweet > iframe) { width: 100% !important; height: auto !important; aspect-ratio: auto 16 / 9 !important; }
 feedly.com#$#IMG { border: 0 !important; }
