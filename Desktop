@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.21
+! Version: 1.11.22
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -557,7 +557,6 @@ feedly.com##[data-alternate-link^="http://www.idownloadblog.com"] > .entryBody >
 feedly.com##[data-matching-uri*="academy"]
 feedly.com##[data-uri="filters"]
 feedly.com##[src="//s3.feedly.com/production/head/images/ab-ifttt.png"]
-feedly.com##[src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png"]
 feedly.com##[src="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"]
 feedly.com##[src="https://visuals.feedly.com/v1/resize?url=http%3A%2F%2Fs4.reutersmedia.net%2Fresources_v2%2Fimages%2Frcom-default.png&sizes=647x*!0.01"]
 feedly.com##[src$=".780x349.cZOq262i.jpg"]
@@ -661,11 +660,10 @@ feedly.com#$#.LeftnavListRow__favicon { margin-bottom: 2px !important; }
 feedly.com#$#.menu.m-a-0 { min-width: 160px !important; }
 ! Artikelmediengröße
 feedly.com#$#IMG[src^="https://theawesomer.com/"], IMG[src^="http://theawesomer.com/"], IMG[src^="https://abduzeedo.com/"], IMG[src^="http://imgs.abduzeedo.com/"], [data-alternate-link^="http://abduzeedo.com/"] > div > div > div > div > a > IMG, IMG[src^="http://img.etimg.com/"], IMG[src^="http://media.idownloadblog.com/"], IMG[src^="https://images.anandtech.com/"]:not(IMG[src^="https://images.anandtech.com/galleries/"]), IMG[src*=".digitaltrends.com/"], IMG[src^="https://cdn.vox-cdn.com/"], IMG[src^="https://www.designboom.com"], IMG[src^="https://www.yankodesign.com/images"], IMG[src^="https://ksr-ugc.imgix.net"], IMG[src^="https://images.macrumors.com/"], IMG[src*=".appleinsider.com"], IMG[src^="https://pics.computerbase.de"], IMG[src^="https://cdn.cnn.com/"], IMG[src^="https://nikonrumors.com/"], IMG[src*="googleusercontent.com"], IMG[src^="https://img.welt.de/"], IMG[src^="https://www.gamespot.com"]:not(IMG[src*="square_avatar"]), IMG[src^="https://ijunkie.com"], IMG[src^="https://www.formula1.com/"], IMG[src*=".cloudfront.net/image"] { max-width: 100% !important; width: 100% !important; height: auto !important; margin: 0 0 15px !important; }
+feedly.com#$#IMG[src^="https://s.w.org/images/core/emoji/"] { max-width: 13px !important; }
 feedly.com##IMG[src^="https://nikonrumors.com/"][src$="-170x170.jpg"]
 feedly.com#$#iframe:not(.twitter-tweet > iframe) { width: 100% !important; height: auto !important; aspect-ratio: auto 16 / 9 !important; }
 feedly.com#$#IMG { border: 0 !important; }
-feedly.com#$#IMG[src^="https://www.iphonehacks.com"] { margin-top: 0 !important; margin-bottom: 0.5rem !important; display: block !important; }
-feedly.com#$#IMG[src^="http://cdn.appshopper.com/icons/"] { float: left !important; margin-left: 0 !important; }
 ! MacRumors Weiße Fläche unten
 feedly.com#$#[href^="http://rc.feedsportal.com"] { display: block !important; margin-bottom: -59px !important; border-color: #FFF !important; }
 ! Abduzeedo Best Of The Week
