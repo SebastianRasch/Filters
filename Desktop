@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.24
+! Version: 1.11.25
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -745,7 +745,8 @@ flygresor.se##[class="box latest-searches"]
 focus.de##[id^="google_ads_iframe"]
 focus.de###google_ads_iframe_\/3673\/focus\/homad_0
 ! FORMULA 1
-formula1.com##.row > .col-12.col-sm-6.col-lg-4.col-xl-3:has([href^="/en/latest/article.esports-series"])
+formula1.com##.seo-wrapper
+formula1.com##.row > DIV:has([href*="esports-series"])
 formula1.com##.f1-article--rich-text > p:not(p:first-of-type) > strong
 ! FOX NEWS
 foxnews.com##.sidebar-article
