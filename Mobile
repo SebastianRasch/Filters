@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.15
+! Version: 4.16
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -130,7 +130,7 @@ focus.de###main > article.card:nth-child(6)
 focus.de###MEW_scroll_to_top_wrapper
 focus.de###socialbar
 formula1.com##.row > .col-12.col-sm-6.col-lg-4.col-xl-3:has([href^="/en/latest/article.esports-series"])
-formula1.com##.f1-article--rich-text > p:not(p:first-of-type) > strong
+formula1.com##.f1-article--rich-text > p:has(a > strong)
 formula1.com##.f1-article--related
 formula1.com##.f1-up-next
 formula1.com##.f1-footer__top
