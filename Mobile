@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.16
+! Version: 4.17
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -74,6 +74,7 @@ computerbase.de##.adbox-wrapper
 computerbase.de##.promobar
 computerbase.de##.block1--abo-box
 computerbase.de##.block1--pro-box
+computerbase.de##.block1--pro-box2
 computerbase.de##.block1--breakout-2
 computerbase.de##.footer1
 computerbase.de##.footer2-follow-links
