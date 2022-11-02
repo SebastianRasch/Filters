@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.27
+! Version: 1.11.28
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -749,6 +749,7 @@ formula1.com###sailthru-overlay-container
 formula1.com##.seo-wrapper
 formula1.com##.row > DIV:has([href*="esports-series"])
 formula1.com##.f1-article--rich-text > p > strong > a
+formula1.com##.f1-article--rich-text > p > [href^="https://www.formula1.com/en/latest/article."]:has(strong)
 ! FOX NEWS
 foxnews.com##.sidebar-article
 foxnews.com##.sidebar-columns > .collection
