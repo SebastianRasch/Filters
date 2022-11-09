@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.28
+! Version: 1.11.29
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -319,6 +319,7 @@ cnn.com#$#[data-test="moreMenu"] > div > ul > li { border-bottom-color: white !i
 cnn.com#$#[data-test="moreMenu"] > div, header { background-color: rgba(245, 245, 245, 1) !important }
 cnn.com#$#header::before { border-bottom-color: transparent !important; }
 cnn.com#$#@media screen and (min-width: 1100px) { .nav__container, .l-footer__content { margin: 0 auto !important; max-width: 935px !important; position: relative !important; right: 82px !important; } .pg-rail-tall > .l-container  { padding-right: 165px !important; }}
+cnn.com#$#.header__wrapper-outer { height: 40px !important; top: 0 !important; margin-bottom: 0 !important; }
 cnn.com#$#footer { padding: 32px 0 !important; }
 ! COINMARKETCAP
 coinmarketcap.com##.xahu3l-2
@@ -1145,6 +1146,8 @@ investing.com##H2
 investing.com#$#.navBar { top: 38px !important; }
 investing.com#$#.wrapper { padding-top: 120px !important; }
 investing.com#$##opinionsHpWidget, .TabContainer { margin-top: 35px !important; }
+! INSTAGRAM
+instagram.com##._aak3
 ! IPSW.ME
 ipsw.me##.alert-dismissable
 ipsw.me##.frameForMoney
@@ -1701,6 +1704,7 @@ twitter.com##.r-1d7fvdj
 twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(3)
 twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(4)
 twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(5):not(:last-child)
+twitter.com#$#.css-1dbjc4n { border-color: white !important; }
 ! UPC.IE
 upc.ie###cc-notification
 ! VIMEO
