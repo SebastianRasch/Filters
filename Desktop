@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.29
+! Version: 1.11.30
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -747,6 +747,7 @@ focus.de##[id^="google_ads_iframe"]
 focus.de###google_ads_iframe_\/3673\/focus\/homad_0
 ! FORMULA 1
 formula1.com###sailthru-overlay-container
+formula1.com##.transparent-strip
 formula1.com##.seo-wrapper
 formula1.com##.row > DIV:has([href*="esports-series"])
 formula1.com##.f1-article--rich-text > p > strong > a
@@ -1235,6 +1236,7 @@ macrumors.com##[class^="colLinks--"]
 macrumors.com##[class^="colStaff--"] > div:last-child
 macrumors.com##[class^="colStaff--"] > .button
 macrumors.com##[class^="main--"] > div > h2
+forums.macrumors.com##.button--scroll:last-child
 forums.macrumors.com##.similarThreads
 forums.macrumors.com##.samCodeUnit > .samItem > div
 forums.macrumors.com##.funbox
