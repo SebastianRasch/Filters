@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.22
+! Version: 4.23
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -473,10 +473,10 @@ welt.de##.c-article-sharer__social-container
 welt.de##.c-video-sidebar-container
 welt.de##.c-social-bar__sharing
 welt.de##.c-social-bar--is-sticky
+welt.de##.c-breaking--is-simple
 welt.de##.c-page-header-placebo
 welt.de##.c-page-header-tools__item:first-child
 welt.de##.c-page-container--has-commercials
-welt.de##.c-page-container--has-full-width:nth-child(3)
 welt.de##.c-page-container.u-is-hidden-print
 welt.de##.c-page-footer-navigation__link-main:last-child
 welt.de##.c-page-footer__section:nth-child(n+2)
