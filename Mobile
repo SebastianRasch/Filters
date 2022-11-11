@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.21
+! Version: 4.22
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -484,7 +484,6 @@ welt.de##[data-component="OEmbedComponent"]
 welt.de##[data-qa="Comments.Container"] > DIV > DIV:last-child > DIV:nth-last-child(-n+2)
 welt.de##[data-qa="Comments.Container"] > DIV:last-child > DIV:first-child > DIV:first-child > div
 welt.de##footer > div:last-child
-welt.de#$#.c-page-header { position: relative !important; }
 wired.co.uk##.ad__main
 yankodesign.com###ti_offical_partners-2
 yankodesign.com##.featured-posts.single-related-posts.entries
