@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.30
+! Version: 1.11.31
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1706,7 +1706,6 @@ twitter.com##.r-1d7fvdj
 twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(3)
 twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(4)
 twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(5):not(:last-child)
-twitter.com#$#.css-1dbjc4n { border-color: white !important; }
 ! UPC.IE
 upc.ie###cc-notification
 ! VIMEO
