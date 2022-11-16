@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.31
+! Version: 1.11.32
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -263,6 +263,8 @@ bose.de##.bose-infoBar2016--cookie
 bostonglobe.com##.global-bar.bar-yellow
 ! BPANDO
 bpando.org##DIV[class="at4-follow-inner"]
+! BUNDESLIGA-LIVE
+bundesliga-live.info##.col-md-4
 ! CARANDDRIVER
 caranddriver.com###_evidon-barrier-wrapper
 ! CBSNEWS
@@ -557,6 +559,7 @@ feedly.com##[title="Create Team Newsletter"]
 feedly.com##[data-alternate-link^="http://www.idownloadblog.com"] > .entryBody > .content > H2
 feedly.com##[data-matching-uri*="academy"]
 feedly.com##[data-uri="filters"]
+feedly.com##IMG[src="https://www.welt.de/rss-fallback-video.png"]
 feedly.com##[src="//s3.feedly.com/production/head/images/ab-ifttt.png"]
 feedly.com##[src="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"]
 feedly.com##[src="https://visuals.feedly.com/v1/resize?url=http%3A%2F%2Fs4.reutersmedia.net%2Fresources_v2%2Fimages%2Frcom-default.png&sizes=647x*!0.01"]
@@ -1164,6 +1167,7 @@ jibapps.com##[id="cboxOverlay"]
 jumpshare.com#$#.logo-wrapper { margin-top: 29px !important; }
 jumpshare.com#$#.viewer-header.clearfix > .logo-wrapper { margin-top: 17px !important; }
 ! JOKER
+jokerlivestream.vip###chat
 jokerlivestream.xyz###nwmlay
 jokerlivestream.xyz##.col-lg-12
 jokerlivestream.xyz##.col-sm-3:last-child
