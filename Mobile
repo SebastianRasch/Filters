@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.24
+! Version: 4.25
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -61,6 +61,7 @@ cnn.com##.m-share
 cnn.com##.socialContainer
 cnn.com##[class^="styles_navLinks__"]
 cnn.com##[class^="styles_searchBar__"]
+cnn.com###scroll-to-top-button
 cnn.com###footer-wrap
 cnn.com###social-share
 coinmarketcap.com##.grid > .sc-16r8icm-0:not(.container)
@@ -266,6 +267,7 @@ live.com##.NSwn5prLOvNoVlZx-qXe_:first-child
 localiiz.com##.bglight-culture.block-articles.loaded-js
 localiiz.com###header-pre
 localiiz.com###header-top
+macrumors.com##.uix_fabBar
 macrumors.com##.block--2_RlJqhg
 macrumors.com##.main--3s50rdtq > div:nth-of-type(4)
 macrumors.com##.footerRow--1v7dvMKX
@@ -295,6 +297,8 @@ newatlas.com##.social-bar
 newatlas.com##section.slab
 nikonrumors.com##.addtoany_share_save_container
 nikonrumors.com##.wptouch-showcase
+nordicnest.se##.a9.e5.fd.fe.h0.h1.h2.h3.x
+nordicnest.se###fc_frame
 nomics.com##.fresnel-container:not(.nsh-menu-items > DIV > DIV)
 nomics.com##.anchor-section.relative
 nytimes.com##.css-mlcs8h.e1i2wxpm0
@@ -392,6 +396,7 @@ stern.de##.social-sharing-view-wrapper
 stern.de##.teaser-list-element
 stern.de##.text-element:nth-child(6) > .text-content
 stern.de###articlepage-hero
+svenssons.se##.a9.bw.bx.by.c6.n2.n3.t.u5.u6.u7
 svt.se##.lp_share
 svt.se##.lp_trailers
 svt.se##.lp_transparency-box
@@ -484,6 +489,7 @@ welt.de##.c-page-footer__section:nth-child(n+2)
 welt.de##[data-component="OEmbedComponent"]
 welt.de##[data-qa="Comments.Container"] > DIV > DIV:last-child > DIV:nth-last-child(-n+2)
 welt.de##[data-qa="Comments.Container"] > DIV:last-child > DIV:first-child > DIV:first-child > div
+welt.de#$#.c-channel-header { margin-top: 50px !important; }
 wired.co.uk##.ad__main
 yankodesign.com###ti_offical_partners-2
 yankodesign.com##.featured-posts.single-related-posts.entries
