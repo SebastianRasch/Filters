@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.35
+! Version: 1.11.36
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -325,6 +325,7 @@ cnn.com#$#.header__wrapper-outer { height: 40px !important; top: 0 !important; m
 cnn.com#$#footer { padding: 32px 0 !important; }
 ! COINMARKETCAP
 coinmarketcap.com##.xahu3l-2
+coinmarketcap.com##.brzjOQ
 coinmarketcap.com##.cards
 coinmarketcap.com##.sc-16r8icm-0 .grid
 coinmarketcap.com##.sc-1snuar3-11.cIdfQu:first-child
@@ -579,15 +580,16 @@ feedly.com###realtimeSign
 feedly.com###searchBoxPlaceholder
 feedly.com###supporttab
 feedly.com##A[class="label primary iconless"]
-feedly.com##.ProfileBubble__menu > menu > li:nth-child(3), .ProfileBubble__menu > menu > li:nth-child(4), .ProfileBubble__menu > menu > li:nth-child(5), .ProfileBubble__menu > menu > li:nth-child(6)
 feedly.com##VIDEO
 feedly.com##.empty-state > .illustration
 feedly.com##.LeftnavListRow:nth-of-type(3)
 feedly.com##.col-xl-3-xlarge-only
-! Oberstes Band 
+feedly.com##.content > p:has(a[href^="https://www.foxnews.com/"] > strong)
+feedly.com##.content > p:has([href="https://foxnews.com/download"])
+! Upper bar 
 feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 feedly.com#$#.fixed-bar { box-shadow: none !important; left: 260px !important; margin-left: 260px !important; }
-! Schrift
+! Font
 feedly.com#$#.content:not(.list-entries--layout-u5 > .EntryList__chunk > article > .content) { text-align: justify !important; }
 feedly.com#$#.content > .entry__title { text-align: left !important; }
 feedly.com#$#.LeftnavListRow { font-size: inherit !important; }
@@ -596,11 +598,11 @@ feedly.com#$#.theme--dark .entryBody, .theme--dark .entryBody h1, .theme--dark .
 feedly.com#$#.theme--dark .fx h1, .theme--dark .title { color: rgba(200, 200, 200, 0.88) !important; }
 feedly.com#$#.theme--dark .entry.read .title { color: rgba(100, 100, 100, 0.88) !important; }
 feedly.com#$#.theme--dark .LeftnavListRow { color: rgba(190, 190, 190, 0.88) !important; }
-! Hintergründe
+! Backgrounds
 feedly.com##.entry--selected .CondensedToolbar:not(.entry:hover .CondensedToolbar, .entry--focused .CondensedToolbar)
 feedly.com#$#.headerInfo-expanded-img:hover, .save-for-later:hover, .button-addurl:hover, .button-refresh:hover { background-color: transparent !important; }
 feedly.com#$#.entry--highlight { animation: none !important; }
-! Artikel: Rahmen und Hintergrundfarbe
+! Article: Frame and background colour
 feedly.com#$#.shareBarHolder { margin-bottom: 4px !important; }
 feedly.com#$#.ShareBar, .headerInfo, .entry.u0 { border: 0 !important; }
 feedly.com#$#.headerInfo.headerInfo-article { margin-top: 0 !important; }
@@ -609,10 +611,10 @@ feedly.com#$#.headerInfo-links.right { margin-right: -15px; !important; }
 feedly.com#$#.entry { border: none !important; }
 feedly.com#$#.entryBody [href^="https://www.zeit.de/"] { border-bottom: none !important; float: right !important; margin-left: 10px !important; }
 feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
-! Artikel: Überschrift-Linie
+! Article: Header line
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
 feedly.com#$#.presentation-4 > DIV > header, .presentation-5 > DIV > header { margin-bottom: 15px !important; }
-! Artikel: Breite
+! Article: Width
 feedly.com#$##feedlyPageFX.title-only { padding-right: 23px !important; padding-left: 23px !important; }
 feedly.com#$#.presentation-0 h4 { padding-left: 11px !important; }
 feedly.com#$#.presentation-0 h4.EntryList__heading { padding-left: 14px !important; }
@@ -633,11 +635,11 @@ feedly.com#$#.entry .CondensedToolbar { margin-right: 4px !important; }
 feedly.com#$#.entry.u5 { margin-right: 8px !important; margin-bottom: 20px !important; }
 feedly.com#$#.entry.u5 .content { margin-top: 10px !important; }
 feedly.com#$#.ShareBar__wrapper { width: auto !important; }
-! Artikel: Abstände
+! Article: Distances
 feedly.com#$##feedlyPart0.area { padding-left: 15px !important; }
 feedly.com#$##feedlyPageHeader { margin-right: 23px !important; margin-left: 11px !important; }
 feedly.com#$##feedlyPart { padding-right: 15px !important; }
-! Artikel schließen
+! Close article
 feedly.com#$#.InlineArticleEdge--top { height: 31px !important; }
 feedly.com#$#.InlineArticleEdge--top:hover { opacity 1 !important; visibility: visible !important; background-color: #f6f7f8 !important; }
 feedly.com#$#.InlineArticle__close-button { padding: 7px 8px !important; }
@@ -647,7 +649,7 @@ feedly.com#$#.GiantMarkAsRead       { background-color: #f6f7f8 !important; bord
 feedly.com#$#.GiantMarkAsRead:hover { background-color: #f1f2f4 !important; border: none !important; }
 feedly.com#$#.secondaryCallForAction:hover, .secondaryCallForAction { border: 0 !important; }
 feedly.com#$#.fx .button.secondary, .button-dropdown { border: none !important; }
-! Menü links
+! Menu left
 feedly.com#$##feedlyFrame { margin-left: 264px !important; }
 feedly.com#$#.Leftnav { width: 264px !important; }
 feedly.com#$#.m-t-2 { margin-top: 1.7rem !important; }
@@ -660,19 +662,17 @@ feedly.com#$#.LeftnavListRow { padding: 0 15px !important; }
 feedly.com#$#.LeftnavListRow--child { padding-left: 40px !important; }
 feedly.com#$#.LeftnavListRow__text { width: 110px !important; margin-left: 5px !important; }
 feedly.com#$#.LeftnavListRow__favicon { margin-bottom: 2px !important; }
-! Profilmenu
+! Profile menu
 feedly.com#$#.menu.m-a-0 { min-width: 160px !important; }
-! Artikelmediengröße
+feedly.com##.ProfileBubble__menu > menu > li:nth-child(3), .ProfileBubble__menu > menu > li:nth-child(4), .ProfileBubble__menu > menu > li:nth-child(5), .ProfileBubble__menu > menu > li:nth-child(6)
+! Article media size
 feedly.com#$#IMG[src^="https://theawesomer.com/"], IMG[src^="http://theawesomer.com/"], IMG[src^="https://abduzeedo.com/"], IMG[src^="http://imgs.abduzeedo.com/"], [data-alternate-link^="http://abduzeedo.com/"] > div > div > div > div > a > IMG, IMG[src^="http://img.etimg.com/"], IMG[src^="http://media.idownloadblog.com/"], IMG[src^="https://images.anandtech.com/"]:not(IMG[src^="https://images.anandtech.com/galleries/"]), IMG[src*=".digitaltrends.com/"], IMG[src^="https://cdn.vox-cdn.com/"], IMG[src^="https://www.designboom.com"], IMG[src^="https://www.yankodesign.com/images"], IMG[src*="behance.net"], IMG[src^="https://ksr-ugc.imgix.net"], IMG[src^="https://images.macrumors.com/"], IMG[src*=".appleinsider.com"], IMG[src^="https://pics.computerbase.de"], IMG[src^="https://cdn.cnn.com/"], IMG[src^="https://nikonrumors.com/"], IMG[src*="googleusercontent.com"], IMG[src^="https://img.welt.de/"], IMG[src*="static.foxnews.com/"], IMG[src^="https://www.gamespot.com"]:not(IMG[src*="square_avatar"]), IMG[src^="https://ijunkie.com"], IMG[src^="https://www.formula1.com/"], IMG[src*=".cloudfront.net/image"] { max-width: 100% !important; width: 100% !important; height: auto !important; margin: 0 0 15px !important; }
 feedly.com#$#IMG[src^="https://s.w.org/images/core/emoji/"] { max-width: 13px !important; vertical-align: initial !important; }
 feedly.com##IMG[src^="https://nikonrumors.com/"][src$="-170x170.jpg"]
 feedly.com#$#iframe:not(.twitter-tweet > iframe) { width: 100% !important; height: auto !important; aspect-ratio: auto 16 / 9 !important; }
 feedly.com#$#IMG { border: 0 !important; }
-! MacRumors Weiße Fläche unten
+! MacRumors white space bottom
 feedly.com#$#[href^="http://rc.feedsportal.com"] { display: block !important; margin-bottom: -59px !important; border-color: #FFF !important; }
-! Abduzeedo Best Of The Week
-feedly.com#$#[src^="http://imgs.abduzeedo.com/files/best_week/"] { margin-bottom: -3.5rem !important; margin-top: 4rem !important; }
-feedly.com#$#.entryBody h4 { margin-bottom: -1.4rem !important; }
 ! FIDO
 fido.ie##[id="f-sponsors"]
 ! FIFA
@@ -758,6 +758,7 @@ formula1.com##.f1-article--rich-text > p > [href^="https://www.formula1.com/en/l
 ! FOX NEWS
 foxnews.com##.sidebar-article
 foxnews.com##.sidebar-columns > .collection
+foxnews.com##.article-body > p > a:has(strong)
 foxnews.com##.footer-upper
 foxnews.com##.social-icons
 ! GAMEANALYTICS
@@ -1416,6 +1417,9 @@ profitf.com###text-28
 ! QASA
 qasa.se##.nav-avatar__BadgeContainer-sc-oa2hhz-1
 qasa.se##.new-badge-label__BadgeContainer-sc-1ottrq6-1
+! QOPLA
+qopla.com##.eiDuKV
+qopla.com##.dFmFVv
 ! QUORA
 quora.com##.dialog_wrapper
 ! RATSIT
@@ -1521,6 +1525,8 @@ skyscanner.se###sidebar
 skyscanner.se##.InlineHotelsBanner_inlineHotelsBannerContainer__3_3dy
 skyscanner.se##.InlineBrandBanner_link__3-w4T
 skyscanner.se###price-alerts
+! SKYSHOWTIME
+skyshowtime.com##.video-overlaystyles__VideoOverlayContainer-sc-kcgtpf-0
 ! SL
 sl.se##.campaign-message
 ! SMARTEYES
@@ -1749,6 +1755,7 @@ welt.de##.c-page-container.u-is-hidden-print
 welt.de##.c-page-footer__section:nth-child(n+2)
 welt.de##.c-page-footer-navigation__link-main:last-child
 welt.de##.c-end-screen
+welt.de##.c-error-screen
 welt.de##.c-teaser-power-teaser-fallback
 welt.de##.c-inline-teaser-list
 welt.de##.external-more-like-this-taboola-marker
