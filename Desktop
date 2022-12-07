@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.40
+! Version: 1.11.41
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -757,7 +757,7 @@ formula1.com##.row > DIV:has([href*="esports-series"])
 formula1.com##.f1-article--rich-text > p > strong > a
 formula1.com##.f1-article--rich-text > p > [href^="https://www.formula1.com/en/latest/article."]:has(strong)
 ! FOXNEWS
-foxnews.com, foxbusiness.com##.sidebar
+foxbusiness.com##.sidebar
 foxnews.com, foxbusiness.com##.sidebar-article
 foxnews.com, foxbusiness.com##.sidebar-columns > .collection
 foxnews.com, foxbusiness.com##.article-body > p > a:has(strong)
@@ -766,7 +766,7 @@ foxnews.com, foxbusiness.com##.social-icons
 foxnews.com, foxbusiness.com##.sticky-video
 foxnews.com, foxbusiness.com##[ID*="iframe-banner"]
 foxnews.com, foxbusiness.com##.collection-market-indexes
-foxnews.com, foxbusiness.com##.article-content { width: 100% !important; }
+foxnews.com, foxbusiness.com#$#.article-content { width: 100% !important; }
 ! GAMEANALYTICS
 blog.gameanalytics.com##[class="panel"]
 blog.gameanalytics.com##[class="return_link"]
