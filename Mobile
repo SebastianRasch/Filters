@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.28
+! Version: 4.29
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -145,6 +145,7 @@ foxnews.com, foxbusiness.com##.social-icons
 foxnews.com, foxbusiness.com##[ID*="iframe-banner"]
 foxnews.com, foxbusiness.com##.collection-market-indexes
 foxnews.com, foxbusiness.com##.footer-upper
+foxnews.com, foxbusiness.com#$#.footer-lower { border-top: none !important; padding-top: 0 !important; }
 gadgethacks.com##.whtaph-300
 gadgethacks.com###ad-top-lock
 gamesradar.com##.news-article:nth-child(2) > section:nth-child(4) > div:nth-child(6)
