@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.45
+! Version: 1.11.46
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -604,7 +604,7 @@ feedly.com##.entry--selected .CondensedToolbar:not(.entry:hover .CondensedToolba
 feedly.com#$#.headerInfo-expanded-img:hover, .save-for-later:hover, .button-addurl:hover, .button-refresh:hover { background-color: transparent !important; }
 feedly.com#$#.entry--highlight { animation: none !important; }
 ! Article: Frame and background colour
-feedly.com#$#.entry.u4:hover, .entry.u5:hover { background-color: #f6f7f8 !important; }
+feedly.com#$#.entry:not(.entry--selected).u4:hover, .entry:not(.entry--selected).u5:hover { background-color: #f6f7f8 !important; }
 feedly.com#$#.shareBarHolder { margin-bottom: 4px !important; }
 feedly.com#$#.ShareBar, .headerInfo, .entry.u0 { border: 0 !important; }
 feedly.com#$#.headerInfo.headerInfo-article { margin-top: 0 !important; }
@@ -636,7 +636,7 @@ feedly.com#$#span.ago { padding-right: 1rem !important; }
 feedly.com#$#.entry .CondensedToolbar { margin-right: 4px !important; }
 feedly.com#$#.entry.u5 { margin-right: 8px !important; margin-bottom: 20px !important; }
 feedly.com#$#.ShareBar__wrapper { width: auto !important; }
-! Article: Distances
+! Article: Height
 feedly.com#$#.Article--inlined { padding-top: 0 !important; margin-top: 10px !important; }
 feedly.com#$#.entry.u4 { margin-bottom: 9px !important; padding-bottom: 8px !important; }
 feedly.com#$#.entry.u5 .content { margin-top: 10px !important; }
