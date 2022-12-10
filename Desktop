@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.11.44
+! Version: 1.11.45
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -604,6 +604,7 @@ feedly.com##.entry--selected .CondensedToolbar:not(.entry:hover .CondensedToolba
 feedly.com#$#.headerInfo-expanded-img:hover, .save-for-later:hover, .button-addurl:hover, .button-refresh:hover { background-color: transparent !important; }
 feedly.com#$#.entry--highlight { animation: none !important; }
 ! Article: Frame and background colour
+feedly.com#$#.entry.u4:hover, .entry.u5:hover { background-color: #f6f7f8 !important; }
 feedly.com#$#.shareBarHolder { margin-bottom: 4px !important; }
 feedly.com#$#.ShareBar, .headerInfo, .entry.u0 { border: 0 !important; }
 feedly.com#$#.headerInfo.headerInfo-article { margin-top: 0 !important; }
@@ -615,7 +616,7 @@ feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 ! Article: Header line
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
 feedly.com#$#.presentation-4 > DIV > header, .presentation-5 > DIV > header { margin-bottom: 15px !important; }
-! Article: Width
+! Article
 feedly.com#$##feedlyPageFX.title-only { padding-right: 23px !important; padding-left: 23px !important; }
 feedly.com#$#.presentation-0 h4 { padding-left: 11px !important; }
 feedly.com#$#.presentation-0 h4.EntryList__heading { padding-left: 14px !important; }
@@ -634,9 +635,11 @@ feedly.com#$#.save-for-later { margin-left:  -12px !important; }
 feedly.com#$#span.ago { padding-right: 1rem !important; }
 feedly.com#$#.entry .CondensedToolbar { margin-right: 4px !important; }
 feedly.com#$#.entry.u5 { margin-right: 8px !important; margin-bottom: 20px !important; }
-feedly.com#$#.entry.u5 .content { margin-top: 10px !important; }
 feedly.com#$#.ShareBar__wrapper { width: auto !important; }
 ! Article: Distances
+feedly.com#$#.Article--inlined { padding-top: 0 !important; margin-top: 10px !important; }
+feedly.com#$#.entry.u4 { margin-bottom: 9px !important; padding-bottom: 8px !important; }
+feedly.com#$#.entry.u5 .content { margin-top: 10px !important; }
 feedly.com#$##feedlyPart0.area { padding-left: 15px !important; }
 feedly.com#$##feedlyPageHeader { margin-right: 23px !important; margin-left: 11px !important; }
 feedly.com#$##feedlyPart { padding-right: 15px !important; }
