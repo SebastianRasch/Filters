@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.12.02
+! Version: 1.12.03
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -574,7 +574,7 @@ feedly.com###filtertab
 feedly.com###fullyLoadedFollowing
 feedly.com###integrationstab_header
 feedly.com###librarytab_header
-feedly.com###barsFX
+feedly.com###topHeaderBarFX
 feedly.com###herculeFrame
 feedly.com###intercom-frame
 feedly.com###realtimeSign
