@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.12.03
+! Version: 1.12.04
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -582,6 +582,7 @@ feedly.com###searchBoxPlaceholder
 feedly.com###supporttab
 feedly.com##A[class="label primary iconless"]
 feedly.com##VIDEO
+feedly.com##.presentation-0 header
 feedly.com##.empty-state > .illustration
 feedly.com##.LeftnavListRow:nth-of-type(3)
 feedly.com##.col-xl-3-xlarge-only
@@ -589,7 +590,6 @@ feedly.com##.content > p:has(a[href^="https://www.foxnews.com/"] > strong)
 feedly.com##.content > p:has([href="https://foxnews.com/download"])
 ! Upper bar 
 feedly.com#$##feedlyMessageBar { width: 1162px !important; }
-feedly.com#$#.fixed-bar { box-shadow: none !important; left: 260px !important; margin-left: 260px !important; }
 ! Font
 feedly.com#$#.content:not(.list-entries--layout-u5 > .EntryList__chunk > article > .content) { text-align: justify !important; }
 feedly.com#$#.content > .entry__title { text-align: left !important; }
@@ -615,7 +615,11 @@ feedly.com#$#.entryBody [href^="https://www.zeit.de/"] { border-bottom: none !im
 feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 ! Article: Header line
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
+feedly.com#$##barsFX { margin-left: 264px !important; }
+feedly.com#$##headerBarFX h2 { padding-left: 2px !important; font-size: 1.6rem !important; }
+feedly.com#$##feedlyPageHolderFX { margin-top: 57px !important; }
 feedly.com#$#.presentation-4 > DIV > header, .presentation-5 > DIV > header { margin-bottom: 15px !important; }
+feedly.com#$#.header .right-col { padding-right: 0 !important; }
 ! Article
 feedly.com#$##feedlyPageFX.title-only { padding-right: 23px !important; padding-left: 23px !important; }
 feedly.com#$#.presentation-0 h4 { padding-left: 11px !important; }
@@ -657,10 +661,10 @@ feedly.com#$#.fx .button.secondary, .button-dropdown { border: none !important; 
 ! Menu left
 feedly.com#$##feedlyFrame { margin-left: 264px !important; }
 feedly.com#$#.Leftnav { width: 264px !important; }
-feedly.com#$#.m-t-2 { margin-top: 1.7rem !important; }
+feedly.com#$#.m-t-2 { margin-top: 1rem !important; }
 feedly.com#$#.Leftnav { background-color: #f6f7f8 !important; border-right: 1px solid #efefef !important; }
 feedly.com#$#.LeftnavDock { width: 44px !important; justify-content: end !important; }
-feedly.com#$#.LeftnavList { width: 220px !important; margin-left: 44px !important; margin-top: -1.3rem !important; }
+feedly.com#$#.LeftnavList { width: 220px !important; margin-left: 44px !important; }
 feedly.com#$#.LeftnavList__heading-button { margin-right: -16px !important; }
 feedly.com#$#.LeftnavList__heading-visibility-button { margin-right: 0 !important; }
 feedly.com#$#.LeftnavListRow { padding: 0 15px !important; }
