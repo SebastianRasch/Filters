@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.12.08
+! Version: 1.12.09
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -555,6 +555,9 @@ feedly.com##.tagsHolder.decoration-holder
 feedly.com##.u0.unread:not([id$="_main"])
 feedly.com##.visitWebsiteButton
 feedly.com##.websiteCallForAction
+feedly.com##.StreamPage > DIV > DIV > h2
+feedly.com##.presentation-4 > DIV > header
+feedly.com##.presentation-5 > DIV > header
 feedly.com##[title="Share with teammates"]
 feedly.com##[title="Create Team Newsletter"]
 feedly.com##[data-alternate-link^="http://www.idownloadblog.com"] > .entryBody > .content > H2
@@ -615,11 +618,17 @@ feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 ! Article: Header line
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
 feedly.com#$##barsFX { margin-left: 264px !important; }
+feedly.com#$##headerBarFX .header { max-width: 100% !important; padding: 8px 21px !important; }
 feedly.com#$##headerBarFX h2 { padding-left: 2px !important; font-size: 1.6rem !important; }
 feedly.com#$#.presentation-4 > DIV > header, .presentation-5 > DIV > header { margin-bottom: 15px !important; }
 feedly.com#$#.header .right-col { padding-right: 0 !important; }
 ! Article
-feedly.com#$#.fx .list-entries { margin-top: -18px !important; }
+feedly.com#$#.MagazineEntry, #feedlyPageFX { max-width: 100% !important; }
+feedly.com#$#.MagazineEntry, .CardEntry { margin-left: 0 !important; }
+feedly.com#$#.CardEntry { border: none !important; margin-top: 0 !important; }
+feedly.com#$#.CardEntry:hover { background-color: #f6f7f8 !important; }
+feedly.com#$#.entry.u5 { margin-right: 0 !important; }
+feedly.com#$#.list-entries--layout-u5 { margin-top: 80px !important; }
 feedly.com#$##feedlyPageFX.title-only { padding-right: 23px !important; padding-left: 23px !important; }
 feedly.com#$#.presentation-0 h4 { padding-left: 11px !important; }
 feedly.com#$#.presentation-0 h4.EntryList__heading { padding-left: 14px !important; }
