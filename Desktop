@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.12.11
+! Version: 1.12.12
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -558,7 +558,7 @@ feedly.com##.websiteCallForAction
 feedly.com##.StreamPage > DIV > DIV > h2
 feedly.com##.presentation-4 > DIV > header
 feedly.com##.presentation-5 > DIV > header
-feedly.com##.col-xs-6.col-md-6 > DIV
+feedly.com##.col-xs-6.col-md-6 > DIV > .detail
 feedly.com##[title="Share with teammates"]
 feedly.com##[title="Create Team Newsletter"]
 feedly.com##[data-alternate-link^="http://www.idownloadblog.com"] > .entryBody > .content > H2
@@ -591,8 +591,6 @@ feedly.com##.LeftnavListRow:nth-of-type(3)
 feedly.com##.col-xl-3-xlarge-only
 feedly.com##.content > p:has(a[href^="https://www.foxnews.com/"] > strong)
 feedly.com##.content > p:has([href="https://foxnews.com/download"])
-! Upper bar 
-feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 ! Font
 feedly.com#$#.content:not(.list-entries--layout-u5 > .EntryList__chunk > article > .content) { text-align: justify !important; }
 feedly.com#$#.content > .entry__title { text-align: left !important; }
@@ -617,12 +615,15 @@ feedly.com#$#.entry, .TitleOnlyEntry { border: none !important; }
 feedly.com#$#.entryBody [href^="https://www.zeit.de/"] { border-bottom: none !important; float: right !important; margin-left: 10px !important; }
 feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 ! Article: Header line
+feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
 feedly.com#$##barsFX { margin-left: 264px !important; }
 feedly.com#$##headerBarFX .header { max-width: 100% !important; padding: 8px 21px !important; }
 feedly.com#$##headerBarFX h2 { padding-left: 2px !important; font-size: 1.6rem !important; }
 feedly.com#$#.presentation-4 > DIV > header, .presentation-5 > DIV > header { margin-bottom: 15px !important; }
 feedly.com#$#.header .right-col { padding-right: 0 !important; }
+feedly.com#$#.m-b-0 { margin-top: 1.2rem !important; }
+feedly.com#$#.col-xs-6 { height: 0 !important; }
 ! Article
 feedly.com#$#.MagazineEntry, #feedlyPageFX { max-width: 100% !important; }
 feedly.com#$#.MagazineEntry, .CardEntry { margin-left: 0 !important; margin-bottom: 12px !important; border: none !important; }
@@ -636,13 +637,13 @@ feedly.com#$#.presentation-0 header { margin-bottom: 0 !important; height: 57px 
 feedly.com#$#.presentation-0 h4.EntryList__heading { padding-left: 14px !important; }
 feedly.com#$#.InlineArticle--u4 { margin-left: 0 !important; margin-right: 0 !important; }
 feedly.com#$#.u0 > DIV > article > .entryholder > .u100Entry, .container:has(.presentation-100), .u4 > DIV > article { margin-left: 162px !important; margin-right: 180px !important; }
-feedly.com#$#.u100Entry, #feedlyPageFX:has(.presentation-100) { max-width: 1000px !important; width: auto !important; margin-left: 145px !important; }
 feedly.com#$#.entryBody, #feedlyPageFX:has(.presentation-4, .presentation-5), .col-xl-9.col-xl-9-xlarge-only { width: 100% !important; max-width: none !important; }
+feedly.com#$#.u100Entry, #feedlyPageFX:has(.presentation-100) { max-width: 1000px !important; width: auto !important; margin-left: 145px !important; }
+feedly.com#$#.container630 { max-width: 1000px !important; }
+feedly.com#$#.slideEntryContent > article > .entryholder > .u100Entry { max-width: 100% !important; }
+feedly.com#$#.sliderContainer, .sliderWidth { width: 82% !important; }
 feedly.com#$#.engagement-container { width: 30px !important; }
 feedly.com#$#.inlineFrame.u4 { margin-left: 0 !important; margin-right: 0 !important; margin-top: -12px !important; }
-feedly.com#$#.sliderWidth { width: 800px !important; }
-feedly.com#$#.slideEntryContent > article > .entryholder > .u100Entry { max-width: 100% !important; }
-feedly.com#$#.sliderContainer { width: 82% !important; }
 feedly.com#$#.floatingEntryContent__tab-button { padding-left: 20px !important; }
 feedly.com#$#.button-refresh { margin-right: -10px !important; }
 feedly.com#$#.save-for-later { margin-left:  -12px !important; }
