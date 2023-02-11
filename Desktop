@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.12.14
+! Version: 1.12.15
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -906,6 +906,7 @@ golem.de##.pcgh
 golem.de##.pcgh_head
 golem.de##[href^="https://www.awin1.com/cread.php"]
 golem.de##[class^="plista"]
+golem.de##[class*="grcol"]
 golem.de##[style*="min-height:266px;"]
 golem.de###WPuLmJQ
 golem.de###ioTtTYB
@@ -930,18 +931,20 @@ golem.de###phorum > DIV:first-child:not(#screen)
 golem.de###pricehits
 golem.de###recently
 golem.de###related
-golem.de###screen > .g2
 golem.de###tusplit1 > .g.g6
 golem.de###tusplit2
 golem.de###small-ticker10
 golem.de###whitepaper
 golem.de##a.text1
 golem.de##TD.list-pages
+!Forum
 forum.golem.de##.information
 forum.golem.de##.g2.g:nth-of-type(4)
 forum.golem.de###recently
-forum.golem.de###screen > .g2.g
 forum.golem.de###small-ticker
+golem.de#$##phorum aside { min-height: 0 !important; margin-top: -20px !important; margin-bottom: 0 !important; margin-left: -996px !important;}
+golem.de#$##screen > .g.g2 { float: left !important; width: auto !important; margin-left: 0 !important; }
+!Seite
 golem.de#$#.header-wrapper { background-color: transparent !important; position: absolute !important; height: 70px !important; top: -10px !important; }
 golem.de#$#.gbox_affiliate, [onclick*="rklmhit"] { display: none !important; }
 golem.de#$#.promos { border: none !important; margin: 0 !important; }
@@ -1585,6 +1588,8 @@ online.swedbank.se##swed-alert-message
 swide.com##[class="widget_newsletter"]
 ! SYSTEMBOLAGET
 systembolaget.se##[ID^="vngage_banner_"]
+! TECHACROBAT
+techacrobat.com###cGxGVFdpWWo1MWhaeVU1UU1pR0dITExPQ3o0NFFqU3VOcktFWE9vOWxzMD0zfeiv
 ! TECHHIVE
 techhive.com##.techDeals
 techhive.com##[id^="affil-widget-"]
@@ -1735,6 +1740,7 @@ trakt.tv#$#.trakt-icon-swap-vertical, .btn-list-clone { margin-left: 0 !importan
 travelstore.se###hotelscom
 ! TWITTER
 twitter.com##.r-1d7fvdj
+twitter.com##.r-13qz1uu:nth-child(6)
 twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(3)
 twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(4)
 twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(5):not(:last-child)
@@ -1844,6 +1850,7 @@ youtube.com##.ytp-ce-element
 youtube.com##.video-ads
 youtube.com###player-ads
 ! ZALANDO
+zalando.se##._2hG8pA.XEQvS9
 zalando.se##.headerUsp
 zalando.se##.z-navicat-header-uspBar
 zalando.se##.z-uspBar
