@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.12.18
+! Version: 1.12.19
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -607,7 +607,8 @@ feedly.com##.entry--selected .CondensedToolbar:not(.entry:hover .CondensedToolba
 feedly.com#$#.headerInfo-expanded-img:hover, .save-for-later:hover, .button-addurl:hover, .button-refresh:hover { background-color: transparent !important; }
 feedly.com#$#.entry--highlight { animation: none !important; }
 ! Article: Frame and background colour
-feedly.com#$#.MagazineEntry:hover { background-color: #f6f7f8 !important; }
+feedly.com#$#.MagazineLayout, .CardLayout { margin: 0 0 12px !important; border: none !important; }
+feedly.com#$#.MagazineLayout:hover, .CardLayout:hover { background-color: #f6f7f8 !important; }
 feedly.com#$#.shareBarHolder { margin-bottom: 4px !important; }
 feedly.com#$#.ShareBar, .headerInfo, .TitleOnlyLayout, .entry.u0 { border: 0 !important; }
 feedly.com#$#.headerInfo.headerInfo-article { margin-top: 0 !important; }
@@ -622,21 +623,19 @@ feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
 feedly.com#$##barsFX { margin-left: 264px !important; }
 feedly.com#$##headerBarFX .header { max-width: 100% !important; padding: 8px 21px !important; }
 feedly.com#$##headerBarFX h2 { padding-left: 2px !important; font-size: 1.6rem !important; }
-feedly.com#$#.presentation-4 > DIV > header, .presentation-5 > DIV > header { margin-bottom: 15px !important; }
 feedly.com#$#.header .right-col { padding-right: 0 !important; }
 feedly.com#$#.m-b-0 { margin-top: 1.2rem !important; }
 feedly.com#$#.col-xs-6 { height: 48px !important; }
 ! Article
-feedly.com#$#.MagazineEntry, #feedlyPageFX { max-width: 100% !important; }
-feedly.com#$#.MagazineEntry, .CardEntry { margin-left: 0 !important; margin-bottom: 12px !important; border: none !important; }
-feedly.com#$#.CardEntry { border: none !important; margin-top: 0 !important; }
-feedly.com#$#.CardEntry:hover { background-color: #f6f7f8 !important; }
-feedly.com#$#.entry.u5 { margin-right: 0 !important; }
-feedly.com#$#.list-entries--layout-u4, .list-entries--layout-u5 { margin-top: 83px !important; }
+feedly.com#$#.MagazineLayout, #feedlyPageFX { max-width: 100% !important; }
 feedly.com#$##feedlyPageFX.title-only { padding-right: 23px !important; padding-left: 23px !important; }
+feedly.com#$#.entry.u5 { margin-right: 0 !important; }
+feedly.com#$#.list-entries--layout-u4, .list-entries--layout-u5 { margin-top: 33px !important; }
+feedly.com#$#.presentation-0 { margin-top: -50px !important; }
 feedly.com#$#.presentation-0 h4 { padding-left: 11px !important; }
-feedly.com#$#.presentation-0 header { height: 57px !important; }
 feedly.com#$#.presentation-0 h4.EntryList__heading { padding-left: 14px !important; }
+feedly.com#$#.presentation-0 header { height: 57px !important; }
+feedly.com#$#.presentation-4 > DIV > header, .presentation-5 > DIV > header { margin-bottom: 15px !important; }
 feedly.com#$#.InlineArticle--u4 { margin-left: 0 !important; margin-right: 0 !important; }
 feedly.com#$#.u0 > DIV > article > .entryholder > .u100Entry, .container:has(.presentation-100), .u4 > DIV > article { margin-left: 162px !important; margin-right: 180px !important; }
 feedly.com#$#.entryBody, #feedlyPageFX:has(.presentation-4, .presentation-5), .col-xl-9.col-xl-9-xlarge-only { width: 100% !important; max-width: none !important; }
