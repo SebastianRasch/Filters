@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.13.00
+! Version: 1.13.01
 ! 
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1272,9 +1272,12 @@ forums.macrumors.com##.samCodeUnit > .samItem > div
 forums.macrumors.com##.funbox
 forums.macrumors.com##.sharePage
 forums.macrumors.com##FOOTER:not(.message-footer)
+macrumors.com#$#.discussionList .sectionHeaders a span { padding: 8px 6px !important; }
+macrumors.com#$#.footerInner--U2z8mpf2 { padding-bottom: 40px !important; }
+macrumors.com#$#.colStaff--25U_xLo2 { margin: 0 0 -70px !important; }
 macrumors.com#$#article > div > p > img, article > div > div > p > img { width: 100% !important; }
 macrumors.com#$##guide-products { margin-top: 1px !important; }
-macrumors.com#$#.discussionList .sectionHeaders a span { padding: 8px 6px !important; }
+macrumors.com#$#@media (prefers-color-scheme: light) { body, HTML { background: none !important; }}
 ! MACTECHNEWS
 mactechnews.de##.DfpPanel300
 mactechnews.de##.SynFacebookBoxPanel
