@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.29
+! Version: 4.30
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -480,14 +480,14 @@ welt.de##.c-stage.nocontent
 welt.de##.c-tool-element--is-abo
 welt.de##.c-ad__skyscraper
 welt.de##.c-inline-teaser
-welt.de##.c-teaser-power-teaser-fallback
+welt.de##.c-inline-navigation
 welt.de##.c-inline-teaser-list
+welt.de##.c-teaser-power-teaser-fallback
 welt.de##.c-article-sharer__social-container
 welt.de##.c-video-sidebar-container
 welt.de##.c-social-bar__sharing
 welt.de##.c-social-bar--is-sticky
 welt.de##.c-breaking--is-simple
-welt.de##.c-page-header-placebo
 welt.de##.c-page-header-tools__item:first-child
 welt.de##.c-page-container--has-commercials
 welt.de##.c-page-container.u-is-hidden-print
@@ -496,7 +496,6 @@ welt.de##.c-page-footer__section:nth-child(n+2)
 welt.de##[data-component="OEmbedComponent"]
 welt.de##[data-qa="Comments.Container"] > DIV > DIV:last-child > DIV:nth-last-child(-n+2)
 welt.de##[data-qa="Comments.Container"] > DIV:last-child > DIV:first-child > DIV:first-child > div
-welt.de#$#.c-channel-header { margin-top: 50px !important; }
 wired.co.uk##.ad__main
 yankodesign.com###ti_offical_partners-2
 yankodesign.com##.featured-posts.single-related-posts.entries
