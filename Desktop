@@ -1,6 +1,6 @@
 ! Title: Superstraktulation
-! Version: 1.13.01
-! 
+! Version: 1.13.02
+!
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
 @@||gisanddata.maps.arcgis.com^$important,document,~extension
@@ -394,6 +394,7 @@ computerbase.de#$#.image-slider__pic1-wrapper2 { max-width: 960px !important; }
 computerbase.de#$#.border-image, .thumbs--align-captions figure, .article-view__footer  { border: none !important; }
 computerbase.de#$#.figure-img, .gallery--inline .gallery__img, .image a:not(.figure__subtitle > a), .image img, .image video { width: 100% !important; }
 computerbase.de#$#.poll { border-width: 0 !important; }
+computerbase.de#$#.block1--breakout-2 .wrapper { background-color: transparent !important; }
 ! Forum
 computerbase.de#$##above_threadlist_controls.above_threadlist_controls.toolsmenu.clearfix, #thread_controls.thread_controls.toolsmenu.clearfix, .toolsmenu, .forumbit_nopost, .forumbits, .threadlist-wrapper { border: 0 !important; padding: 0 !important; background: 0 !important; }
 computerbase.de#$#.forumhead, .threadbit .sticky, .threadbit .nonsticky, .threadbit .discussionrow, .threadlisthead, .forumbit_nopost .forumbit_nopost .forumrow, .forumbit_post .forumrow, div.posthead.clearfix { border-color: transparent !important; }
@@ -765,6 +766,7 @@ flygresor.se##[class="box latest-searches"]
 focus.de##[id^="google_ads_iframe"]
 focus.de###google_ads_iframe_\/3673\/focus\/homad_0
 ! FORMULA 1
+formula1.com###silentAudioBanner
 formula1.com###sailthru-overlay-container
 formula1.com##.transparent-strip
 formula1.com##.seo-wrapper
@@ -1834,6 +1836,8 @@ wired.com#$#.site-footer__navigation-notices { margin-left: 25px !important; }
 wired.com#$#.grid-margins { display: block !important; max-width: 900px !important; }
 wired.com#$#.gallery__text-block, .gallery-slide-caption__dek { text-align: justify !important; }
 wired.com#$#.content-header__title-block, .content-header__accreditation { max-width: 900px !important; margin: auto !important; }
+! YANKO DESIGN
+yankodesign.com##.top-strip
 ! YOUTUBE
 youtube.com##yt-related-chip-cloud-renderer
 youtube.com##[class^="ad-"]
