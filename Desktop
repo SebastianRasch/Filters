@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.13.08
+! Version: 1.13.09
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -610,7 +610,7 @@ feedly.com##.entry--selected .CondensedToolbar:not(.entry:hover .CondensedToolba
 feedly.com#$#.headerInfo-expanded-img:hover, .save-for-later:hover, .button-addurl:hover, .button-refresh:hover { background-color: transparent !important; }
 feedly.com#$#.entry--highlight { animation: none !important; }
 ! Article: Frame and background colour
-feedly.com#$#.MagazineLayout, .CardLayout { margin: 0 0 12px !important; border: none !important; }
+feedly.com#$#.MagazineLayout, .CardLayout { margin: 0 !important; border: none !important; }
 feedly.com#$#.MagazineLayout:hover, .CardLayout:hover { background-color: #f6f7f8 !important; }
 feedly.com#$#.shareBarHolder { margin-bottom: 4px !important; }
 feedly.com#$#.ShareBar, .headerInfo, .TitleOnlyLayout, .entry.u0 { border: 0 !important; }
@@ -621,6 +621,8 @@ feedly.com#$#.entry, .TitleOnlyEntry { border: none !important; }
 feedly.com#$#.entryBody [href^="https://www.zeit.de/"] { border-bottom: none !important; float: right !important; margin-left: 10px !important; }
 feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 ! Article: Header line
+feedly.com###topHeaderBarFX
+feedly.com##.fx .presentation-0 header
 feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
 feedly.com#$##barsFX { margin-left: 264px !important; }
@@ -638,6 +640,7 @@ feedly.com#$#.list-entries--layout-u4, .list-entries--layout-u5 { margin-top: 83
 feedly.com#$#.presentation-0 h4 { padding-left: 11px !important; }
 feedly.com#$#.presentation-0 h4.EntryList__heading { padding-left: 14px !important; }
 feedly.com#$#.presentation-0 header { height: 57px !important; }
+feedly.com#$#.presentation-4, .presentation-5 { padding-top: 12px !important; }
 feedly.com#$#.presentation-4 > DIV > header, .presentation-5 > DIV > header { margin-bottom: 15px !important; }
 feedly.com#$#.InlineArticle--u4 { margin-left: 0 !important; margin-right: 0 !important; }
 feedly.com#$#.u0 > DIV > article > .entryholder > .u100Entry, .container:has(.presentation-100), .u4 > DIV > article { margin-left: 162px !important; margin-right: 180px !important; }
