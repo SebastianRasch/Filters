@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.13.09
+! Version: 1.14.00
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -559,8 +559,6 @@ feedly.com##.u0.unread:not([id$="_main"])
 feedly.com##.visitWebsiteButton
 feedly.com##.websiteCallForAction
 feedly.com##.StreamPage > DIV > DIV > h2
-feedly.com##.presentation-4 > DIV > header
-feedly.com##.presentation-5 > DIV > header
 feedly.com##.col-xs-6.col-md-6 > DIV > .detail
 feedly.com##.cZ7GBo8syC_71ulgt3BD
 feedly.com##.kickered .extra
@@ -583,7 +581,6 @@ feedly.com###filtertab
 feedly.com###fullyLoadedFollowing
 feedly.com###integrationstab_header
 feedly.com###librarytab_header
-feedly.com###topHeaderBarFX
 feedly.com###herculeFrame
 feedly.com###intercom-frame
 feedly.com###realtimeSign
@@ -621,8 +618,7 @@ feedly.com#$#.entry, .TitleOnlyEntry { border: none !important; }
 feedly.com#$#.entryBody [href^="https://www.zeit.de/"] { border-bottom: none !important; float: right !important; margin-left: 10px !important; }
 feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 ! Article: Header line
-feedly.com###topHeaderBarFX
-feedly.com##.fx .presentation-0 header
+feedly.com#$##feedlyFrame { margin-top: -65px !important; }
 feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
 feedly.com#$##barsFX { margin-left: 264px !important; }
@@ -632,19 +628,19 @@ feedly.com#$##headerBarFX .header { max-width: 100% !important; padding: 8px 21p
 feedly.com#$#.header .right-col { padding-right: 0 !important; }
 feedly.com#$#.m-b-0 { margin-top: 1.2rem !important; }
 feedly.com#$#.col-xs-6 { height: 48px !important; }
+feedly.com#$#.a6l09XAvvnle8n9TgNUq { z-index: 601 !important; }
 ! Article
-feedly.com#$#.MagazineLayout, #feedlyPageFX { max-width: 100% !important; }
+feedly.com#$#.MagazineLayout, #feedlyPageFX, .entryBody { max-width: 100% !important; }
 feedly.com#$##feedlyPageFX.title-only { padding-right: 23px !important; padding-left: 23px !important; }
 feedly.com#$#.entry.u5 { margin-right: 0 !important; }
-feedly.com#$#.list-entries--layout-u4, .list-entries--layout-u5 { margin-top: 83px !important; }
 feedly.com#$#.presentation-0 h4 { padding-left: 11px !important; }
 feedly.com#$#.presentation-0 h4.EntryList__heading { padding-left: 14px !important; }
 feedly.com#$#.presentation-0 header { height: 57px !important; }
-feedly.com#$#.presentation-4, .presentation-5 { padding-top: 12px !important; }
+feedly.com#$#.presentation-4, .presentation-5, .presentation-0 > .list-entries--layout-u0 { margin-top: -6px !important; }
 feedly.com#$#.presentation-4 > DIV > header, .presentation-5 > DIV > header { margin-bottom: 15px !important; }
 feedly.com#$#.InlineArticle--u4 { margin-left: 0 !important; margin-right: 0 !important; }
 feedly.com#$#.u0 > DIV > article > .entryholder > .u100Entry, .container:has(.presentation-100), .u4 > DIV > article { margin-left: 162px !important; margin-right: 180px !important; }
-feedly.com#$#.entryBody, #feedlyPageFX:has(.presentation-4, .presentation-5), .col-xl-9.col-xl-9-xlarge-only { width: 100% !important; max-width: none !important; }
+feedly.com#$#.col-xl-9.col-xl-9-xlarge-only, .list-entries--layout-u5 { padding-top: 18px !important; }
 feedly.com#$#.u100Entry, #feedlyPageFX:has(.presentation-100) { max-width: 1000px !important; width: auto !important; margin-left: 145px !important; }
 feedly.com#$#.container630 { max-width: 1000px !important; }
 feedly.com#$#.slideEntryContent > article > .entryholder > .u100Entry { max-width: 100% !important; }
