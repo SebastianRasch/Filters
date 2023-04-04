@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.14.02
+! Version: 1.14.03
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1266,6 +1266,7 @@ macrumors.com##.main--3s50rdtq > div:nth-of-type(4)
 macrumors.com##.follow-banner
 macrumors.com##.accessibility--3XPTkAmp
 macrumors.com##.tertiary
+macrumors.com##.slick-inline-search-panel
 macrumors.com###sideAd
 macrumors.com###contentAd
 macrumors.com##[class^="colLinks--"]
