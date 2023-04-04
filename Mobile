@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.30
+! Version: 4.31
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -282,6 +282,7 @@ macrumors.com##.funbox
 macrumors.com##.i-amphtml-layout:nth-child(14)
 macrumors.com##.newsletter
 macrumors.com##.social
+macrumors.com##.slick-inline-search-panel
 macrumors.com###adUnder_mobile
 macrumors.com###fRight
 macrumors.com###staffList
