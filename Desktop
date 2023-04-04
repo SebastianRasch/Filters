@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.14.03
+! Version: 1.14.04
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -805,7 +805,9 @@ gamespot.com##.promo-masthead-list
 gamespot.com##.image-gallery__list-item-aside
 gamespot.com##.image-gallery__list-wrapper > DIV > .stub-leader
 gamespot.com##.pull-left
+gamespot.com##.js-affiliate-offers
 gamespot.com##.js-seamless-content__page:not(.primary-content)
+gamespot.com##.content-body--bufferAd > .seamless-content__aside
 gamespot.com##.comment-block > div > i
 gamespot.com##.forum-reply > ul > div > label.required
 gamespot.com##.related-content
@@ -1737,6 +1739,7 @@ tradingview.com###tv-toasts
 ! TRAKT
 trakt.tv##[class*="-grid-item"]
 trakt.tv##.toast-success
+trakt.tv##.top.dark
 trakt.tv###header-shop
 trakt.tv###loading-bg
 trakt.tv#$##ondeck-wrapper, #schedule-wrapper, #charts-wrapper, #recommendations-wrapper, #recent-wrapper { padding-top: 22px !important; }
