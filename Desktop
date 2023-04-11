@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.14.05
+! Version: 1.14.06
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -13,6 +13,7 @@
 ##.m-adutu
 ##.adwrapper
 ##.adsbygoogle
+##.ytp-endscreen-content
 ##[id^="div-gpt-ad-"]
 ##[id*="-ad-"]
 ##[href^="http://easydownload4you.com"]
@@ -1090,15 +1091,19 @@ web.icq.com#$#.im-sidebar__topinfo-item .im-sidebar-topinfo__subtitle { color: r
 web.icq.com#$#.im-ui-button__main-navbar.tab-active .im-msg-counter { border-color: rgb(232,250,240) !important; }
 web.icq.com#$#.im-add-contact.im-new-contact__disabled .im-button_highlight, .im-box-about_disabled .im-button_highlight, .im-box-names_disabled .im-button_highlight, .im-button:disabled, .im-button_disabled { background-color: rgb(183,188,201) !important; }
 ! IDOWNLOADBLOG
-idownloadblog.com###ajax-load-more
 idownloadblog.com##.entry-social
+idownloadblog.com###ajax-load-more
 idownloadblog.com#$#.entry-content { text-align: justify !important; }
-idownloadblog.com#$#body { padding-bottom: 0 !important; }
-idownloadblog.com#$#footer { padding: 10px 0 5px !important; }
-idownloadblog.com#$#article { border-bottom: none !important; }
+idownloadblog.com#$##idb-index { background-color: #F3F3F3 !important; }
 idownloadblog.com#$##idb-index #blog-posts { border-right: none !important; }
-idownloadblog.com#$#body, article > header { background-color: transparent !important; }
+idownloadblog.com#$##copyright { color: lightgray !important; }
 idownloadblog.com#$#h1, h2, h3, h4, h5, h6, ul, ol, .byline, article p, blockquote, iframe, #comments, .post-tags, .entry-social, .wp-caption-text, .archive-title { margin-left: 0 !important; margin-right: 0 !important; }
+idownloadblog.com#$#article { border-bottom: none !important; }
+idownloadblog.com#$#body { padding-bottom: 0 !important; }
+idownloadblog.com#$#body, article > header { background-color: transparent !important; }
+idownloadblog.com#$#footer { background-color: #1C75E5 !important; }
+idownloadblog.com#$#footer { padding: 10px 0 5px !important; }
+idownloadblog.com#$#footer > div > p > a, footer > div > ul > li > a { color: white !important; }
 ! IG
 ig.com##[class="sticky-footer"]
 ! IGNITION
