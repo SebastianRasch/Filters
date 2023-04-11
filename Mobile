@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.31
+! Version: 4.32
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -156,7 +156,6 @@ gamesradar.com###article-body > div:nth-child(5)
 gamesradar.com###content-after-image > section:first-child > div:nth-child(4)
 gamesradar.com###main #sidebar
 gamesradar.com##DIV[style^="position: relative; box-sizing: border-box; height: auto;"]
-gamespot.com##[data-embed-type="video"]
 gamespot.com##[data-embed-type="imageGallery"]
 gamespot.com##[id^="comments-block-"] > div:nth-child(2)
 gamespot.com##.promo-masthead-list
