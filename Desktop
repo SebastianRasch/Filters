@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.14.06
+! Version: 1.14.07
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -393,7 +393,7 @@ computerbase.de#$#.image__wrap { max-width: none !important; }
 computerbase.de#$#.image-slider__pic1-wrapper2 { max-width: 960px !important; }
 computerbase.de#$#.border-image, .thumbs--align-captions figure, .article-view__footer  { border: none !important; }
 computerbase.de#$#.figure-img, .image a:not(.figure__subtitle > a), .image img, .image video { width: 100% !important; }
-computerbase.de#$#.gallery--inline .gallery__img  { height: 100% !important; }
+computerbase.de#$#.gallery--inline .gallery__img  { height: 100% !important; object-fit: contain !important; background: #FFF }
 computerbase.de#$#.poll { border-width: 0 !important; }
 computerbase.de#$#.block1--breakout-2 .wrapper { background-color: transparent !important; }
 computerbase.de#$#.article-view__more-related { padding-left: 0 !important; }
