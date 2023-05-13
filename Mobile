@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.32
+! Version: 4.33
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -165,6 +165,7 @@ gamespot.com##.pod-recirc.pod-popular
 gamespot.com##.footer-network-row:last-child
 gamespot.com##.image-gallery__list-item-aside
 gamespot.com##.image-gallery__list-wrapper > DIV > .stub-leader
+gamespot.com##.image-gallery-pod
 gamespot.com##.footer-links-mobile
 gamespot.com##.js-mapped-ad
 gamespot.com##.js-seamless-content__page:not(.primary-content)
@@ -343,6 +344,7 @@ pons.com##.qc-cmp-ui-container
 postnord.com##.cookie-bar
 postnord.se###cookiedisclaimer
 producthunt.com##.container_3300b:nth-child(2)
+qasa.se##.qds-pydlfm
 recode.net##.c-footer__section-logo
 recode.net##.c-global-header__links
 recode.net##.c-related-list
@@ -416,6 +418,7 @@ svt.se##.sp-footer__row:first-child
 svt.se##.sp-footer-navbar__item:last-child
 svt.se##.sp-journalistic-transparency
 techacrobat.com##.amp-wp-share
+techacrobat.com###UWZXRXpiTHUyYlhWdHg4V21SSWpmYTZUdHdZQURDOUI5c0dLU2JLeS9mUT0xxprt
 theawesomer.com##strong > p:first-child
 theawesomer.com##.back-to-top
 theawesomer.com##.fbbutton
