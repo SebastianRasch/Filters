@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.35
+! Version: 4.36
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -139,13 +139,20 @@ formula1.com##.listing-promo-content
 formula1.com##.f1-up-next
 formula1.com##.f1-footer__top
 formula1.com##.f1-footer__middle
-foxnews.com, foxbusiness.com##.article-body > p > a > strong
-foxnews.com, foxbusiness.com##.sticky-video
-foxnews.com, foxbusiness.com##.social-icons
-foxnews.com, foxbusiness.com##[ID*="iframe-banner"]
-foxnews.com, foxbusiness.com##.collection-market-indexes
-foxnews.com, foxbusiness.com##.footer-upper
-foxnews.com, foxbusiness.com#$#.footer-lower { border-top: none !important; padding-top: 0 !important; }
+foxbusiness.com##.article-body > p > a > strong
+foxbusiness.com##.sticky-video
+foxbusiness.com##.social-icons
+foxbusiness.com##[ID*="iframe-banner"]
+foxbusiness.com##.collection-market-indexes
+foxbusiness.com##.footer-upper
+foxbusiness.com#$#.footer-lower { border-top: none !important; padding-top: 0 !important; }
+foxnews.com##.article-body > p > a > strong
+foxnews.com##.sticky-video
+foxnews.com##.social-icons
+foxnews.com##[ID*="iframe-banner"]
+foxnews.com##.collection-market-indexes
+foxnews.com##.footer-upper
+foxnews.com#$#.footer-lower { border-top: none !important; padding-top: 0 !important; }
 gadgethacks.com##.whtaph-300
 gadgethacks.com###ad-top-lock
 gamesradar.com##.news-article:nth-child(2) > section:nth-child(4) > div:nth-child(6)
