@@ -781,7 +781,7 @@ formula1.com##.seo-wrapper
 formula1.com##.row > DIV:has([href*="esports-series"])
 formula1.com##.f1-footer .f1-border
 formula1.com##.f1-article--rich-text > p > strong > a
-formula1.com##.f1-article--rich-text > p > [href^="https://www.formula1.com/en/latest/article."]:has(strong)
+formula1.com##.f1-article--rich-text > p > a > strong
 ! FOXNEWS
 foxbusiness.com##.sidebar
 foxnews.com, foxbusiness.com##.sidebar-article
