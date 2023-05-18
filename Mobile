@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.34
+! Version: 4.35
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -139,7 +139,7 @@ formula1.com##.listing-promo-content
 formula1.com##.f1-up-next
 formula1.com##.f1-footer__top
 formula1.com##.f1-footer__middle
-foxnews.com, foxbusiness.com##.article-body > p > a:has(strong)
+foxnews.com, foxbusiness.com##.article-body > p > a > strong
 foxnews.com, foxbusiness.com##.sticky-video
 foxnews.com, foxbusiness.com##.social-icons
 foxnews.com, foxbusiness.com##[ID*="iframe-banner"]
