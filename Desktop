@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.14.28
+! Version: 1.14.29
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1813,7 +1813,6 @@ wargamer.com##.background_link
 weather.com###teconsent
 weather.com##.region-top.region
 ! WELT
-welt.de##.OUTBRAIN
 welt.de##.r-header-bottom
 welt.de##.c-spot
 welt.de##.c-breaking
@@ -1836,7 +1835,6 @@ welt.de##.c-inline-teaser-list
 welt.de##.external-more-like-this-taboola-marker
 welt.de##[data-content="Stage.Commercial"]
 welt.de##[data-component="OEmbedComponent"]
-welt.de##[data-qa="Outbrain"]
 welt.de##[data-qa="MostWatchedVideos"]
 welt.de##[data-qa="AttachedArticles"]
 welt.de##[data-qa="Comments.Container"] > div:last-child > div:first-child > div:first-child > div
