@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.14.24
+! Version: 1.14.25
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1851,8 +1851,8 @@ welt.de#$#.o-headline { text-align: left !important; }
 welt.de#$#.c-sticky-video__body--is-fixed { margin-left: -1.85rem !important; }
 welt.de#$#.c-social-bar, .c-social-bar--is-sticky { margin-left: -65px !important; }
 welt.de#$#.c-image-element__caption { padding: .75rem !important; }
-welt.de#$#.c-header-top-tools__item:last-child { margin-left: -15px !important; }
-welt.de#$#.c-header-top-tools__item:last-child .is-sticky-header { margin-right: 0 !important; }
+welt.de#$#                  .c-header-top-tools__item:last-child { margin-left: -15px !important; }
+welt.de#$#.is-sticky-header .c-header-top-tools__item:last-child { margin-right: 0 !important; }
 welt.de#$#@media only screen and (min-width: 910px) { .r-header__top { padding-right: 0 !important; }}
 ! WIKINVEST
 wikinvest.com##[class="sigfig-banner-holder"]
