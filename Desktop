@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.14.25
+! Version: 1.14.26
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1813,6 +1813,7 @@ wargamer.com##.background_link
 weather.com###teconsent
 weather.com##.region-top.region
 ! WELT
+welt.de##.OUTBRAIN
 welt.de##.r-header-bottom
 welt.de##.c-spot
 welt.de##.c-breaking
@@ -1826,7 +1827,6 @@ welt.de##.c-la-loading
 welt.de##.c-taboola.nocontent
 welt.de##.c-page-header--is-sticky
 welt.de##.c-page-header-tools__item:first-child
-welt.de##.c-page-container.u-is-hidden-print
 welt.de##.c-page-footer__section:nth-child(n+2)
 welt.de##.c-page-footer-navigation__link-main:last-child
 welt.de##.c-end-screen
@@ -1836,6 +1836,7 @@ welt.de##.c-inline-teaser-list
 welt.de##.external-more-like-this-taboola-marker
 welt.de##[data-content="Stage.Commercial"]
 welt.de##[data-component="OEmbedComponent"]
+welt.de##[data-qa="AttachedArticles"]
 welt.de##[data-qa="MoreLikeThisArticles"]
 welt.de##[data-qa="Comments.Container"] > div:last-child > div:first-child > div:first-child > div
 welt.de##[data-qa="Comments.Container"] > DIV > DIV:last-child > DIV:nth-last-child(-n+2)
