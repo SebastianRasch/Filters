@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.14.22
+! Version: 1.14.23
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1230,6 +1230,9 @@ jokerlivestream.xyz###nwmlay
 jokerlivestream.xyz##.col-lg-12
 jokerlivestream.xyz##.col-sm-3:last-child
 jokerlivestream.xyz##.col-xl-3.sidebar
+jokerlivestream.vip##.flex-col.top-3
+jokerlivestream.vip##.xl\:right-0
+jokerlivestream.vip##.bg-darkBlueOpacity.backdrop-blur
 jokerlivestream.xyz##.f1-podium--link > span:last-child
 jokerlivestream.xyz#$#.f1-podium-subdetail { width: 440px !important; }
 jokerlivestream.xyz#$#.f1-podium-right-fixed { width: 50% !important; }
@@ -1673,6 +1676,7 @@ theawesomer.com##.recommendedposts
 theawesomer.com##.rssbox
 theawesomer.com##.spotim-recirculation
 theawesomer.com##.sumome-popup-mode-subscribe
+theawesomer.com##.yarpp-related
 theawesomer.com###header > div:nth-child(4)
 theawesomer.com###header > h4:nth-child(6)
 theawesomer.com###header > div:nth-child(7)
@@ -1689,6 +1693,8 @@ theawesomer.com###sc-sb-bannerBody
 theawesomer.com###shopflag
 theawesomer.com###sidebar
 theawesomer.com###topbar
+theawesomer.com###disclaimer_top
+theawesomer.com###mc-embedded-subscribe-form
 theawesomer.com###content > [style="clear:both;"]
 theawesomer.com#$#.spnf_ticker { bottom: 0 !important; }
 theawesomer.com#$#.contentsingle, .zoomable.cboxElement, .postbodysingle, .pix { width: 100% !important; }
@@ -1807,16 +1813,19 @@ wargamer.com##.background_link
 weather.com###teconsent
 weather.com##.region-top.region
 ! WELT
+welt.de##.r-header-bottom
 welt.de##.c-spot
 welt.de##.c-breaking
-welt.de##.c-page-header--is-sticky
-welt.de##.c-page-header-tools__item:first-child
+welt.de##.c-header-top-tools__message-count
+welt.de##.c-header-top-tools__link.is-abo
 welt.de##.c-dialog__shadow
 welt.de##.c-tool-element--is-abo
 welt.de##.c-inline-teaser
 welt.de##.c-inline-element--has-commercials
 welt.de##.c-la-loading
 welt.de##.c-taboola.nocontent
+welt.de##.c-page-header--is-sticky
+welt.de##.c-page-header-tools__item:first-child
 welt.de##.c-page-container.u-is-hidden-print
 welt.de##.c-page-footer__section:nth-child(n+2)
 welt.de##.c-page-footer-navigation__link-main:last-child
@@ -1831,6 +1840,7 @@ welt.de##[data-qa="MoreLikeThisArticles"]
 welt.de##[data-qa="Comments.Container"] > div:last-child > div:first-child > div:first-child > div
 welt.de##[data-qa="Comments.Container"] > DIV > DIV:last-child > DIV:nth-last-child(-n+2)
 welt.de##[id^="c-dialog-"]
+welt.de#$#.c-header-top-tools__item:last-child { margin-left: -15px !important; }
 welt.de#$#.c-page-container--is-video-page:after { border: none !important; background: none !important; }
 welt.de#$#.c-social-bar { top: 10px !important; margin-top: 42px !important; }
 welt.de#$#.c-stage--has-theme { padding-bottom: 5px !important; }
@@ -1842,6 +1852,7 @@ welt.de#$#.o-headline { text-align: left !important; }
 welt.de#$#.c-sticky-video__body--is-fixed { margin-left: -1.85rem !important; }
 welt.de#$#.c-social-bar, .c-social-bar--is-sticky { margin-left: -65px !important; }
 welt.de#$#.c-image-element__caption { padding: .75rem !important; }
+welt.de#$#@media only screen and (min-width: 910px) { .r-header__top { padding-right: 0 !important; }}
 ! WIKINVEST
 wikinvest.com##[class="sigfig-banner-holder"]
 ! WIRED
