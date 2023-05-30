@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.14.30
+! Version: 1.14.31
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -404,6 +404,7 @@ computerbase.de#$#.gallery-prev--inline:hover, .entry-nav__prev:before { border-
 computerbase.de#$#.poll { border-width: 0 !important; }
 computerbase.de#$#.block1--breakout-2 .wrapper { background-color: transparent !important; }
 computerbase.de#$#.non-critical { padding-top: 40px !important; }
+computerbase.de#$#.footer2 > .row { padding: 20px 0 !important; }
 ! Forum
 computerbase.de#$##above_threadlist_controls.above_threadlist_controls.toolsmenu.clearfix, #thread_controls.thread_controls.toolsmenu.clearfix, .toolsmenu, .forumbit_nopost, .forumbits, .threadlist-wrapper { border: 0 !important; padding: 0 !important; background: 0 !important; }
 computerbase.de#$#.forumhead, .threadbit .sticky, .threadbit .nonsticky, .threadbit .discussionrow, .threadlisthead, .forumbit_nopost .forumbit_nopost .forumrow, .forumbit_post .forumrow, div.posthead.clearfix { border-color: transparent !important; }
