@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.14.34
+! Version: 1.15.00
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -878,9 +878,12 @@ gamestar.de##.adp-admarker-text
 ! GENIUS
 genius.com##dfp-ad
 ! GITHUB
-github.com#$#@media (prefers-color-scheme: light) { head { [content="var(--color-canvas-default)"] !important; } .Header { background-color: var(--color-canvas-default) !important; } .Header-link { color: var(--color-fg-default) !important; } .Header-link:hover, .Header-link:focus { color: var(--color-fg-subtle) !important; } header { border-bottom: 1px solid var(--color-border-default) !important; } .header-search-wrapper { background-color: var(--color-canvas-subtle) !important; border-color: var(--color-border-default) !important; } input::placeholder { color: darkgray !important; } }
+github.com#$#react-app { min-height: auto !important; }
+github.com#$#.iStsmI { padding-bottom: 0 !important; }
+github.com#$#.ioxSsX { height: auto !important; }
 github.com#$#.search-with-dialog { background-color: #fff !important; }
 github.com#$#.header-search-button.placeholder { color: rgba(140, 140, 140, 0.75) !important; }
+github.com#$#@media (prefers-color-scheme: light) { head { [content="var(--color-canvas-default)"] !important; } .Header { background-color: var(--color-canvas-default) !important; } .Header-link { color: var(--color-fg-default) !important; } .Header-link:hover, .Header-link:focus { color: var(--color-fg-subtle) !important; } header { border-bottom: 1px solid var(--color-border-default) !important; } .header-search-wrapper { background-color: var(--color-canvas-subtle) !important; border-color: var(--color-border-default) !important; } input::placeholder { color: darkgray !important; } }
 ! GIZMODO
 gizmodo.com, kinja.com, jalopnik.com, deadspin.com, jezebel.com, kotaku.com, lifehacker.com, theroot.com, splinternews.com, thetakeout.com, clickhole.com, theinventory.com, theonion.com##.blog-group-gizmodo > .sidebar > .sidebar__content
 gizmodo.com, kinja.com, jalopnik.com, deadspin.com, jezebel.com, kotaku.com, lifehacker.com, theroot.com, splinternews.com, thetakeout.com, clickhole.com, theinventory.com, theonion.com##.footer-subscribe
@@ -1086,6 +1089,8 @@ heise.de#$#@media screen and (min-width: 768px) { .perf-cls-reduc-leaderboard { 
 ! HI
 hi.com##.footer-referrer
 hi.com##.cookies-holder
+! HOTOTOOLS
+hototools.com###shopify-section-announcement
 ! ICQ
 web.icq.com#$#.im-main-page-block { border-right: 0 !important; }
 web.icq.com#$#.app-topbar { border-bottom: 0 !important; }
@@ -1482,6 +1487,7 @@ www1.thepiratebay3.to##.download:nth-child(4)
 ! PROFIT F
 profitf.com###text-28
 ! QASA
+qasa.se##.qds-pydlfm
 qasa.se##.nav-avatar__BadgeContainer-sc-oa2hhz-1
 qasa.se##.new-badge-label__BadgeContainer-sc-1ottrq6-1
 ! QOPLA
@@ -1819,6 +1825,7 @@ weather.com##.region-top.region
 welt.de##.r-header-bottom
 welt.de##.c-spot
 welt.de##.c-breaking
+welt.de##.c-social-bar
 welt.de##.c-header-top-tools__message-count
 welt.de##.c-header-top-tools__link.is-abo
 welt.de##.c-dialog__shadow
@@ -1844,7 +1851,6 @@ welt.de##[data-qa="Comments.Container"] > div:last-child > div:first-child > div
 welt.de##[data-qa="Comments.Container"] > DIV > DIV:last-child > DIV:nth-last-child(-n+2)
 welt.de##[id^="c-dialog-"]
 welt.de#$#.c-page-container--is-video-page:after { border: none !important; background: none !important; }
-welt.de#$#.c-social-bar { top: 10px !important; margin-top: 42px !important; }
 welt.de#$#.c-stage--has-theme { padding-bottom: 5px !important; }
 welt.de#$#.c-grid__item.c-grid__item--is-full.c-grid__item--has-gap { margin-bottom: 0 !important; }
 welt.de#$#.c-content-container { max-width: 100% !important; }
