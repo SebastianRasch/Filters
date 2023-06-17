@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.39
+! Version: 4.40
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -185,8 +185,7 @@ gamespot.com###below-content
 gamespot.com#$#.image-gallery__image-wrapper { height: auto !important; }
 gamespot.com#$#.page-spacing-top { margin-top: 10px !important; }
 goal.com###myConsentFlow
-golem.de#$#.has-gpure-btn { min-height: 0 !important; }
-golem.de#$#.has-gpure-btn+#screen { padding-top: 126px !important; }
+golem.de##.gbox_attribution:first-child
 golem.de##.nav-main > li:not([rel="ticker"], [rel="video"], [rel="forum"], .forum > #grandwrapper > header > nav > .nav-main > li:nth-child(2))
 golem.de##.media__teaser-list > li[style="min-height:4em; padding-left:0;"]:not([class]):not([id])
 golem.de##.list-comments li:nth-child(4)
@@ -194,6 +193,7 @@ golem.de##.list-comments li:nth-child(5n+8)
 golem.de##.media__teaser-list:nth-of-type(4) > li:nth-of-type(2)
 golem.de##.media__teaser-list:nth-of-type(4) > li:nth-of-type(6)
 golem.de##.social-sticky
+golem.de##.social-tools
 golem.de##.toggle-nav
 golem.de##[id^="mob_afcbecoh"]
 golem.de###seminars
@@ -207,6 +207,8 @@ golem.de###screen > .clearfix:nth-child(5)
 golem.de###tusplit1
 golem.de###tusplit2
 golem.de##footer > nav
+golem.de#$#.has-gpure-btn { min-height: 0 !important; }
+golem.de#$#.has-gpure-btn+#screen { padding-top: 126px !important; }
 forum.golem.de##.teaser-widget
 forum.golem.de##.nav-main > li:nth-child(5)
 forum.golem.de##nav > .toggle-nav
@@ -413,6 +415,7 @@ stern.de##.teaser-list-element
 stern.de##.text-element:nth-child(6) > .text-content
 stern.de###articlepage-hero
 svenssons.se##.a9.bw.bx.by.c6.n2.n3.t.u5.u6.u7
+svd.se##[id^="AdWrapper-"]
 svt.se##.lp_share
 svt.se##.lp_trailers
 svt.se##.lp_transparency-box
@@ -426,7 +429,14 @@ svt.se##.sp-footer-navbar__item:last-child
 svt.se##.sp-journalistic-transparency
 techacrobat.com##.amp-wp-share
 techacrobat.com###UWZXRXpiTHUyYlhWdHg4V21SSWpmYTZUdHdZQURDOUI5c0dLU2JLeS9mUT0xxprt
+theawesomer.com###mc-embedded-subscribe-form
+theawesomer.com###sidebar
+theawesomer.com###navbar
+theawesomer.com###top_container
 theawesomer.com##strong > p:first-child
+theawesomer.com##.relatedwrapper
+theawesomer.com##.yarpp-related
+theawesomer.com##.mxyptext
 theawesomer.com##.back-to-top
 theawesomer.com##.fbbutton
 theawesomer.com##.single > p:nth-child(7)
@@ -487,6 +497,7 @@ washingtonpost.com##.interstitial
 welt.de##.nocontent
 welt.de##.c-dialog__shadow
 welt.de##.c-stage.nocontent
+welt.de##.c-divider--stage
 welt.de##.c-tool-element--is-abo
 welt.de##.c-ad__skyscraper
 welt.de##.c-inline-teaser
@@ -503,6 +514,7 @@ welt.de##.c-header-top-tools__message-count
 welt.de##.c-header-top-tools__link.is-abo
 welt.de##.c-page-header-tools__item:first-child
 welt.de##.c-page-container--has-commercials
+welt.de##.c-page-container--is-video-page:after
 welt.de##.c-page-container.u-is-hidden-print
 welt.de##.c-page-footer-navigation__link-main:last-child
 welt.de##.c-page-footer__section:nth-child(n+2)
