@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.15.00
+! Version: 1.15.01
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1158,6 +1158,7 @@ inspirationde.com##.sidebar.sidebar-right-single
 inspirationde.com##.textwidget
 inspirationde.com###sidebar-right
 ! INVESTING
+investing.com##.secondaryOverlay
 investing.com##.ads-free-button-wrapper
 investing.com##.adsFreeSubscriptionMessage
 investing.com##.adDrawer
@@ -1165,7 +1166,7 @@ investing.com##.addUnit
 investing.com##.chatOuterWrapper
 investing.com##.disclaimer
 investing.com##.doubleLineSeperator
-investing.com##.generalOverlay
+investing.com##.js-general-overlay
 investing.com##.headBtnWrapper
 investing.com##.instrumentFloaterInner.bold
 investing.com##.largeBannerCloser
@@ -1196,11 +1197,11 @@ investing.com##[event_attr_id="1652"]
 investing.com##[event_attr_id="1653"]
 investing.com##[href^="/send-feedback/"]
 investing.com##[id*="TextAd"]
-investing.com###abPopup
 investing.com###backToTop
+investing.com###abPopup
+investing.com###adBlockerPopup
 investing.com###broker_promotions
 investing.com###disclaimerBox
-investing.com###generalOverlay
 investing.com###mainPopUpContainer
 investing.com###Most_Popular_Opinions
 investing.com###findABroker
