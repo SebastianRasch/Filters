@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.15.04
+! Version: 1.16.00
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -630,7 +630,6 @@ feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 feedly.com#$##feedlyFrame, #topHeaderBarFX { margin-top: -65px !important; }
 feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
-feedly.com#$##barsFX { margin-left: 264px !important; }
 feedly.com#$##headerBarFX { position: relative !important; }
 feedly.com#$##headerBarFX h2 { padding-left: 2px !important; font-size: 1.6rem !important; }
 feedly.com#$##headerBarFX .header { max-width: 100% !important; padding: 8px 21px !important; }
@@ -679,7 +678,8 @@ feedly.com#$#.GiantMarkAsRead:hover { background-color: #f1f2f4 !important; bord
 feedly.com#$#.secondaryCallForAction:hover, .secondaryCallForAction { border: 0 !important; }
 feedly.com#$#.fx .button.secondary, .button-dropdown { border: none !important; }
 ! Menu left
-feedly.com#$##feedlyFrame { margin-left: 264px !important; }
+feedly.com#$#.feedlyChrome--leftnav-open #feedlyFrame, .feedlyChrome--leftnav-open #barsFX { margin-left: 264px !important; }
+feedly.com#$#.feedlyChrome--leftnav-closed #feedlyFrame, .feedlyChrome--leftnav-closed #barsFX { margin-left: 44px !important; }
 feedly.com#$#.Leftnav { width: 264px !important; }
 feedly.com#$#.m-t-2 { margin-top: 1rem !important; }
 feedly.com#$#.Leftnav { background-color: #f6f7f8 !important; border-right: 1px solid #efefef !important; }
@@ -691,6 +691,7 @@ feedly.com#$#.LeftnavListRow { padding: 0 15px !important; }
 feedly.com#$#.LeftnavListRow--child { padding-left: 40px !important; }
 feedly.com#$#.LeftnavListRow__text { width: 110px !important; margin-left: 5px !important; }
 feedly.com#$#.LeftnavListRow__favicon { margin-bottom: 2px !important; }
+feedly.com#$#[aria-label="Hide Sidebar"] { padding-left: 12px !important; }
 ! Profile menu
 feedly.com#$#.menu.m-a-0 { min-width: 160px !important; }
 feedly.com###ProfileBubble__menu2 > #\:r8\:, #ProfileBubble__menu2 > #\:r9\:, #ProfileBubble__menu2 > #\:ra\:, #ProfileBubble__menu2 > #\:rb\:
@@ -1059,6 +1060,7 @@ hardwaremax.net##[id="gkBannerTop"]
 harmankardon.de##.cookie-modal
 ! HBO
 hbomax.com##.q7p25
+se.hbomaxexperts.com##button.jss121.jss130
 ! HDENCODE
 hdencode.com##.box:nth-of-type(6)
 hdencode.com##.box:nth-of-type(7)
@@ -1178,6 +1180,7 @@ investing.com##.tradeNowRightColumn
 investing.com##.trc_rbox_outer
 investing.com##.js-scrollto-comment
 investing.com##.navMenuUL > li:nth-child(2)
+investing.com##.disclaimer
 investing.com##body:style(overflow: auto !important)
 investing.com##[class="eventPage articleControl"]
 investing.com##[event_attr_id="1155"]
@@ -1198,6 +1201,7 @@ investing.com##[event_attr_id="1652"]
 investing.com##[event_attr_id="1653"]
 investing.com##[href^="/send-feedback/"]
 investing.com##[id*="TextAd"]
+investing.com###adBlockerPopup
 investing.com###backToTop
 investing.com###abPopup
 investing.com###adBlockerPopup
@@ -1213,7 +1217,7 @@ investing.com###theDisclaimer
 investing.com###_sticky_footer_banner
 investing.com###findABroker
 investing.com###theBottom
-investing.com##.disclaimer
+investing.com##footer > .layout_row__max__gMkgW
 investing.com#$#.navBar { top: 38px !important; }
 investing.com#$#.wrapper { padding-top: 120px !important; }
 investing.com#$#footer { margin-top: 40px !important; }
@@ -1232,8 +1236,6 @@ isohunt.to##A[href="#"]
 isohunt.to##IMG[src="/img/arrow-down-blue.png"]
 ! JIBAPPS
 jibapps.com##[id="cboxOverlay"]
-jumpshare.com#$#.logo-wrapper { margin-top: 29px !important; }
-jumpshare.com#$#.viewer-header.clearfix > .logo-wrapper { margin-top: 17px !important; }
 ! JOKER
 jokerlivestream.vip###chat
 jokerlivestream.xyz###nwmlay
@@ -1251,6 +1253,17 @@ jokerlivestream.xyz#$#.primary-links { display: inline !important; }
 jokerlivestream.xyz#$#.col-xl-9 { flex-basis: 100% !important; max-width: 100% !important; }
 jokerswidget.org#$#.col-xl-9 { flex-basis: 100% !important; max-width: 100% !important; }
 jokerswidget.org##.sidebar-chat
+! JUMPSHARE
+jumpshare.com#$#.logo-wrapper { margin-top: 29px !important; }
+jumpshare.com#$#.viewer-header.clearfix > .logo-wrapper { margin-top: 17px !important; }
+! JUNGE FREIHEIT
+jungefreiheit.de##section.elementor-section.elementor-top-section.elementor-section-content-middle
+jungefreiheit.de##.elementor-widget-shortcode
+jungefreiheit.de##[style="text-align: center;"]
+jungefreiheit.de##.elementor-element-4c41d1ef
+jungefreiheit.de##.elementor-location-footer > section
+jungefreiheit.de##.elementor-widget-social-icons
+jungefreiheit.de##.elementor-widget-button:nth-child(7)
 ! JUST-EAT
 just-eat.ie##[class="menuCardMsg"]
 ! KAT
@@ -1632,6 +1645,8 @@ spiegel.de###unten
 stackexchange.com##.js-dismissable-hero
 ! SVD
 svd.se##.Ad-text
+! SVENSSONS
+svenssons.se##.a9.c5.c7.f5.fs.r2.t.ve.vf.vg.vh
 ! SWEDBANK
 online.swedbank.se##swed-alert-message
 ! SWIDE
