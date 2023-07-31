@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.16.00
+! Version: 1.16.01
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1809,11 +1809,14 @@ trakt.tv#$#.trakt-icon-swap-vertical, .btn-list-clone { margin-left: 0 !importan
 travelstore.se###hotelscom
 ! TWITTER
 twitter.com##.r-1d7fvdj
+twitter.com##.css-1dbjc4n.r-1bro5k0
 twitter.com##.r-13qz1uu:nth-child(6)
 twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(3)
 twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(4)
 twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(5):not(:last-child)
 twitter.com##[aria-label="Verified Organizations"]
+twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])
+twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])~div
 ! UPC.IE
 upc.ie###cc-notification
 ! VIMEO
