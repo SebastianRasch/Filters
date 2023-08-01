@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.16.01
+! Version: 1.16.02
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1413,6 +1413,8 @@ nike.com##.loading-screen
 nikonrumors.com##[name="dsq-app4"]
 nikonrumors.com##[src*="nikon_trade_in-banner"]
 nikonrumors.com##.widgetcontainer.widget_text
+! NIUS
+nius.de##.newsletter_container__0StJD
 ! NOMICS
 nomics.com##.fresnel-container:not(.nsh-menu-items > DIV > DIV)
 nomics.com##.anchor-section.relative
