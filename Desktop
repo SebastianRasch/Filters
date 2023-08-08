@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.16.03
+! Version: 1.16.04
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1094,6 +1094,8 @@ hi.com##.footer-referrer
 hi.com##.cookies-holder
 ! HOTOTOOLS
 hototools.com###shopify-section-announcement
+hototools.com###vitals_popup
+hototools.com##.vtl-mf-dialog
 ! ICQ
 web.icq.com#$#.im-main-page-block { border-right: 0 !important; }
 web.icq.com#$#.app-topbar { border-bottom: 0 !important; }
