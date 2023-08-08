@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.40
+! Version: 4.41
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -245,6 +245,7 @@ hallon.se##article.messagebox
 heise.de##.akwa-ad-container
 heise.de##.footer-imprint__list--copyright
 heise.de##.shariff
+hototools.com###vitals_popup
 idownloadblog.com##.entry-social
 idownloadblog.com##.entryBody > .content > H2
 idownloadblog.com##.idb-block:nth-child(10)
