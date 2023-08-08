@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.16.02
+! Version: 1.16.03
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1812,7 +1812,6 @@ travelstore.se###hotelscom
 ! TWITTER
 twitter.com##.r-1d7fvdj
 twitter.com##.css-1dbjc4n.r-1bro5k0
-twitter.com##.r-13qz1uu:nth-child(6)
 twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(3)
 twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(4)
 twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(5):not(:last-child)
