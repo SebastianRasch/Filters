@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.16.05
+! Version: 1.16.06
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -554,7 +554,7 @@ feedly.com##.AddToDatasetButton
 feedly.com##.hhint
 feedly.com##.EntryList__heading
 feedly.com##.StreamPage > h2
-feedly.com##.LeftnavDock__button:not(.LeftnavDock__button:nth-child(2))
+feedly.com##.LeftnavDock__button:not(.LeftnavDock__button:first-child)
 feedly.com##.LeftnavListRow--link
 feedly.com##.LeftnavHeading__organize-button
 feedly.com##.LeftnavPin
