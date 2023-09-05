@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.17.00
+! Version: 1.17.01
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -2017,9 +2017,9 @@ zeit.de#$#.snapshot__caption { padding-left: 0 !important; padding-right: 0 !imp
 zeit.de#$#.nav__login-list { right: -3.9rem !important; }
 zeit.de#$#.zg-dpa-electionslive { max-width: 100% !important; }
 zeit.de#$#.x-teaser-standard, .navigation { margin-left: 0 !important; margin-right: 0 !important; max-width: none !important; }
-zeit.de#$#.header-image--overlain { margin: 0 1.25em -5.2rem !important; }
 zeit.de#$#.markup--standard { border-radius: 0 !important; }
 zeit.de#$#.breaking-news-heading, .user-quote__container { margin-left: 0 !important; margin-right: 0 !important; }
+zeit.de#$#.footer-brand { margin: auto !important; }
 ! Quiz Schaltfläche
 zeit.de#$#.cp-area--minor .frame { padding-bottom: 20.6em !important; }
 ! Umfrage
@@ -2048,6 +2048,8 @@ zeit.de#$#.bx-wrapper--no-touch .bx-controls { padding: 0.75em 0 !important; }
 zeit.de#$#.bx-prev, .bx-next { height: 2.468rem !important; width:  2.468rem !important; }
 zeit.de#$#.bx-wrapper--no-touch .bx-pager { line-height: 2.486rem !important; }
 zeit.de#$#.inline-gallery { padding-bottom: 0.4rem !important; padding-top: 0 !important; }
+zeit.de#$#.gallery__arrow-icon { margin-bottom: 5px !important; }
+zeit.de#$#.gallery__pager:not([hidden]) { padding-top: 1rem !important; }
 ! Textausrichtung
 zeit.de#$#div.article-body, .teaser-big, article.post, article.page, .article__page, .article__head__subtitle, .user-quote__text { text-align: justify !important; }
 zeit.de#$#.title, .entry-title, p.excerpt, .portraitbox__body, div.article-toc__container, .infobox__navigation, .wp-caption-text, .figure__caption, .video-figure__description, p.x-copytext, .authorbox, .portraitbox__heading, blockquote, .article__subheading { text-align: left !important; }
@@ -2057,13 +2059,8 @@ zeit.de#$#.comments-service { padding: 2rem 0 0 !important; }
 zeit.de#$#.comments__header, .composer, .comment__header-grid, .comment__body, .comment__footer { max-width: none !important; }
 zeit.de#$#.comment__header-grid { grid-template-columns: 0 !important; }
 zeit.de#$#.comment__body, .comment__footer { margin-left: 57px !important; }
-zeit.de#$#@media screen and (max-width: 56em) { .comment-section { margin-left: 1.25rem !important; margin-right: 1.25rem !important; }}
-zeit.de#$#@media screen and (min-width: 48em) { .comment-preferences__container { margin-left: 1.25em !important; }}
-zeit.de#$#.comment__container, .comment-section__item { max-width: 55em !important; }
-zeit.de#$#.comment-section { border-top: none !important; }
-zeit.de#$#.comment, .comment-section__item { padding: 0 !important; }
-zeit.de#$#.comment-section__head { background-color: transparent !important; }
-zeit.de#$#.comment__reaction:focus, .comment__origin:focus { outline: none !important; }
+zeit.de#$#.comment__body { grid-column: span 3 !important; }
+zeit.de#$#button.svelte-vpel63 { z-index: 9000 !important; margin-right: -3.5rem !important; }
 ! Blog
 zeit.de#$#@media screen and (min-width: 56em) { .teaser-big, article.post { padding: 0 !important; }}
 zeit.de#$#.teaser-big, article.post { max-width: 55em !important; }
