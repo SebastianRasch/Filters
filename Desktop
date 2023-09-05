@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.17.01
+! Version: 1.17.02
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -2009,6 +2009,7 @@ zeit.de#$#body { background-color: #fff !important; }
 zeit.de#$#@media (prefers-color-scheme: dark) { .nav, .page__content { background-color: #1F1F20 !important; }}
 zeit.de#$#.page__content { box-shadow: none !important; }
 zeit.de#$#.page__content, .article__item, .article__item--wide, .figure__caption, .video-figure__description { max-width: 55em !important; }
+zeit.de#$#.footer { background-color: transparent !important; }
 ! Breite
 zeit.de#$#@media screen and (min-width: 56em) { .header, .main--article, .main--gallery, .snapshot-caption, .entry-header, .entry-content p { padding: 0 !important; } .zon-teaser-standard, .zon-teaser-wide, .zon-teaser-podcast, .zon-teaser-wide-podcast, .zon-teaser-classic, .zon-teaser-printbox, .zon-teaser-upright, .cp-region, .cp-area--newsticker, .servicebox, .comment-inner, .comments-optionbar, .comments-header, .x-teaser-standard, .x-content-column, .zg-embed-fd { padding-left: 0 !important; padding-right: 0 !important; } .cp-area--major, .cp-area--duo:first-child { padding-left: 0 !important; } .cp-area--minor, .parquet-teasers, .cp-area--duo:nth-child(2) { padding-right: 0 !important; } .section-heading { margin: 0 !important; } .buzzboard { margin-right: -1.3em !important; } .buzzboard__table { margin: 0 !important; padding: 0 !important; } .article--video { padding: 3em 0 1.25em !important; }}
 zeit.de#$#.comments-header, .comment-inner { max-width: none !important; }
@@ -2059,7 +2060,7 @@ zeit.de#$#.comments-service { padding: 2rem 0 0 !important; }
 zeit.de#$#.comments__header, .composer, .comment__header-grid, .comment__body, .comment__footer { max-width: none !important; }
 zeit.de#$#.comment__header-grid { grid-template-columns: 0 !important; }
 zeit.de#$#.comment__body, .comment__footer { margin-left: 57px !important; }
-zeit.de#$#.comment__body { grid-column: span 3 !important; }
+zeit.de#$#.composer__body { grid-column: span 3 !important; }
 zeit.de#$#button.svelte-vpel63 { z-index: 9000 !important; margin-right: -3.5rem !important; }
 ! Blog
 zeit.de#$#@media screen and (min-width: 56em) { .teaser-big, article.post { padding: 0 !important; }}
