@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.16.10
+! Version: 1.17.00
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -2016,7 +2016,7 @@ zeit.de#$#.entry-backlink { margin-left: 0 !important; }
 zeit.de#$#.snapshot__caption { padding-left: 0 !important; padding-right: 0 !important; }
 zeit.de#$#.nav__login-list { right: -3.9rem !important; }
 zeit.de#$#.zg-dpa-electionslive { max-width: 100% !important; }
-zeit.de#$#.x-teaser-standard { margin-left: 0 !important; margin-right: 0 !important; max-width: none !important; }
+zeit.de#$#.x-teaser-standard, .navigation { margin-left: 0 !important; margin-right: 0 !important; max-width: none !important; }
 zeit.de#$#.header-image--overlain { margin: 0 1.25em -5.2rem !important; }
 zeit.de#$#.markup--standard { border-radius: 0 !important; }
 zeit.de#$#.breaking-news-heading, .user-quote__container { margin-left: 0 !important; margin-right: 0 !important; }
@@ -2053,6 +2053,10 @@ zeit.de#$#div.article-body, .teaser-big, article.post, article.page, .article__p
 zeit.de#$#.title, .entry-title, p.excerpt, .portraitbox__body, div.article-toc__container, .infobox__navigation, .wp-caption-text, .figure__caption, .video-figure__description, p.x-copytext, .authorbox, .portraitbox__heading, blockquote, .article__subheading { text-align: left !important; }
 zeit.de#$#.article-heading { margin-left: 0 !important; }
 ! Kommentare
+zeit.de#$#.comments-service { padding: 2rem 0 0 !important; }
+zeit.de#$#.comments__header, .composer, .comment__header-grid, .comment__body, .comment__footer { max-width: none !important; }
+zeit.de#$#.comment__header-grid { grid-template-columns: 0 !important; }
+zeit.de#$#.comment__body, .comment__footer { margin-left: 57px !important; }
 zeit.de#$#@media screen and (max-width: 56em) { .comment-section { margin-left: 1.25rem !important; margin-right: 1.25rem !important; }}
 zeit.de#$#@media screen and (min-width: 48em) { .comment-preferences__container { margin-left: 1.25em !important; }}
 zeit.de#$#.comment__container, .comment-section__item { max-width: 55em !important; }
@@ -2068,14 +2072,13 @@ zeit.de#$#.wp-caption img[class*="wp-image-"] { width: 100% !important; }
 zeit.de#$#.widget-author-box .widget-authors p { font-size: 13px !important; }
 zeit.de#$#.widget-area { padding-bottom: 0 !important; }
 zeit.de#$#.article-pagination { font-size: 16px !important; }
-!Zeitmagazin
+! Zeitmagazin
 zeit.de#$#@media screen and (min-width: 56em) { .cp_lead__wrap, div.cp_buzz { padding-left: 0 !important; } .cp_informatives__wrap, div.cp_buzz{ padding-right: 0 !important; } .mtb__divider { margin: 1.75em 0 !important; } .mtb, .cp_teaserbar { width: 55em !important; } .article { padding: 0 !important; } .gallery, .photocluster__wrap { margin: 3em 0 !important; }}
 zeit.de#$#@media screen and (min-width: 56em) { .gallery .figure__caption { margin: 1.125em 0 0 !important; }}
 zeit.de#$#@media screen and (min-width: 48em) { .article-header__default-image--portrait, .article-header__kicker, .article-header__title { margin-left: 0 !important; }}
 zeit.de#$#.main-nav, .main { max-width: 55em !important; margin: 0 auto !important; }
 zeit.de#$#.article__body { padding: 0 !important; }
-zeit.de#$#.article__head, .gallery__info, .breadcrumbs, .is-constrained { max-width: 55em !important; }
-zeit.de#$#.breadcrumbs { margin: 0 auto !important; }
+zeit.de#$#.article__head, .gallery__info, .is-constrained { max-width: 55em !important; }
 zeit.de#$#.article__head--leinwand, .article__head__image { margin-top: 1.1em !important; }
 zeit.de#$#.figure-stamp, .figure-stamp--right { margin-bottom: 1em !important; }
 zeit.de#$#.article__nextread { margin: 0 !important; padding-bottom: 6em !important; }
