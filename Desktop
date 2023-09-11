@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.17.06
+! Version: 1.17.07
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -624,15 +624,17 @@ feedly.com#$#.headerInfo-links.left { margin-left: -18px; !important; }
 feedly.com#$#.headerInfo-links.right { margin-right: -15px; !important; }
 feedly.com#$#.entry, .TitleOnlyEntry { border: none !important; }
 feedly.com#$#.Article__title { line-height: 2.3rem !important; }
-feedly.com#$#.entryBody [href^="https://www.zeit.de/"] { border-bottom: none !important; float: right !important; margin-left: 10px !important; }
 feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 ! Article: Header line
-feedly.com#$##feedlyFrame, #topHeaderBarFX { margin-top: -65px !important; }
+feedly.com#$##feedlyFrame, #topHeaderBarFX { margin-top: -70px !important; }
 feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
 feedly.com#$##headerBarFX { position: relative !important; }
 feedly.com#$##headerBarFX h2 { padding-left: 2px !important; font-size: 1.6rem !important; }
 feedly.com#$##headerBarFX .header { max-width: 100% !important; padding: 8px 21px 8px 32px !important; }
+feedly.com#$#.list-entries--layout-titleOnly { margin-top: 22px !important; }
+feedly.com#$#.list-entries--layout-magazine { margin-top: 14px !important; }
+feedly.com#$#.list-entries--layout-cards { margin-top: 36px !important; }
 feedly.com#$#.header .right-col { padding-right: 0 !important; }
 feedly.com#$#.m-b-0 { margin-top: 1.2rem !important; }
 feedly.com#$#.col-xs-6 { height: 48px !important; }
