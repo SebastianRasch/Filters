@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.17.05
+! Version: 1.17.06
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -627,7 +627,7 @@ feedly.com#$#.Article__title { line-height: 2.3rem !important; }
 feedly.com#$#.entryBody [href^="https://www.zeit.de/"] { border-bottom: none !important; float: right !important; margin-left: 10px !important; }
 feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 ! Article: Header line
-feedly.com#$##feedlyFrame, #topHeaderBarFX { margin-top: -56px !important; }
+feedly.com#$##feedlyFrame, #topHeaderBarFX { margin-top: -65px !important; }
 feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
 feedly.com#$##headerBarFX { position: relative !important; }
@@ -641,16 +641,18 @@ feedly.com#$#.a6l09XAvvnle8n9TgNUq { z-index: 601 !important; }
 feedly.com#$#.MagazineLayout__visual { height: 82px !important; width: 146px !important; }
 feedly.com#$#.MagazineLayout, #feedlyPageFX, .entryBody { max-width: 100% !important; }
 feedly.com#$##feedlyPageFX.title-only { padding-right: 23px !important; padding-left: 23px !important; }
-feedly.com#$#.entry.u5 { margin-right: 0 !important; }
+feedly.com#$#.u100Entry, #feedlyPageFX:has(.presentation-100) { max-width: 1000px !important; width: auto !important; }
+feedly.com#$#.entry.u5, .entry.cards { margin-right: 0 !important; }
 feedly.com#$#.presentation-0 h4 { padding-left: 11px !important; }
 feedly.com#$#.presentation-0 h4.EntryList__heading { padding-left: 14px !important; }
 feedly.com#$#.presentation-0 header { height: 57px !important; }
-feedly.com#$#.presentation-4, .presentation-5, .presentation-0 > .list-entries--layout-u0, .presentation-100 { margin-top: -15px !important; }
+feedly.com#$#.presentation-4, .presentation-5, .presentation-0 > .list-entries--layout-u0, .presentation-100 { margin-top: -6px !important; }
 feedly.com#$#.presentation-4 > DIV > header, .presentation-5 > DIV > header { margin-bottom: 15px !important; }
 feedly.com#$#.InlineArticle--u100 { padding: 33px 0 !important; }
+feedly.com#$#.InlineArticle--magazine > DIV > .Article--inlined > .entryholder > .u100Entry { margin-left: 165px !important; }
+feedly.com#$#.InlineArticle--titleOnly > DIV > .Article--inlined > .entryholder > .u100Entry { margin-left: 145px !important; }
 feedly.com#$#.u0 > DIV > article > .entryholder > .u100Entry, .container:has(.presentation-100), .u4 > DIV > article { margin-left: 162px !important; margin-right: 180px !important; }
 feedly.com#$#.col-xl-9.col-xl-9-xlarge-only, .list-entries--layout-u5 { width: 100% !important; padding-top: 18px !important; }
-feedly.com#$#.u100Entry, #feedlyPageFX:has(.presentation-100) { max-width: 1000px !important; width: auto !important; }
 feedly.com#$#.container630 { max-width: 1000px !important; }
 feedly.com#$#.slideEntryContent > article > .entryholder > .u100Entry { max-width: 100% !important; }
 feedly.com#$#.sliderContainer, .sliderWidth { width: 82% !important; }
@@ -683,7 +685,7 @@ feedly.com#$#.feedlyChrome--leftnav-closed #feedlyFrame, .feedlyChrome--leftnav-
 feedly.com#$#.m-t-2 { margin-top: 1rem !important; }
 feedly.com#$#.Leftnav { background-color: #f6f7f8 !important; border-right: 1px solid #efefef !important; }
 feedly.com#$#.LeftnavDock { width: 44px !important; justify-content: end !important; }
-feedly.com#$#.LeftnavList { width: 220px !important; margin-left: 44px !important; }
+feedly.com#$#.LeftnavList { width: 220px !important; margin-left: 44px !important; margin-top: -2.1rem !important; }
 feedly.com#$#.LeftnavList__heading-button { margin-right: -16px !important; }
 feedly.com#$#.LeftnavList__heading-visibility-button { margin-right: 0 !important; }
 feedly.com#$#.LeftnavListRow { padding: 0 15px !important; }
