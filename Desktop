@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.17.07
+! Version: 1.17.08
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -635,6 +635,7 @@ feedly.com#$##headerBarFX .header { max-width: 100% !important; padding: 8px 21p
 feedly.com#$#.list-entries--layout-titleOnly { margin-top: 22px !important; }
 feedly.com#$#.list-entries--layout-magazine { margin-top: 14px !important; }
 feedly.com#$#.list-entries--layout-cards { margin-top: 36px !important; }
+feedly.com#$#.EntryToolbar { gap: .5rem !important; }
 feedly.com#$#.header .right-col { padding-right: 0 !important; }
 feedly.com#$#.m-b-0 { margin-top: 1.2rem !important; }
 feedly.com#$#.col-xs-6 { height: 48px !important; }
@@ -651,8 +652,8 @@ feedly.com#$#.presentation-0 header { height: 57px !important; }
 feedly.com#$#.presentation-4, .presentation-5, .presentation-0 > .list-entries--layout-u0, .presentation-100 { margin-top: -6px !important; }
 feedly.com#$#.presentation-4 > DIV > header, .presentation-5 > DIV > header { margin-bottom: 15px !important; }
 feedly.com#$#.InlineArticle--u100 { padding: 33px 0 !important; }
-feedly.com#$#.InlineArticle--magazine > DIV > .Article--inlined > .entryholder > .u100Entry { margin-left: 165px !important; }
-feedly.com#$#.InlineArticle--titleOnly > DIV > .Article--inlined > .entryholder > .u100Entry { margin-left: 145px !important; }
+feedly.com#$#.InlineArticle--magazine > DIV > .Article--inlined > .entryholder > .u100Entry, .InlineArticle--titleOnly > DIV > .Article--inlined > .entryholder > .u100Entry { margin-left: 145px !important; }
+feedly.com#$#.InlineArticle--magazine { margin-right: 0 !important; margin-left: 0 !important; }
 feedly.com#$#.u0 > DIV > article > .entryholder > .u100Entry, .container:has(.presentation-100), .u4 > DIV > article { margin-left: 162px !important; margin-right: 180px !important; }
 feedly.com#$#.col-xl-9.col-xl-9-xlarge-only, .list-entries--layout-u5 { width: 100% !important; padding-top: 18px !important; }
 feedly.com#$#.container630 { max-width: 1000px !important; }
