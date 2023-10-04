@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.17.09
+! Version: 1.17.10
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -688,6 +688,7 @@ feedly.com#$#.feedlyChrome--leftnav-pinned #feedlyFrame, .feedlyChrome--leftnav-
 feedly.com#$#.feedlyChrome--leftnav-closed #feedlyFrame, .feedlyChrome--leftnav-closed #barsFX, .feedlyChrome--leftnav-peeked #feedlyFrame, .feedlyChrome--leftnav-peeked #barsFX { margin-left: 44px !important; }
 feedly.com#$#.m-t-2 { margin-top: 1rem !important; }
 feedly.com#$#.Leftnav { background-color: #f6f7f8 !important; border-right: 1px solid #efefef !important; }
+feedly.com#$#.LeftnavDock, .LeftnavList { border-right-width: 0 !important; }
 feedly.com#$#.LeftnavDock { width: 44px !important; justify-content: end !important; }
 feedly.com#$#.LeftnavList { width: 220px !important; margin-left: 44px !important; margin-top: -2.1rem !important; }
 feedly.com#$#.LeftnavList__heading-button { margin-right: -16px !important; }
@@ -885,6 +886,7 @@ gamestar.de##.adp-admarker-text
 ! GENIUS
 genius.com##dfp-ad
 ! GITHUB
+github.com#$##repos-file-tree { max-height: 100% !important; height: 100% !important; position: relative !important; }
 github.com#$#react-app { min-height: auto !important; }
 github.com#$#.iStsmI { padding-bottom: 0 !important; }
 github.com#$#.ioxSsX { height: auto !important; }
@@ -1103,7 +1105,6 @@ hototools.com###vitals_popup
 hototools.com##.vtl-mf-dialog
 ! ICQ
 web.icq.com#$#.im-main-page-block { border-right: 0 !important; }
-web.icq.com#$#.app-topbar { border-bottom: 0 !important; }
 web.icq.com#$#.im-main-navbar { border-top: 0 !important; background-color: rgb(240,243,245) !important; }
 web.icq.com#$#.im-message_self .im-message__bot-section, .im-message_self .im-message__text { background-color: rgb(214,255,224) !important; }
 web.icq.com#$#.im-message_self .im-message__date, .im-message_self .im-message-reactions .im-message-reaction__counter, .im-modal__thread .im-message-reactions .im-message-reaction__counter { color: rgb(10,189,71) !important; }
