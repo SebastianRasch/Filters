@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.17.11
+! Version: 1.17.12
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -287,6 +287,8 @@ chip.de###rapiers-judges-oerhear
 chip.de##div[id*=contentad-]
 ! CHOOZEN
 choozen.de##.block_adtop
+! CHROMEWEBSTORE
+chromewebstore.google.com##[aria-labelledby="promo-header"]
 ! CMCMARKETS
 cmcmarkets.com##[id="footerRiskWarning"]
 ! CNET
@@ -457,11 +459,13 @@ designboom.com#$#.dboom-wrapper { max-width: 810px !important; margin: 0 auto 0 
 designboom.com#$#.nav-bar { padding-left: 0 !important; }
 designboom.com#$#.nav-search-toggler { top: 7px !important; }
 ! DI.FM
+di.fm##.section-title-component__title-button
 di.fm##.content-module-wrapper
 di.fm##.premium-upsell
 di.fm##.side-nav-menu-item--premium
 di.fm##.temp-message.notice.visible
 di.fm##.get-apps-cta
+di.fm##[data-daily-free-region]
 di.fm##[class^="premium-upsell-banner"]
 di.fm##[class*="go-premium"]
 di.fm###main-footer > nav
@@ -487,6 +491,8 @@ disqus.com##[name="dsq-app5"]
 distiller.com##.offers-background
 distiller.com###offers-section
 distiller.com###region-filters
+! DPJ
+dpj.se###header > div.usp-bar
 ! DUCKDUCKGO
 duckduckgo.com##.footer
 ! EBAY
@@ -794,6 +800,9 @@ formula1.com##.row > DIV:has([href*="esports-series"])
 formula1.com##.f1-footer .f1-border
 formula1.com##.f1-article--rich-text > p > strong > a
 formula1.com##.f1-article--rich-text > p > a > strong
+! FORZAFOOTBALL
+forzafootball.com##[class^="AdSlot"]
+forzafootball.com##.PageTitle_PageTitle__tO_wJ
 ! FOXNEWS
 foxbusiness.com##.sidebar
 foxbusiness.com##.sidebar-article
@@ -1097,6 +1106,8 @@ heise.de##section.article-sidebar
 heise.de##figure.branding
 heise.de#$#.article-layout__content, .a-article-header {max-width: 100% !important; }
 heise.de#$#@media screen and (min-width: 768px) { .perf-cls-reduc-leaderboard { min-height: 40px !important; }}
+! HESGOALGUIDE
+hesgoalguide.com##.bg-darkBlueOpacity.backdrop-blur.border-violet.border-t
 ! HI
 hi.com##.footer-referrer
 hi.com##.cookies-holder
@@ -1105,6 +1116,7 @@ hototools.com###shopify-section-announcement
 hototools.com###vitals_popup
 hototools.com##.vtl-mf-dialog
 ! ICQ
+web.icq.com#$#.app-topbar { border-bottom: 0 !important; }
 web.icq.com#$#.im-main-page-block { border-right: 0 !important; }
 web.icq.com#$#.im-main-navbar { border-top: 0 !important; background-color: rgb(240,243,245) !important; }
 web.icq.com#$#.im-message_self .im-message__bot-section, .im-message_self .im-message__text { background-color: rgb(214,255,224) !important; }
@@ -1262,6 +1274,7 @@ jokerlivestream.xyz#$#.primary-links { display: inline !important; }
 jokerlivestream.xyz#$#.col-xl-9 { flex-basis: 100% !important; max-width: 100% !important; }
 jokerswidget.org#$#.col-xl-9 { flex-basis: 100% !important; max-width: 100% !important; }
 jokerswidget.org##.sidebar-chat
+jokerguide.com##.w-full.bg-darkBlueOpacity.backdrop-blur.border-violet
 ! JUMPSHARE
 jumpshare.com#$#.logo-wrapper { margin-top: 29px !important; }
 jumpshare.com#$#.viewer-header.clearfix > .logo-wrapper { margin-top: 17px !important; }
@@ -1386,6 +1399,8 @@ mail1a.de##[src^="//adwol.com/"]
 maltwhisky.de###tve_tcb2_blank-in-content-form
 ! MICROSOFT
 microsoft.com##.compareFixed
+! MISTORE
+mistore.se###shopify-section-announcement-bar
 ! MITTI
 mitti.se##.adblocker-full-overlay
 ! MONSTER
@@ -1424,6 +1439,9 @@ nikonrumors.com##[src*="nikon_trade_in-banner"]
 nikonrumors.com##.widgetcontainer.widget_text
 ! NIUS
 nius.de##.newsletter_container__0StJD
+nius.de##.container.article_Article__related__YdAru
+nius.de##.article-main_ArticleMain__footer__0Uaz4
+nius.de##.footer_bottomContent__arDtV
 ! NOMICS
 nomics.com##.fresnel-container:not(.nsh-menu-items > DIV > DIV)
 nomics.com##.anchor-section.relative
@@ -1807,8 +1825,10 @@ tradingview.com###tv-toasts
 trakt.tv##[class*="-grid-item"]
 trakt.tv##.toast-success
 trakt.tv##.top.dark
+trakt.tv##.af1a979-e250f397a
 trakt.tv###header-shop
 trakt.tv###loading-bg
+trakt.tv###af1a979-be54078-wrapper
 trakt.tv#$##ondeck-wrapper, #schedule-wrapper, #charts-wrapper, #recommendations-wrapper, #recent-wrapper { padding-top: 22px !important; }
 trakt.tv#$##cover-wrapper #avatar-wrapper { top: 95px !important; }
 trakt.tv#$##cover-wrapper { height: 415px !important; }
@@ -1873,6 +1893,7 @@ welt.de##.c-error-screen
 welt.de##.c-teaser-power-teaser-fallback
 welt.de##.c-inline-teaser-list
 welt.de##.external-more-like-this-taboola-marker
+welt.de##[data-qa="PremiumWall"]
 welt.de##[data-content="Stage.Commercial"]
 welt.de##[data-component="OEmbedComponent"]
 welt.de##[data-qa="MostWatchedVideos"]
