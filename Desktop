@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.17.12
+! Version: 1.17.13
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1280,7 +1280,6 @@ jumpshare.com#$#.logo-wrapper { margin-top: 29px !important; }
 jumpshare.com#$#.viewer-header.clearfix > .logo-wrapper { margin-top: 17px !important; }
 ! JUNGE FREIHEIT
 jungefreiheit.de##section.elementor-section.elementor-top-section.elementor-section-content-middle
-jungefreiheit.de##.elementor-widget-shortcode
 jungefreiheit.de##[style="text-align: center;"]
 jungefreiheit.de##.elementor-element-4c41d1ef
 jungefreiheit.de##.elementor-location-footer > section
