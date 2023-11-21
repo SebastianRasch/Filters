@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.17.13
+! Version: 1.17.14
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -273,6 +273,8 @@ cbsnews.com##.newsletter_signup
 cbsnews.com###component-newsletter-signup-widget-breakingnews-article
 cbsnews.com#$#.content__promo-no-media { height: 285px !important; }
 cbsnews.com#$#.content__promo-image-wrapper { margin-left: calc((100vw - 1303px) / -2) !important; }
+! CDON
+cdon.se###sponsoredProductsFragmentWrapper
 ! CHESS
 chess.com##.bottom-banner-component
 chess.com##.btn-go-premium.btn
@@ -1838,11 +1840,7 @@ trakt.tv#$#.trakt-icon-swap-vertical, .btn-list-clone { margin-left: 0 !importan
 ! TRAVELSTORE
 travelstore.se###hotelscom
 ! TWITTER
-twitter.com##.r-1d7fvdj
-twitter.com##.css-1dbjc4n.r-1bro5k0
-twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(3)
-twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(4)
-twitter.com##.css-1dbjc4n.r-1ifxtd0.r-1udh08x:nth-child(5):not(:last-child)
+twitter.com##[aria-label="Trending"] > DIV > DIV:nth-child(n+3):not(DIV:last-child)
 twitter.com##[aria-label="Verified Organizations"]
 twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])
 twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])~div
