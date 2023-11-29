@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.17.18
+! Version: 1.17.19
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -694,12 +694,12 @@ feedly.com#$#.secondaryCallForAction:hover, .secondaryCallForAction { border: 0 
 feedly.com#$#.fx .button.secondary, .button-dropdown { border: none !important; }
 ! Menu left
 feedly.com#$#.feedlyChrome--leftnav-pinned #feedlyFrame, .feedlyChrome--leftnav-pinned #barsFX { margin-left: 264px !important; }
-feedly.com#$#.feedlyChrome--leftnav-closed #feedlyFrame, .feedlyChrome--leftnav-closed #barsFX, .feedlyChrome--leftnav-peeked #feedlyFrame, .feedlyChrome--leftnav-peeked #barsFX { margin-left: 44px !important; }
+feedly.com#$#.feedlyChrome--leftnav-closed #feedlyFrame, .feedlyChrome--leftnav-closed #barsFX, .feedlyChrome--leftnav-peeked #feedlyFrame, .feedlyChrome--leftnav-peeked #barsFX, .LeftnavList { margin-left: 44px !important; }
 feedly.com#$#.m-t-2 { margin-top: 1rem !important; }
 feedly.com#$#.Leftnav { background-color: #f6f7f8 !important; border-right: 1px solid #efefef !important; }
 feedly.com#$#.LeftnavDock, .LeftnavList { border-right-width: 0 !important; }
 feedly.com#$#.LeftnavDock { width: 44px !important; }
-feedly.com#$#.LeftnavList { width: 220px !important; margin-left: 44px !important; }
+feedly.com#$#.LeftnavList, .LeftnavList__list { width: 220px !important; }
 feedly.com#$#.LeftnavList__heading-button { margin-right: -16px !important; }
 feedly.com#$#.LeftnavList__heading-visibility-button { margin-right: 0 !important; }
 feedly.com#$#.LeftnavListRow { padding: 0 15px !important; }
