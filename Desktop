@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.18.11
+! Version: 1.18.12
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1281,6 +1281,7 @@ jungefreiheit.de##.elementor-location-footer > section
 jungefreiheit.de##.elementor-widget-social-icons
 jungefreiheit.de##.elementor-widget-button:nth-child(7)
 jungefreiheit.de##.elementor-hidden-mobile.elementor-widget
+jungefreiheit.de##.elementor-widget-shortcode
 ! JUST-EAT
 just-eat.ie##[class="menuCardMsg"]
 ! KAT
