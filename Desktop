@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.18.12
+! Version: 1.18.13
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1813,7 +1813,6 @@ torrentz2.eu#$#[id^="AdsKeepWrap"] > DIV:first-child { display: none !important;
 tradingdesk.finanzen.net##[class="drop userdata-content"]
 tradingdesk.finanzen.net##[class="slide-aside"]
 ! TRADINGVIEW
-tradingview.com##.control-bar-wrapper
 tradingview.com##.pane-separator
 tradingview.com##[data-role="toast-container"]
 tradingview.com###tv-toasts
