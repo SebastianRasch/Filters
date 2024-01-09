@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.18.13
+! Version: 1.18.14
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -76,6 +76,8 @@ polygon.com, feedly.com#$#.EmbeddedTweet { max-width: 100% !important; }
 9to5mac.com##[class="jp-carousel-slide ad selected"]
 9to5mac.com##[class="jp-carousel-slide ad"]
 9to5mac.com###facebook-likebox-6
+! ADDSYSTEMS
+addstart.com#$#.tmnu.item_logout, .tmnu.item_user { padding-top: 11px !important; }
 ! AERLINGUS
 aerlingus.com##A[href="/de/family-first/"]
 aerlingus.com##DIV[class="banners-wrapper"]
