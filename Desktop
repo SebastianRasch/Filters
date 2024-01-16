@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.18.14
+! Version: 1.18.15
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -525,6 +525,8 @@ engadget.com#$#.o-article_block { text-align: justify !important; }
 engadget.com#$#.pt-45\@tp\+ { padding-top: 0 !important; }
 ! ENPASS
 enpass.io##.cookie-notice-container
+! EPOCHTIMES
+epochtimes.de###modal-COMMON
 ! FACEBOOK
 facebook.com##.cxgpxx05:nth-child(2) > div:first-child > div
 facebook.com###u_0_c_zN
@@ -615,6 +617,8 @@ feedly.com##.LeftnavListRow:nth-of-type(3)
 feedly.com##.col-xl-3-xlarge-only
 feedly.com##.content > p:has(a[href^="https://www.foxnews.com/"] > strong)
 feedly.com##.content > p:has([href="https://foxnews.com/download"])
+feedly.com##.PXj2cdpxF7XZ6uqYqs7s > button:nth-child(4)
+feedly.com##.PXj2cdpxF7XZ6uqYqs7s > button:nth-child(6)
 ! Font
 feedly.com#$#.eqTnTmTjuLIeerFDMTIU { font-size: 1.8rem !important; margin-left: 10px !important; margin-top: 3.2rem !important; }
 feedly.com#$#.content:not(.list-entries--layout-u5 > .EntryList__chunk > article > .content) { text-align: justify !important; }
@@ -793,6 +797,7 @@ formula1.com###silentAudioBanner
 formula1.com###sailthru-overlay-container
 formula1.com##.transparent-strip
 formula1.com##.seo-wrapper
+formula1.com##.editor-tv-wrapper
 formula1.com##.row > DIV:has([href*="esports-series"])
 formula1.com##.f1-footer .f1-border
 formula1.com##.f1-article--rich-text > p > strong > a
@@ -1139,6 +1144,7 @@ web.icq.com#$#.im-sidebar__topinfo-item .im-sidebar-topinfo__subtitle { color: r
 web.icq.com#$#.im-ui-button__main-navbar.tab-active .im-msg-counter { border-color: rgb(232,250,240) !important; }
 web.icq.com#$#.im-add-contact.im-new-contact__disabled .im-button_highlight, .im-box-about_disabled .im-button_highlight, .im-box-names_disabled .im-button_highlight, .im-button:disabled, .im-button_disabled { background-color: rgb(183,188,201) !important; }
 ! IDOWNLOADBLOG
+idownloadblog.com##p > strong
 idownloadblog.com##.entry-social
 idownloadblog.com###ajax-load-more
 idownloadblog.com#$#.entry-content { text-align: justify !important; }
@@ -1842,6 +1848,8 @@ twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] 
 twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])~div
 ! UPC.IE
 upc.ie###cc-notification
+! VANBRUUN
+vanbruun.com##.bg-white
 ! VIMEO
 vimeo.com###brozar
 vimeo.com###toggle
