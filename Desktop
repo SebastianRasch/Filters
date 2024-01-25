@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.18.15
+! Version: 1.18.16
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -645,6 +645,7 @@ feedly.com#$#.entry, .TitleOnlyEntry { border: none !important; }
 feedly.com#$#.Article__title { line-height: 2.3rem !important; }
 feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 ! Article: Header line
+feedly.com##.right-col.extra > div > button:nth-child(4)
 feedly.com#$#.TopHeaderBar { border-bottom: none !important; }
 feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
@@ -1290,6 +1291,7 @@ jungefreiheit.de##.elementor-widget-social-icons
 jungefreiheit.de##.elementor-widget-button:nth-child(7)
 jungefreiheit.de##.elementor-hidden-mobile.elementor-widget
 jungefreiheit.de##.elementor-widget-shortcode
+jungefreiheit.de#$#.elementor-element-6c4b57d { padding-top: 0 !important; }
 ! JUST-EAT
 just-eat.ie##[class="menuCardMsg"]
 ! KAT
@@ -1962,6 +1964,7 @@ youtube.com##.ytp-cards-teaser
 youtube.com##.ytp-ce-element
 youtube.com##.video-ads
 youtube.com###player-ads
+youtube.com#$##secondary-inner { margin-top: -7px !important; }
 ! ZALANDO
 zalando.se##._2hG8pA.XEQvS9
 zalando.se##.headerUsp
