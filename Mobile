@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.54
+! Version: 4.55
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -454,7 +454,7 @@ trakt.tv###Liqwid_frame5
 urbandictionary.com##.ad-panel
 urbandictionary.com##.mug-ad
 urbandictionary.com###columnist-2
-vanbruun.com##.bg-white.fixed.bottom-0
+vanbruun.com##.bg-white .fixed .bottom-0
 variety.com##.c-ad--comments
 variety.com##.c-ad--outbrain
 variety.com##.c-ad--text-only
