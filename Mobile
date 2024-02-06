@@ -1,9 +1,10 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.57
+! Version: 4.58
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
 80.lv##.Article__widget_type_pre-sale
+80.lv##l._3zPii
 80.lv##[aria-label="Position for custom"]
 80.lv##[data-widget="author"] > div:last-child > div:last-child > div:last-child
 80.lv###__next > div:first-child > div:nth-last-child(2)
@@ -153,6 +154,9 @@ foxnews.com##[ID*="iframe-banner"]
 foxnews.com##.collection-market-indexes
 foxnews.com##.footer-upper
 foxnews.com#$#.footer-lower { border-top: none !important; padding-top: 0 !important; }
+friatider.se##.rightbox:first-child
+frihetsnytt.se##div.cc-compass
+frihetsnytt.se###donera-nav
 gadgethacks.com##.whtaph-300
 gadgethacks.com###ad-top-lock
 gamesradar.com##.news-article:nth-child(2) > section:nth-child(4) > div:nth-child(6)
@@ -216,6 +220,7 @@ forum.golem.de###screen > .information
 account.golem.de##.box-basic:nth-child(2)
 google.de##.ads-fr
 google.de##.commercial-unit-mobile-top
+google.de###rso > div.MjjYud:nth-child(2)
 hallon.se##article.messagebox
 heise.de##.akwa-ad-container
 heise.de##.footer-imprint__list--copyright
@@ -251,7 +256,15 @@ imgur.com##.FooterOIA-container
 investing.com##.followUs
 investing.com##.js-disclaimer-box
 ipsw.me##.alert-info
-jungefreiheit.de##[style="text-align: center;"]
+jungefreiheit.de##.elementor-widget-theme-post-content > .elementor-widget-container > div:first-child
+jungefreiheit.de###fancybox-container-1
+jungefreiheit.de##.elementor-widget-social-icons
+jungefreiheit.de##.elementor-element-4c41d1ef
+jungefreiheit.de##.elementor-element-58edc8c2
+jungefreiheit.de##.elementor-element-502a6638
+jungefreiheit.de##.elementor-element-1d39029c
+jungefreiheit.de##.elementor-element-917d91a
+jungefreiheit.de##.elementor-location-footer > section
 kingworldnews.com##.post-content > p:nth-last-child(-n+5)
 kingworldnews.com##.ssba
 kitchentime.se##.cookie
@@ -291,6 +304,8 @@ newatlas.com##.social-bar
 newatlas.com##section.slab
 nikonrumors.com##.addtoany_share_save_container
 nikonrumors.com##.wptouch-showcase
+nius.de##.footer_right__xf37s
+nius.de##.newsletter_container__0StJD
 nordicnest.se##.a9.e5.fd.fe.h0.h1.h2.h3.x
 nordicnest.se###fc_frame
 nomics.com##.fresnel-container:not(.nsh-menu-items > DIV > DIV)
@@ -406,10 +421,15 @@ svt.se##.sp-footer-navbar__item:last-child
 svt.se##.sp-journalistic-transparency
 techacrobat.com##.amp-wp-share
 techacrobat.com###UWZXRXpiTHUyYlhWdHg4V21SSWpmYTZUdHdZQURDOUI5c0dLU2JLeS9mUT0xxprt
-theawesomer.com###mc-embedded-subscribe-form
+theawesomer.com###header > p:nth-child(2)
 theawesomer.com###sidebar
+theawesomer.com###section-slider
+theawesomer.com###single-nav-bar
 theawesomer.com###navbar
 theawesomer.com###top_container
+theawesomer.com###search-dropper
+theawesomer.com###mc-embedded-subscribe-form
+theawesomer.com###disclaimer_bottom
 theawesomer.com##strong > p:first-child
 theawesomer.com##.relatedwrapper
 theawesomer.com##.yarpp-related
@@ -425,10 +445,6 @@ theawesomer.com##.not-page.no-thumbnail > p:nth-child(10)
 theawesomer.com##.not-page.no-thumbnail > p:nth-child(8)
 theawesomer.com##.not-page.no-thumbnail > p:nth-child(9)
 theawesomer.com##.wptouch-mobile-switch
-theawesomer.com###single-nav-bar
-theawesomer.com###section-slider
-theawesomer.com###header > p:nth-child(2)
-theawesomer.com###search-dropper
 theguardian.com##[id^="dfp-ad--"]
 theinventory.com##.core-decorated-commerce.js_inset
 thekitchn.com##.ActionButtonRow
@@ -473,6 +489,8 @@ vox.com##.c-social-buttons
 voxmedia.com###privacy-consent
 washingtonpost.com##.interstitial
 welt.de##.nocontent
+welt.de##.c-ad-teaser
+welt.de##.c-oembed--is-shown
 welt.de##.c-dialog__shadow
 welt.de##.c-stage.nocontent
 welt.de##.c-divider--stage
