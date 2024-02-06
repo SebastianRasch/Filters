@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.56
+! Version: 4.57
 
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
@@ -251,6 +251,7 @@ imgur.com##.FooterOIA-container
 investing.com##.followUs
 investing.com##.js-disclaimer-box
 ipsw.me##.alert-info
+jungefreiheit.de##[style="text-align: center;"]
 kingworldnews.com##.post-content > p:nth-last-child(-n+5)
 kingworldnews.com##.ssba
 kitchentime.se##.cookie
