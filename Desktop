@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.18.16
+! Version: 1.18.17
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -657,6 +657,7 @@ feedly.com#$#.list-entries--layout-cards { margin-top: 36px !important; }
 feedly.com#$#.EntryToolbar { gap: .5rem !important; }
 feedly.com#$#.header .right-col { padding-right: 0 !important; }
 ! Article
+
 feedly.com#$#.MagazineLayout__visual { height: 82px !important; width: 146px !important; }
 feedly.com#$#.MagazineLayout, #feedlyPageFX, .entryBody { max-width: 100% !important; }
 feedly.com#$##feedlyPageFX.title-only { padding-right: 23px !important; padding-left: 23px !important; }
@@ -667,6 +668,7 @@ feedly.com#$#.presentation-0 h4.EntryList__heading { padding-left: 14px !importa
 feedly.com#$#.presentation-0 header { height: 57px !important; }
 feedly.com#$#.presentation-4, .presentation-5, .presentation-0 > .list-entries--layout-u0, .presentation-100 { margin-top: -6px !important; }
 feedly.com#$#.presentation-4 > DIV > header, .presentation-5 > DIV > header { margin-bottom: 15px !important; }
+feedly.com#$#.Article--inlined { padding-top: 45px !important; }
 feedly.com#$#.InlineArticle--u100 { padding: 33px 0 !important; }
 feedly.com#$#.InlineArticle--magazine > DIV > .Article--inlined > .entryholder > .u100Entry, .InlineArticle--titleOnly > DIV > .Article--inlined > .entryholder > .u100Entry { margin-left: 145px !important; }
 feedly.com#$#.InlineArticle--magazine { margin-right: 0 !important; margin-left: 0 !important; }
