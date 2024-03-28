@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.18.18
+! Version: 1.18.19
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -803,8 +803,8 @@ formula1.com##.seo-wrapper
 formula1.com##.editor-tv-wrapper
 formula1.com##.row > DIV:has([href*="esports-series"])
 formula1.com##.f1-footer .f1-border
-formula1.com##.f1-article--rich-text > p > strong > a
-formula1.com##.f1-article--rich-text > p > a > strong
+formula1.com##DIV > p > strong:has(a)
+formula1.com##DIV > p > a:has(strong)
 ! FORZAFOOTBALL
 forzafootball.com##[class^="AdSlot"]
 forzafootball.com##.PageTitle_PageTitle__tO_wJ
