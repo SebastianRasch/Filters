@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.18.19
+! Version: 1.19.0
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1845,11 +1845,6 @@ trakt.tv#$#.btn-list-subscribe { padding-right: 15px !important; }
 trakt.tv#$#.trakt-icon-swap-vertical, .btn-list-clone { margin-left: 0 !important; }
 ! TRAVELSTORE
 travelstore.se###hotelscom
-! TWITTER
-twitter.com##[aria-label="Trending"] > DIV > DIV:nth-child(n+3):not(DIV:last-child)
-twitter.com##[aria-label="Verified Organizations"]
-twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])
-twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])~div
 ! UPC.IE
 upc.ie###cc-notification
 ! VANBRUUN
@@ -1946,6 +1941,11 @@ wired.com#$#.site-footer__navigation-notices { margin-left: 25px !important; }
 wired.com#$#.grid-margins { display: block !important; max-width: 900px !important; }
 wired.com#$#.gallery__text-block, .gallery-slide-caption__dek { text-align: justify !important; }
 wired.com#$#.content-header__title-block, .content-header__accreditation { max-width: 900px !important; margin: auto !important; }
+! X
+x.com##[aria-label="Trending"] > DIV > DIV:nth-child(n+3):not(DIV:last-child)
+x.com##[aria-label="Verified Organizations"]
+x.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])
+x.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])~div
 ! YANKO DESIGN
 yankodesign.com##.top-strip
 ! YOUTUBE
