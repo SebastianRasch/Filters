@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.19.0
+! Version: 1.19.1
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -617,8 +617,6 @@ feedly.com##.LeftnavListRow:nth-of-type(3)
 feedly.com##.col-xl-3-xlarge-only
 feedly.com##.content > p:has(a[href^="https://www.foxnews.com/"] > strong)
 feedly.com##.content > p:has([href="https://foxnews.com/download"])
-feedly.com##.PXj2cdpxF7XZ6uqYqs7s > button:nth-child(4)
-feedly.com##.PXj2cdpxF7XZ6uqYqs7s > button:nth-child(6)
 ! Font
 feedly.com#$#.eqTnTmTjuLIeerFDMTIU { font-size: 1.8rem !important; margin-left: 10px !important; margin-top: 3.2rem !important; }
 feedly.com#$#.content:not(.list-entries--layout-u5 > .EntryList__chunk > article > .content) { text-align: justify !important; }
@@ -645,7 +643,7 @@ feedly.com#$#.entry, .TitleOnlyEntry { border: none !important; }
 feedly.com#$#.Article__title { line-height: 2.3rem !important; }
 feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 ! Article: Header line
-feedly.com##.right-col.extra > div > button:nth-child(4)
+feedly.com##.right-col.extra > div > button:nth-child(5)
 feedly.com#$#.TopHeaderBar { border-bottom: none !important; }
 feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
@@ -657,7 +655,6 @@ feedly.com#$#.list-entries--layout-cards { margin-top: 36px !important; }
 feedly.com#$#.EntryToolbar { gap: .5rem !important; }
 feedly.com#$#.header .right-col { padding-right: 0 !important; }
 ! Article
-
 feedly.com#$#.MagazineLayout__visual { height: 82px !important; width: 146px !important; }
 feedly.com#$#.MagazineLayout, #feedlyPageFX, .entryBody { max-width: 100% !important; }
 feedly.com#$##feedlyPageFX.title-only { padding-right: 23px !important; padding-left: 23px !important; }
@@ -700,6 +697,9 @@ feedly.com#$#.GiantMarkAsRead:hover { background-color: #f1f2f4 !important; bord
 feedly.com#$#.secondaryCallForAction:hover, .secondaryCallForAction { border: 0 !important; }
 feedly.com#$#.fx .button.secondary, .button-dropdown { border: none !important; }
 ! Menu left
+feedly.com##[aria-label="Toggle AI Actions Panel"]
+feedly.com##[aria-label="Create AI Feed"]
+feedly.com##[aria-label="Power Search"]
 feedly.com#$##feedlyChrome { margin-left: -20px !important; }
 feedly.com#$#.feedlyChrome--leftnav-closed #feedlyFrame, .feedlyChrome--leftnav-closed #barsFX, .feedlyChrome--leftnav-peeked #feedlyFrame, .feedlyChrome--leftnav-peeked #barsFX, .LeftnavList { margin-left: 44px !important; }
 feedly.com#$#.m-t-2 { margin-top: 1rem !important; }
