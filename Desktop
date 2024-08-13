@@ -590,13 +590,7 @@ feedly.com##[title="Create Team Newsletter"]
 feedly.com##[data-alternate-link^="http://www.idownloadblog.com"] > .entryBody > .content > H2
 feedly.com##[data-matching-uri*="academy"]
 feedly.com##[data-uri="filters"]
-feedly.com##IMG[src="https://www.welt.de/rss-fallback-video.png"]
-feedly.com##IMG[src="https://www.welt.de/rss-fallback-image.png"]
 feedly.com##[src="//s3.feedly.com/production/head/images/ab-ifttt.png"]
-feedly.com##[src="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"]
-feedly.com##[src="https://visuals.feedly.com/v1/resize?url=http%3A%2F%2Fs4.reutersmedia.net%2Fresources_v2%2Fimages%2Frcom-default.png&sizes=647x*!0.01"]
-feedly.com##[src$=".780x349.cZOq262i.jpg"]
-feedly.com##[src*="nikon_trade_in-banner"]
 feedly.com###feedlySignPart
 feedly.com###feedlyTabsUnpin
 feedly.com###feedlyUndoSign
@@ -615,8 +609,6 @@ feedly.com##VIDEO
 feedly.com##.empty-state > .illustration
 feedly.com##.LeftnavListRow:nth-of-type(3)
 feedly.com##.col-xl-3-xlarge-only
-feedly.com##.content > p:has(a[href^="https://www.foxnews.com/"] > strong)
-feedly.com##.content > p:has([href="https://foxnews.com/download"])
 ! Font
 feedly.com#$#.eqTnTmTjuLIeerFDMTIU { font-size: 1.8rem !important; margin-left: 10px !important; margin-top: 3.2rem !important; }
 feedly.com#$#.content:not(.list-entries--layout-u5 > .EntryList__chunk > article > .content) { text-align: justify !important; }
@@ -643,7 +635,7 @@ feedly.com#$#.entry, .TitleOnlyEntry { border: none !important; }
 feedly.com#$#.Article__title { line-height: 2.3rem !important; }
 feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 ! Article: Header line
-feedly.com##.right-col.extra > div > button:nth-child(5)
+feedly.com##.right-col > div > button:nth-child(5)
 feedly.com#$#.TopHeaderBar { border-bottom: none !important; }
 feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
