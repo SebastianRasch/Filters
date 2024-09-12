@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.19.4
+! Version: 1.19.5
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -641,7 +641,7 @@ feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
 feedly.com#$##headerBarFX h2 { padding-left: 2px !important; font-size: 1.6rem !important; }
 feedly.com#$##headerBarFX .header { max-width: 100% !important; padding: 8px 21px 8px 32px !important; }
 feedly.com#$#.presentation-titleOnly > div:has(.entry.titleOnly)  { margin-top: 22px !important; }
-feedly.com#$#.presentation-cards > div:has(.entry.cards) { margin-top: 36px !important; }
+feedly.com#$#.presentation-cards > div:has(.entry.cards) { margin-top: 18px !important; }
 feedly.com#$#.EntryToolbar { gap: .5rem !important; }
 feedly.com#$#.header .right-col { padding-right: 0 !important; }
 ! Article
