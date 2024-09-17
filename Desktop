@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.19.6
+! Version: 1.19.7
 !
 @@||appleid.apple.com^$important,document,~extension
 @@||experience.arcgis.com^$important,document,~extension
@@ -1109,32 +1109,6 @@ hi.com##.cookies-holder
 hototools.com###shopify-section-announcement
 hototools.com###vitals_popup
 hototools.com##.vtl-mf-dialog
-! ICQ
-web.icq.com#$#.app-topbar { border-bottom: 0 !important; }
-web.icq.com#$#.im-main-page-block { border-right: 0 !important; }
-web.icq.com#$#.im-main-navbar { border-top: 0 !important; background-color: rgb(240,243,245) !important; }
-web.icq.com#$#.im-message_self .im-message__bot-section, .im-message_self .im-message__text { background-color: rgb(214,255,224) !important; }
-web.icq.com#$#.im-message_self .im-message__date, .im-message_self .im-message-reactions .im-message-reaction__counter, .im-modal__thread .im-message-reactions .im-message-reaction__counter { color: rgb(10,189,71) !important; }
-web.icq.com#$#.im-message_self.im-message_sticker .im-message__text { background: none !important; }
-web.icq.com#$#.im-message-single_image .im-message__date, .im-message_self.im-message-single_image .im-message__date, .im-message_self.im-message_sticker .im-message__date, .im-message_sticker .im-message__date { color: rgb(255,255,255) !important; }
-web.icq.com#$#.im-list-entry_focused { background-color: rgb(29,207,103) !important; }
-web.icq.com#$#.im-list-entry_focused .im-avatarmark { border-color: rgb(29,207,103) !important; }
-web.icq.com#$#.im-favorite-avatar { background-color: rgb(56,237,128) !important; }
-web.icq.com#$#.im-ui-button__main-navbar .im-app-icon__filled, .im-recent-item_min .im-list-entry_focused .im-avatarbox span, .im-file__ptt-play, .im-file__ptt-progress, .im-quick-menu__reaction:after, .im-switch input[type=checkbox]:checked+.im-switch-lever, .im-switch.im-switch-checked>.im-switch-lever, .im-chat__history-go-down span, .im-tickbox.im-tickbox_checked, input[checked]+.im-tickbox, .im-search-tag_closable div:after, .im-msg-counter, .im-chat__input-action .im-chat__input-action__confirm, .im-button_highlight, .im-chat__input-action__send, .im-splitview.im-mode_searchchat .im-dialogpage .im-chat__header-search-go:after { background-color: rgb(33,216,106) !important; }
-web.icq.com#$#.im-file__ptt-play:hover, .im-button_highlight:focus, .im-button_highlight:hover { background-color: rgb(30,195,96) !important; }
-web.icq.com#$#.im-list-entry_focused .im-recent-item__date, .im-list-entry_focused .im-recent-item__draft, .im-list-entry_focused .im-recent-item__msg, .im-list-entry_focused .im-recent-item__subtitle, .im-list-entry_focused .im-recent-item__subtitle__from, .im-list-entry_focused .im-recent-item__title.im-recent-item__title, .im-ui-button__main-navbar.tab-active .im-msg-counter { color: rgb(255,255,255) !important; }
-web.icq.com#$#.im-cl-contact_self .im-recent-item__title, .im-file__ptt-duration, .im-message__from, .im-ui-button__main-navbar.tab-active div, .im-search-exit, .im-cl-contact_self .im-contact-namebox__friendly, .im-search-tag.im-search-tag_active, .im-cl-contact_self .im-search-item__nick, .im-marker, .im-online-status, .im-chat__history .im-message-link, .im-chat__history .im-message-link:active { color: rgb(0,184,77) !important; }
-web.icq.com#$#.im-search-exit:hover { background-color: rgb(0,168,70) !important; }
-web.icq.com#$#.im-file__ptt-play span { border-left-color: rgb(255,255,255) !important; }
-web.icq.com#$#.im-file__ptt-progress_box:before, .im-message_self .im-file__ptt-translate, .im-desktop .im-message_self .im-message-forward:hover, .im-desktop .im-message_self .im-message-forward:hover .im-message__text, .im-desktop .im-message_self .im-message-quote:hover, .im-desktop .im-message_self .im-message-quote:hover .im-message__text { background-color: rgb(200,249,212) !important; }
-web.icq.com#$#.im-message_self .im-file__ptt-translate:hover { background-color: rgb(177,246,194) !important; }
-web.icq.com#$#.im-file__ptt-translate span, .im-file__ptt-translate span:after { border-bottom-color: rgb(33,216,106) !important; border-top-color: rgb(33,216,106) !important; }
-web.icq.com#$#.im-message-quote { border-left-color: rgb(33,216,106) !important; }
-web.icq.com#$#.im-sidebar-delimiter { border-top-color: rgb(243,245,248) !important; }
-web.icq.com#$#.im-infopane { border-left-color: rgb(243,245,248) !important; }
-web.icq.com#$#.im-sidebar__topinfo-item .im-sidebar-topinfo__subtitle { color: rgb(131,134,144) !important; }
-web.icq.com#$#.im-ui-button__main-navbar.tab-active .im-msg-counter { border-color: rgb(232,250,240) !important; }
-web.icq.com#$#.im-add-contact.im-new-contact__disabled .im-button_highlight, .im-box-about_disabled .im-button_highlight, .im-box-names_disabled .im-button_highlight, .im-button:disabled, .im-button_disabled { background-color: rgb(183,188,201) !important; }
 ! IDOWNLOADBLOG
 idownloadblog.com##p > strong
 idownloadblog.com##.entry-social
