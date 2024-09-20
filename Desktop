@@ -1,10 +1,32 @@
 ! Title: Superstraktulation
-! Version: 1.19.7
+! Version: 1.19.8
 !
+@@||/borlabs-cookie/*$~script
+@@||account.formula1.com^$important,document
+@@||account.miles-and-more.com^$important,document
 @@||appleid.apple.com^$important,document,~extension
+@@||booking.tallink.com^$important,document
+@@||disneyplus.com^$important,document
+@@||elitsportsclub.se^$important,document
 @@||experience.arcgis.com^$important,document,~extension
-@@||gisanddata.maps.arcgis.com^$important,document,~extension
+@@||foretag.kronansapotek.se^$important,document
 @@||forums.appleinsider.com^$important,document
+@@||gisanddata.maps.arcgis.com^$important,document,~extension
+@@||intyg.1177.se^$important,document
+@@||login.live.com^$important,document
+@@||mysignins.microsoft.com^$important,document
+@@||ofauth.hsb.se^$important,document
+@@||uat-online.hsb.se^$important,document
+@@||vanbruun.com^$important,document
+@@||www.fido.ie^$important,document
+@@||www.fullmaktskollen.se^$important,document
+@@||www.hsb.se^$important,document
+@@||www.kronansapotek.se^$important,document
+@@||www.nordicfeel.se^$important,document
+@@||www.paypal.com^$important,document
+@@||www.plejd.com^$important,document
+@@||www.spp.se^$important,document
+@@||www.wiesagichsaufdeutsch.de^$important,document
 ##.adblock-whitelist-messaging__article-wrapper
 ##.ad
 ##.ad_div
@@ -216,6 +238,8 @@ blocket.se##[class^="MediumLayout__BodyRight-"]
 blocket.se##[class^="MediumLayout__CenterWithPadding-"] > div:first-child
 blocket.se###root > div.LayoutStyles__FullHeightWrapper-du5f0h-0.MediumLayout__Container-q6qal1-0.djgZzN:nth-child(3) > aside.MediumLayout__PuffWrapper-q6qal1-12.kqImFe:nth-child(5) > div.JobPuffs__PuffWrapper-sc-11j42ma-0.isWzDF
 blocket.se#$#.col-xs-9 { width: 100% !important; }
+! BILD
+bild.de##.related-topics
 ! BINANCE
 binance.com##img.css-1ithwm4
 binance.com##.css-e2h4xe
@@ -463,6 +487,8 @@ designboom.com#$#.nav-search-toggler { top: 7px !important; }
 ! DI.FM
 di.fm##.section-title-component__title-button
 di.fm##.content-module-wrapper
+di.fm###content-lock-modal
+di.fm##.modal-backdrop
 di.fm##.premium-upsell
 di.fm##.side-nav-menu-item--premium
 di.fm##.temp-message.notice.visible
@@ -497,6 +523,7 @@ distiller.com###region-filters
 dpj.se###header > div.usp-bar
 ! DUCKDUCKGO
 duckduckgo.com##.footer
+duckduckgo.com#$#.header-wrap {background-color: #ffffff !important; }
 ! EBAY
 ebay.de, ebay.co.uk##.connected-placements
 ebay.de, ebay.co.uk##.fixed-tiles
@@ -525,6 +552,8 @@ engadget.com#$#.pt-45\@tp\+ { padding-top: 0 !important; }
 enpass.io##.cookie-notice-container
 ! EPOCHTIMES
 epochtimes.de###modal-COMMON
+! ETSY
+etsy.com##.chrome-footer__etsy-finds
 ! FACEBOOK
 facebook.com##.cxgpxx05:nth-child(2) > div:first-child > div
 facebook.com###u_0_c_zN
@@ -790,10 +819,13 @@ formula1.com###sailthru-overlay-container
 formula1.com##.transparent-strip
 formula1.com##.seo-wrapper
 formula1.com##.editor-tv-wrapper
+formula1.com##DIV:has(div[aria-label="Advertisement"])
 formula1.com##.row > DIV:has([href*="esports-series"])
 formula1.com##.f1-footer .f1-border
 formula1.com##DIV > p > strong:has(a)
 formula1.com##DIV > p > a:has(strong)
+formula1.com##section.mx-auto.max-w-full.\!rounded-10.border-gray20
+formula1.com#$#.col-span-6 { padding-bottom: 20px !important; }
 ! FORZAFOOTBALL
 forzafootball.com##[class^="AdSlot"]
 forzafootball.com##.PageTitle_PageTitle__tO_wJ
@@ -819,6 +851,20 @@ foxnews.com##.collection-market-indexes
 foxnews.com##.footer-upper
 foxnews.com#$#.footer-lower { border-top: none !important; padding-top: 0 !important; }
 foxnews.com#$#.article-content { width: 100% !important; }
+! FRIHETSNYTT
+frihetsnytt.se##.vc_raw_html
+frihetsnytt.se##.td_block_text_with_title.tdi_120
+frihetsnytt.se##.td_woo_products_block
+frihetsnytt.se##.td_block_title.tdi_134
+frihetsnytt.se##.swish-qr
+frihetsnytt.se##.td-footer-template-wrap
+frihetsnytt.se##.cc-compass
+frihetsnytt.se##.td_block_title.tdi_157
+frihetsnytt.se##.tdm_block_socials
+frihetsnytt.se##.td_block_title.tdi_158
+frihetsnytt.se##.tdn_block_newsletter_subscribe
+frihetsnytt.se##.td_block_title.tdi_168
+frihetsnytt.se##.tdm_block_inline_image.tdi_147
 ! GAMEANALYTICS
 blog.gameanalytics.com##[class="panel"]
 blog.gameanalytics.com##[class="return_link"]
@@ -1268,6 +1314,8 @@ kingworldnews.com##.post-content > [style="text-align: center;"]
 kingworldnews.com##.post-content > hr
 kingworldnews.com##.post-content > p:nth-last-child(-n+6)
 kingworldnews.com##ASIDE[class="widget-1 first widget"]
+! KITCHENSTORIES
+kitchenstories.com##.sticky
 ! KORREKTUREN
 korrekturen.de##[style^="width:300px; height:250px;float:left; margin-right:15px; margin-bottom:15px;"]
 korrekturen.de###contentbreit
@@ -1909,9 +1957,11 @@ x.com##[aria-label="Trending"] > DIV > DIV:nth-child(n+3):not(DIV:last-child)
 x.com##[aria-label="Verified Organizations"]
 x.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])
 x.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])~div
+x.com#$#[data-testid="tweetText"][style^="-webkit-line-clamp"] > [href^="http"] { margin-left: 3px !important; }
 ! YANKO DESIGN
 yankodesign.com##.top-strip
 ! YOUTUBE
+youtube.com##ytd-reel-shelf-renderer
 youtube.com##yt-related-chip-cloud-renderer
 youtube.com##[class^="ad-"]
 youtube.com##.html5-endscreen
