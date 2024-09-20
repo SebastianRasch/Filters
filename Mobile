@@ -1,6 +1,7 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.58
-
+! Version: 4.59
+!
+@@||/borlabs-cookie/*$~script
 80.lv##main > div:last-child > div:last-child
 80.lv##main > div:first-child
 80.lv##.Article__widget_type_pre-sale
@@ -35,6 +36,8 @@ app.ignition.fun##div:nth-child(14)
 apple.com##.lockedBottomBar
 appleinsider.com##div.container:nth-child(7)
 appleinsider.com###ios-app-promote
+bild.de##.related-topics
+bild.de##.iframely-embed > .iframely-responsive
 blocket.se##.blocket-placement
 blocket.se##[class^="PropertyValuation"]
 blocket.se##[data-reactid="61"]
@@ -133,6 +136,7 @@ focus.de###main > article.card:nth-child(6)
 focus.de###MEW_scroll_to_top_wrapper
 focus.de###socialbar
 formula1.com##.row > DIV:has([href*="esports-series"])
+formula1.com##.prose-blockquote\:pl-0 > p > a > strong
 formula1.com##.f1-article--rich-text > p > strong > a
 formula1.com##.f1-article--rich-text > p > a > strong
 formula1.com##.f1-article--related
@@ -140,6 +144,11 @@ formula1.com##.listing-promo-content
 formula1.com##.f1-up-next
 formula1.com##.f1-footer__top
 formula1.com##.f1-footer__middle
+formula1.com###maincontent > section.mb-10
+formula1.com###footer > section.mb-4:last-child > .items-center.flex:first-child
+formula1.com###footer > section.mb-4:last-child > .flex-col.tablet\:rounded-br-\[2rem\]:nth-child(3)
+formula1.com###footer > section.mx-auto.mb-4:last-child > div:nth-child(2)
+formula1.com###footer > section.w-full.bg-lightBlack.py-3 > .container
 foxbusiness.com##.article-body > p > a > strong
 foxbusiness.com##.sticky-video
 foxbusiness.com##.social-icons
@@ -234,8 +243,9 @@ idownloadblog.com##.nav-controls
 idownloadblog.com##.sharing-options
 idownloadblog.com##.wptouch-custom-ad
 idownloadblog.com###idb-sidebar
-idownloadblog.com###iDB_Mobile_Below_Content
 idownloadblog.com###sidebar .widget-area
+idownloadblog.com###iDB_Mobile_Below_Content
+idownloadblog.com##[id^=“AdThrive_Content”]
 ignition.fun##.navbar-through > .page > .page-content > center
 ijunkie.com##.social_panel
 ijunkie.com##.social_icons
@@ -264,6 +274,7 @@ jungefreiheit.de##.elementor-element-58edc8c2
 jungefreiheit.de##.elementor-element-502a6638
 jungefreiheit.de##.elementor-element-1d39029c
 jungefreiheit.de##.elementor-element-917d91a
+jungefreiheit.de##.elementor-element-2f63af7
 jungefreiheit.de##.elementor-location-footer > section
 kingworldnews.com##.post-content > p:nth-last-child(-n+5)
 kingworldnews.com##.ssba
