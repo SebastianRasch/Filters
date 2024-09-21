@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.19.8
+! Version: 1.19.9
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -819,7 +819,7 @@ formula1.com###sailthru-overlay-container
 formula1.com##.transparent-strip
 formula1.com##.seo-wrapper
 formula1.com##.editor-tv-wrapper
-formula1.com##DIV:has(div[aria-label="Advertisement"])
+formula1.com##.rounded-xs:has([aria-label="Advertisement"])
 formula1.com##.row > DIV:has([href*="esports-series"])
 formula1.com##.f1-footer .f1-border
 formula1.com##DIV > p > strong:has(a)
