@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.19.9
+! Version: 1.19.10
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -653,6 +653,7 @@ feedly.com#$#.entry--highlight { animation: none !important; }
 ! Article: Frame and background colour – Title only layout: .HJ3eLXI7s3pda0M4xiUp; Magazine layout: .DIuLtN4A3ZFMmDSY4NFK; Card layout: .IxeftxjEsOn2nMvYCH5K
 feedly.com#$#.HJ3eLXI7s3pda0M4xiUp, .DIuLtN4A3ZFMmDSY4NFK, .IxeftxjEsOn2nMvYCH5K { max-width: 100% !important; margin: 0 !important; border: none !important; }
 feedly.com#$#.DIuLtN4A3ZFMmDSY4NFK:hover, .IxeftxjEsOn2nMvYCH5K:hover { background-color: #f6f7f8 !important; }
+feedly.com#$#.GiantMarkAsRead:hover, .qppZDkwhe7ld1Jpq4Hrr, .d5SfpVkXoeKeMzKCBWXs, .llUk4Z8JQmLxlglvbxus { background-color: #ebebeb !important; }
 feedly.com#$#.jxKY0ySNBDaKATCnT_XQ { background: none !important; }
 feedly.com#$#.shareBarHolder { margin-bottom: 4px !important; }
 feedly.com#$#.ShareBar, .headerInfo, .HJ3eLXI7s3pda0M4xiUp, .entry.u0 { border: 0 !important; }
@@ -1839,6 +1840,7 @@ tradingdesk.finanzen.net##[class="slide-aside"]
 tradingview.com##.pane-separator
 tradingview.com##[data-role="toast-container"]
 tradingview.com###tv-toasts
+tradingview.com###overlap-manager-root
 ! TRAKT
 trakt.tv##[class*="-grid-item"]
 trakt.tv##.toast-success
