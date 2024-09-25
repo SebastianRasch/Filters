@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.60
+! Version: 4.61
 !
 @@||/borlabs-cookie/*$~script
 80.lv##main > div:last-child > div:last-child
@@ -477,7 +477,7 @@ theverge.com###\38 CgBwl
 theverge.com###chorus-social-fixed
 theverge.com###comments-touch-tools
 tradingview.com##[data-widget-type="promo_block"]
-tradingview.com###overlap-manager-root
+tradingview.com##[data-dialog-name="gopro"]
 trakt.tv###inbox-wrapper
 trakt.tv###Liqwid_frame5
 urbandictionary.com##.ad-panel
