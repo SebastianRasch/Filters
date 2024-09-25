@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.19.10
+! Version: 1.19.11
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -1840,7 +1840,7 @@ tradingdesk.finanzen.net##[class="slide-aside"]
 tradingview.com##.pane-separator
 tradingview.com##[data-role="toast-container"]
 tradingview.com###tv-toasts
-tradingview.com###overlap-manager-root
+tradingview.com##[data-dialog-name="gopro"]
 ! TRAKT
 trakt.tv##[class*="-grid-item"]
 trakt.tv##.toast-success
