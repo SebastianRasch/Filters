@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.19.11
+! Version: 1.19.12
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -1837,11 +1837,18 @@ torrentz2.eu#$#[id^="AdsKeepWrap"] > DIV:first-child { display: none !important;
 tradingdesk.finanzen.net##[class="drop userdata-content"]
 tradingdesk.finanzen.net##[class="slide-aside"]
 ! TRADINGVIEW
-tradingview.com##.pane-separator
+tradingview.com###tv-toast
 tradingview.com##[data-role="toast-container"]
-tradingview.com###tv-toasts
 tradingview.com##[data-dialog-name="gopro"]
+tradingview.com##.pane-separator
+tradingview.com#$#.widgetbar-widgethandle { background-color: #e6e6e6 !important; }
+tradingview.com#$#.widgetbar-pages { border-left-color: #e6e6e6 !important; }
+tradingview.com#$#.chart-controls-bar, .separator-eCC6Skn5, .widgetbar-widget-detail, .symbol-RsFlttSS:not(.firstRow-RsFlttSS) { border-top-color: #e6e6e6 !important; }
+tradingview.com#$#.widgetbar-pages { border-right-color: #e6e6e6 !important; }
+tradingview.com#$#.tableHeader-Nz1M1_XP, .symbol-RsFlttSS { border-bottom-color: #e6e6e6 !important; }
+tradingview.com#$#.active-RsFlttSS { border-color: #6a6a6a !important; }
 ! TRAKT
+trakt.tv###om1gYCfRiN-IGJj59JMAC-wrapper:has(div > a[href="/vip/advertising"])
 trakt.tv##[class*="-grid-item"]
 trakt.tv##.toast-success
 trakt.tv##.top.dark
