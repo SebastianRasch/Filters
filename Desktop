@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.19.12
+! Version: 1.19.13
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -941,7 +941,8 @@ github.com#$##repos-file-tree { max-height: 100% !important; height: 100% !impor
 github.com#$#react-app { min-height: auto !important; }
 github.com#$#.iStsmI { padding-bottom: 0 !important; }
 github.com#$#.ioxSsX { height: auto !important; }
-github.com#$#.search-with-dialog { background-color: #fff !important; }
+github.com#$#.AppHeader { background: #fff !important; }
+github.com#$#.search-with-dialog, .Box-sc-g0xbh4-0 { background-color: #fff !important; }
 github.com#$#.header-search-button.placeholder { color: rgba(140, 140, 140, 0.75) !important; }
 github.com#$#@media (prefers-color-scheme: light) { head { [content="var(--color-canvas-default)"] !important; } .Header { background-color: var(--color-canvas-default) !important; } .Header-link { color: var(--color-fg-default) !important; } .Header-link:hover, .Header-link:focus { color: var(--color-fg-subtle) !important; } header { border-bottom: 1px solid var(--color-border-default) !important; } .header-search-wrapper { background-color: var(--color-canvas-subtle) !important; border-color: var(--color-border-default) !important; } input::placeholder { color: darkgray !important; } }
 ! GIZMODO
