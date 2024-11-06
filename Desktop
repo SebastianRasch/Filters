@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.19.14
+! Version: 1.19.15
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -582,6 +582,7 @@ faz.net#$##FAZContentLeftInner { margin: 0 !important; }
 faz.net#$##FAZContentLeftInner .NachrichtenKamin { margin-left: 280px !important; width: 666px !important; }
 faz.net#$#.ContentFooter { margin-top: -50px !important; }
 ! FEEDLY
+
 feedly.com##.EmptyState__illustration
 feedly.com##.primary.button-icon-only
 feedly.com##.button--primary.pro
@@ -678,6 +679,7 @@ feedly.com#$#.header .right-col { padding-right: 0 !important; }
 feedly.com#$#.DIuLtN4A3ZFMmDSY4NFK__visual { height: 82px !important; width: 146px !important; }
 feedly.com#$##feedlyPageFX, .entryBody { max-width: 100% !important; }
 feedly.com#$##feedlyPageFX.title-only { padding-right: 23px !important; padding-left: 23px !important; }
+feedly.com#$#.EntryToolbar.TitleOnlyEntry__toolbar { margin-right: 5px !important; }
 feedly.com#$#.u100Entry, #feedlyPageFX:has(.presentation-100) { max-width: 1000px !important; width: auto !important; }
 feedly.com#$#.entry.u5, .entry.cards { margin-right: 0 !important; }
 feedly.com#$#.presentation-0 h4 { padding-left: 11px !important; }
@@ -818,7 +820,6 @@ focus.de###google_ads_iframe_\/3673\/focus\/homad_0
 formula1.com###silentAudioBanner
 formula1.com###sailthru-overlay-container
 formula1.com##.transparent-strip
-formula1.com##.seo-wrapper
 formula1.com##.editor-tv-wrapper
 formula1.com##.rounded-xs:has([aria-label="Advertisement"])
 formula1.com##.row > DIV:has([href*="esports-series"])
@@ -1158,7 +1159,6 @@ hototools.com###shopify-section-announcement
 hototools.com###vitals_popup
 hototools.com##.vtl-mf-dialog
 ! IDOWNLOADBLOG
-idownloadblog.com##p > strong
 idownloadblog.com##.entry-social
 idownloadblog.com###ajax-load-more
 idownloadblog.com#$#.entry-content { text-align: justify !important; }
@@ -1838,8 +1838,6 @@ torrentz2.eu#$#[id^="AdsKeepWrap"] > DIV:first-child { display: none !important;
 tradingdesk.finanzen.net##[class="drop userdata-content"]
 tradingdesk.finanzen.net##[class="slide-aside"]
 ! TRADINGVIEW
-tradingview.com###tv-toast
-tradingview.com##[data-role="toast-container"]
 tradingview.com##[data-dialog-name="gopro"]
 tradingview.com##.pane-separator
 tradingview.com#$#.widgetbar-widgethandle { background-color: #e6e6e6 !important; }
