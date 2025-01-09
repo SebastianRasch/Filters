@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.19.17
+! Version: 1.19.18
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -582,7 +582,6 @@ faz.net#$##FAZContentLeftInner { margin: 0 !important; }
 faz.net#$##FAZContentLeftInner .NachrichtenKamin { margin-left: 280px !important; width: 666px !important; }
 faz.net#$#.ContentFooter { margin-top: -50px !important; }
 ! FEEDLY
-
 feedly.com##.EmptyState__illustration
 feedly.com##.primary.button-icon-only
 feedly.com##.button--primary.pro
@@ -678,7 +677,6 @@ feedly.com#$#.header .right-col { padding-right: 0 !important; }
 ! Article
 feedly.com#$#.DIuLtN4A3ZFMmDSY4NFK__visual { height: 82px !important; width: 146px !important; }
 feedly.com#$##feedlyPageFX, .entryBody { max-width: 100% !important; }
-feedly.com#$##feedlyPageFX.title-only { padding-right: 23px !important; padding-left: 23px !important; }
 feedly.com#$#.EntryToolbar.TitleOnlyEntry__toolbar { margin-right: 5px !important; }
 feedly.com#$#.u100Entry, #feedlyPageFX:has(.presentation-100) { max-width: 1000px !important; width: auto !important; }
 feedly.com#$#.entry.u5, .entry.cards { margin-right: 0 !important; }
@@ -722,7 +720,6 @@ feedly.com##[aria-label="Toggle AI Actions Panel"]
 feedly.com##[aria-label="Create AI Feed"]
 feedly.com##[aria-label="Power Search"]
 feedly.com#$##feedlyChrome { margin-left: -20px !important; }
-feedly.com#$#.feedlyChrome--leftnav-closed #feedlyFrame, .feedlyChrome--leftnav-closed #barsFX, .feedlyChrome--leftnav-peeked #feedlyFrame, .feedlyChrome--leftnav-peeked #barsFX, .LeftnavList { margin-left: 44px !important; }
 feedly.com#$#.m-t-2 { margin-top: 1rem !important; }
 feedly.com#$#.Leftnav { background-color: #f6f7f8 !important; border-right: 1px solid #efefef !important; }
 feedly.com#$#.LeftnavDock { width: 44px !important; }
