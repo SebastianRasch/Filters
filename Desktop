@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.19.21
+! Version: 1.19.22
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -1817,6 +1817,8 @@ theverge.com#$#@media screen and (max-width: 1399px) { .c-float-right.c-float-ha
 theverge.com#$#.c-float-right > aside > q { padding-right: 0 !important; text-align: right !important; }
 theverge.com#$#.c-float-left { margin-left:  -15% !important; margin-right: 25px !important; width: 40% !important; }
 theverge.com#$#.c-float-left > q { text-align: left !important; }
+! TICHYS EINBLICK
+tichyseinblick.de##.oembed-cached
 ! TIME
 time.com##.trc_rbox.ab_verticalx3_1x3.trc-content-organic
 ! TOMSHARDWARE
