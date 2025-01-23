@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.19.22
+! Version: 1.19.99b
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -655,6 +655,7 @@ feedly.com#$#.HJ3eLXI7s3pda0M4xiUp, .DIuLtN4A3ZFMmDSY4NFK, .IxeftxjEsOn2nMvYCH5K
 feedly.com#$#.DIuLtN4A3ZFMmDSY4NFK:hover, .IxeftxjEsOn2nMvYCH5K:hover { background-color: #f6f7f8 !important; }
 feedly.com#$#.GiantMarkAsRead:hover, .qppZDkwhe7ld1Jpq4Hrr, .d5SfpVkXoeKeMzKCBWXs, .llUk4Z8JQmLxlglvbxus { background-color: #ebebeb !important; }
 feedly.com#$#.jxKY0ySNBDaKATCnT_XQ { background: none !important; }
+feedly.com#$#.E_F6s6qK2uYSQkejopR_ { background-color: rgb(235, 235, 235) !important; }
 feedly.com#$#.shareBarHolder { margin-bottom: 4px !important; }
 feedly.com#$#.ShareBar, .headerInfo, .HJ3eLXI7s3pda0M4xiUp, .entry.u0 { border: 0 !important; }
 feedly.com#$#.headerInfo.headerInfo-article { margin-top: 0 !important; }
@@ -664,6 +665,7 @@ feedly.com#$#.entry, .TitleOnlyEntry { border: none !important; }
 feedly.com#$#.Article__title { line-height: 2.3rem !important; }
 feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 ! Article: Header line
+feedly.com##.Header__checkbox
 feedly.com##.right-col > div > button:nth-child(5)
 feedly.com#$#.TopHeaderBar { border-bottom: none !important; }
 feedly.com#$##feedlyMessageBar { width: 1162px !important; }
@@ -675,6 +677,7 @@ feedly.com#$#.presentation-cards > div:has(.entry.cards) { margin-top: 18px !imp
 feedly.com#$#.EntryToolbar { gap: .5rem !important; }
 feedly.com#$#.header .right-col { padding-right: 0 !important; }
 ! Article
+feedly.com##.EntriesBatchSelection__checkbox
 feedly.com#$#.DIuLtN4A3ZFMmDSY4NFK__visual { height: 82px !important; width: 146px !important; }
 feedly.com#$##feedlyPageFX, .entryBody { max-width: 100% !important; }
 feedly.com#$#.EntryToolbar.TitleOnlyEntry__toolbar { margin-right: 5px !important; }
@@ -1819,6 +1822,11 @@ theverge.com#$#.c-float-left { margin-left:  -15% !important; margin-right: 25px
 theverge.com#$#.c-float-left > q { text-align: left !important; }
 ! TICHYS EINBLICK
 tichyseinblick.de##.oembed-cached
+tichyseinblick.de###block-2
+tichyseinblick.de###block-4
+tichyseinblick.de###block-3
+tichyseinblick.de###block-3
+tichyseinblick.de###header-widgets-0
 ! TIME
 time.com##.trc_rbox.ab_verticalx3_1x3.trc-content-organic
 ! TOMSHARDWARE
@@ -1996,6 +2004,7 @@ zalando.se##.z-navicat-header-uspBar
 zalando.se##.z-uspBar
 zalando.se##[data-testid="usp-bar"]
 zalando.se##[class^="cat_sponsor-"]
+zalando.se##[data-visibility-info-id*="advertising"]
 ! ZDNET
 zdnet.com###main > div:first-child
 zdnet.com##.col-4:last-child > div:first-child
