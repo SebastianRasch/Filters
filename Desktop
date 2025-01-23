@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.19.99b
+! Version: 1.20.00
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -651,10 +651,9 @@ feedly.com##.entry--selected .CondensedToolbar:not(.entry:hover .CondensedToolba
 feedly.com#$#.headerInfo-expanded-img:hover, .save-for-later:hover, .button-addurl:hover, .button-refresh:hover { background-color: transparent !important; }
 feedly.com#$#.entry--highlight { animation: none !important; }
 ! Article: Frame and background colour – Title only layout: .HJ3eLXI7s3pda0M4xiUp; Magazine layout: .DIuLtN4A3ZFMmDSY4NFK; Card layout: .IxeftxjEsOn2nMvYCH5K
-feedly.com#$#.HJ3eLXI7s3pda0M4xiUp, .DIuLtN4A3ZFMmDSY4NFK, .IxeftxjEsOn2nMvYCH5K { max-width: 100% !important; margin: 0 !important; border: none !important; }
-feedly.com#$#.DIuLtN4A3ZFMmDSY4NFK:hover, .IxeftxjEsOn2nMvYCH5K:hover { background-color: #f6f7f8 !important; }
 feedly.com#$#.GiantMarkAsRead:hover, .qppZDkwhe7ld1Jpq4Hrr, .d5SfpVkXoeKeMzKCBWXs, .llUk4Z8JQmLxlglvbxus { background-color: #ebebeb !important; }
 feedly.com#$#.jxKY0ySNBDaKATCnT_XQ { background: none !important; }
+feedly.com#$#.HJ3eLXI7s3pda0M4xiUp { margin: 0 !important; }
 feedly.com#$#.E_F6s6qK2uYSQkejopR_ { background-color: rgb(235, 235, 235) !important; }
 feedly.com#$#.shareBarHolder { margin-bottom: 4px !important; }
 feedly.com#$#.ShareBar, .headerInfo, .HJ3eLXI7s3pda0M4xiUp, .entry.u0 { border: 0 !important; }
@@ -678,7 +677,6 @@ feedly.com#$#.EntryToolbar { gap: .5rem !important; }
 feedly.com#$#.header .right-col { padding-right: 0 !important; }
 ! Article
 feedly.com##.EntriesBatchSelection__checkbox
-feedly.com#$#.DIuLtN4A3ZFMmDSY4NFK__visual { height: 82px !important; width: 146px !important; }
 feedly.com#$##feedlyPageFX, .entryBody { max-width: 100% !important; }
 feedly.com#$#.EntryToolbar.TitleOnlyEntry__toolbar { margin-right: 5px !important; }
 feedly.com#$#.u100Entry, #feedlyPageFX:has(.presentation-100) { max-width: 1000px !important; width: auto !important; }
