@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.20.02
+! Version: 1.20.03
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -1924,10 +1924,13 @@ welt.de##[data-qa="AttachedArticles"]
 welt.de##[data-qa="Comments.Container"] > div:last-child > div:first-child > div:first-child > div
 welt.de##[data-qa="Comments.Container"] > DIV > DIV:last-child > DIV:nth-last-child(-n+2)
 welt.de##[id^="c-dialog-"]
+welt.de##footer > div:nth-child(4)
 welt.de#$#.c-page-container--is-video-page:after { border: none !important; background: none !important; }
 welt.de#$#.c-stage--has-theme { padding-bottom: 5px !important; }
 welt.de#$#.c-grid__item.c-grid__item--is-full.c-grid__item--has-gap { margin-bottom: 0 !important; }
-welt.de#$#.c-content-container { max-width: 100% !important; }
+welt.de#$#.c-article-page__container, [data-qa="Comments.Container"] {max-width: 100% !important; }
+welt.de#$#.c-article-page__content { padding: 25px 30px 10px !important; }
+welt.de#$#.c-article-page__opener { margin-left: -30px !important; margin-right: -30px !important; }
 welt.de#$#.c-container--has-full-width, .c-inline-element { margin-left: 0 !important; margin-right: 0 !important; }
 welt.de#$#.c-article-text { text-align: justify !important; }
 welt.de#$#.o-headline { text-align: left !important; }
