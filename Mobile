@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.61
+! Version: 4.62
 !
 @@||/borlabs-cookie/*$~script
 80.lv##main > div:last-child > div:last-child
@@ -58,6 +58,14 @@ brandeins.de##.sticky-sharebar
 c.getsatisfaction.com###search-steps
 c.getsatisfaction.com###topic-sharing-mobile
 caranddriver.com##.breaker-ad
+chefkoch.de###rewe-button
+chefkoch.de##.ck-bring-button
+chefkoch.de##.bi-user-recipes
+chefkoch.de##.ds-or-5
+chefkoch.de##[amp-access="NOT hasPaid"]
+chefkoch.de##.w-footer__social
+chefkoch.de##.w-footer__menus
+chefkoch.de##.ds-divider--flat:nth-child(2)
 chip.de###share-mobile-fixed
 cleantechnica.com##.mrf-adv__wrapper
 cnbc.com###social-tools-panel
