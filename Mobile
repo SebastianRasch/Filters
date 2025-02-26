@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.62
+! Version: 4.63
 !
 @@||/borlabs-cookie/*$~script
 80.lv##main > div:last-child > div:last-child
@@ -89,6 +89,7 @@ computerbase.de##.block1--abo-box
 computerbase.de##.block1--pro-box
 computerbase.de##.block1--pro-box2
 computerbase.de##.block1--breakout-2
+computerbase.de##.support-plea
 computerbase.de##.footer1
 computerbase.de##.footer2-follow-links
 computerbase.de##.postbit-ad
@@ -120,6 +121,7 @@ dn.se###rich-media-ads
 duckduckgo.com###ads
 duckduckgo.com###zero_click_wrapper
 duden.de###aab-overlay
+einfachkochen.de##.paragraph-suggestionbox
 electrek.co##.ad-container
 electrek.co##.adsense
 engadget.com##.latest
@@ -171,6 +173,7 @@ foxnews.com##[ID*="iframe-banner"]
 foxnews.com##.collection-market-indexes
 foxnews.com##.footer-upper
 foxnews.com#$#.footer-lower { border-top: none !important; padding-top: 0 !important; }
+freilich-magazin.com##.banner_inArticle__pqCnz
 friatider.se##.rightbox:first-child
 frihetsnytt.se##div.cc-compass
 frihetsnytt.se###donera-nav
@@ -315,6 +318,9 @@ macuser.de##.xbMobileBar
 macuser.de###logoBlock
 mail1a.de##center:first-child > iframe:last-child
 mashable.com##[id^="incontent-"]
+nius.de##.header-mobile_mobileCampaign__10OQc
+nius.de##.article_Article__related__YdAru
+nius.de##.article_Article__paywallBanner__PGSog
 nytimes.com###appContainer
 n-tv.de##.download-app
 n-tv.de##.social-services
@@ -484,10 +490,21 @@ theverge.com###\37 EevTB
 theverge.com###\38 CgBwl
 theverge.com###chorus-social-fixed
 theverge.com###comments-touch-tools
+tichyseinblick.de##.noti-comment
+tichyseinblick.de##.adwidget_homepage
+tichyseinblick.de##.rty-title-authors-box
+tichyseinblick.de##.rty-video-post-thumbs
+tichyseinblick.de###block-5
+tichyseinblick.de##.rty-video-post-thumb
+tichyseinblick.de###block-4
+tichyseinblick.de###block-3
+tichyseinblick.de###block-2
+tichyseinblick.de##.rty-inner-post-box
 tradingview.com##[data-widget-type="promo_block"]
 tradingview.com##[data-dialog-name="gopro"]
 trakt.tv###inbox-wrapper
 trakt.tv###Liqwid_frame5
+trakt.tv###om1gYCfRiN-LD3xSETSnk-Ba2KT6YF2O-wrapper
 urbandictionary.com##.ad-panel
 urbandictionary.com##.mug-ad
 urbandictionary.com###columnist-2
@@ -534,6 +551,9 @@ welt.de##.c-page-container--is-video-page:after
 welt.de##.c-page-container.u-is-hidden-print
 welt.de##.c-page-footer-navigation__link-main:last-child
 welt.de##.c-page-footer__section:nth-child(n+2)
+welt.de##.u-inline-element.is-full-width-media-element.u-clear-both
+welt.de##.c-attached-content
+welt.de##.c-divider.c-divider--article
 welt.de##footer:last-child > div:last-child
 !welt.de##[data-component="OEmbedComponent"]
 welt.de##[data-qa="Comments.Container"] > DIV > DIV:last-child > DIV:nth-last-child(-n+2)
