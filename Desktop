@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.20.03
+! Version: 1.20.04
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -301,6 +301,15 @@ cbsnews.com#$#.content__promo-no-media { height: 285px !important; }
 cbsnews.com#$#.content__promo-image-wrapper { margin-left: calc((100vw - 1303px) / -2) !important; }
 ! CDON
 cdon.se###sponsoredProductsFragmentWrapper
+! CHEFKOCH
+chefkoch.de###rewe-button
+chefkoch.de##.ck-bring-button
+chefkoch.de##.bi-user-recipes
+chefkoch.de##.ds-or-5
+chefkoch.de##[amp-access="NOT hasPaid"]
+chefkoch.de##.w-footer__social
+chefkoch.de##.w-footer__menus
+chefkoch.de##.ds-divider--flat:nth-child(2)
 ! CHESS
 chess.com##.bottom-banner-component
 chess.com##.btn-go-premium.btn
@@ -1339,6 +1348,10 @@ live.com##._2qPmszDwBfYpF7PO9Mn3KN
 live.com##.c_ic_bar.c_ic_greenframe
 ! LIVING AT HOME
 livingathome.de##[class="lp_mwi_dialog-overlay lp_mwi_dialog-overlay--is-active"]
+! LOVE AND LEMONS
+loveandlemons.com###subscribe-popup
+loveandlemons.com###lnl-recipe-emailme
+loveandlemons.com###lnl_theme-67
 ! LUFTHANSA
 lufthansa.com##.pi-privacy
 lufthansa.com##.alert-container
@@ -1969,6 +1982,7 @@ wired.com#$#.gallery__text-block, .gallery-slide-caption__dek { text-align: just
 wired.com#$#.content-header__title-block, .content-header__accreditation { max-width: 900px !important; margin: auto !important; }
 ! X
 x.com##[aria-label="Trending"] > DIV > DIV > DIV:nth-child(n+3):not(DIV:last-child)
+x.com##[aria-label="Trending"] > DIV > DIV:nth-child(n+3):not(DIV:last-child)
 x.com##[aria-label="Verified Organizations"]
 x.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])
 x.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])~div
