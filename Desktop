@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.20.04
+! Version: 1.20.05
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -1987,7 +1987,8 @@ x.com##[aria-label="Verified Organizations"]
 x.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])
 x.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])~div
 x.com#$#[data-testid="tweetText"][style^="-webkit-line-clamp"] > [href^="http"] { margin-left: 3px !important; }
-x.com#$#[aria-label="Post"], [data-testid="tweetButtonInline"], [data-testid="tweetButton"] { background-color: rgb(255, 212, 0) !important; }
+x.com#$#[aria-label="Post"], [data-testid="tweetButtonInline"], [data-testid="tweetButton"], DIV:has([data-testid="grok_post_atgrok_button"]) > a[href="/i/grok"] { background-color: rgb(255, 212, 0) !important; }
+x.com#$#[aria-label="Post"]:hover, [data-testid="tweetButtonInline"]:hover, [data-testid="tweetButton"]:hover, DIV:has([data-testid="grok_post_atgrok_button"]) > a[href="/i/grok"]:hover { background-color: rgb(255, 220, 51) !important; }
 ! YANKO DESIGN
 yankodesign.com##.top-strip
 ! YOUTUBE
