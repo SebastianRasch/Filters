@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.20.13
+! Version: 1.21.00
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -591,6 +591,10 @@ faz.net#$##FAZContentLeftInner { margin: 0 !important; }
 faz.net#$##FAZContentLeftInner .NachrichtenKamin { margin-left: 280px !important; width: 666px !important; }
 faz.net#$#.ContentFooter { margin-top: -50px !important; }
 ! FEEDLY
+feedly.com#@#button[title="Save to Twitter"]
+feedly.com##[id^="ShareBar__share-menu"] > li:not(li:nth-child(2), li:nth-child(3), li:nth-child(8))
+feedly.com###LeftnavDock__support-menu1 > li:nth-child(3)
+feedly.com##.LeftnavWebAlertsButton__wrapper
 feedly.com##.EmptyState__illustration
 feedly.com##.primary.button-icon-only
 feedly.com##.button--primary.pro
@@ -604,22 +608,16 @@ feedly.com##.hhint
 feedly.com##.EntryList__heading
 feedly.com##.StreamPage > h2
 feedly.com##.TopHeaderBar__actions > button
-feedly.com##.BkxVplHHIjwG4VM70DAu
-feedly.com##.R6KsxCrsSBywvaGbcPJo
-feedly.com##.LeftnavListRow--link
-feedly.com##.LeftnavHeading__organize-button
 feedly.com##.LeftnavPin
 feedly.com##.nonempty.label
 feedly.com##.pinButton
 feedly.com##.plan
 feedly.com##.small.pro.primary
 feedly.com##.tagsHolder.decoration-holder
-feedly.com##.u0.unread:not([id$="_main"])
 feedly.com##.visitWebsiteButton
 feedly.com##.websiteCallForAction
 feedly.com##.StreamPage > DIV > DIV > h2
 feedly.com##.col-xs-6.col-md-6 > DIV > .detail
-feedly.com##.cZ7GBo8syC_71ulgt3BD
 feedly.com##.kickered .extra
 feedly.com##[title="Share with teammates"]
 feedly.com##[title="Create Team Newsletter"]
@@ -638,12 +636,9 @@ feedly.com###herculeFrame
 feedly.com###intercom-frame
 feedly.com###realtimeSign
 feedly.com###searchBoxPlaceholder
-feedly.com###supporttab
-feedly.com###LeftnavDock__support-menu1 > li:nth-child(3)
 feedly.com##A[class="label primary iconless"]
 feedly.com##VIDEO
 feedly.com##.empty-state > .illustration
-feedly.com##.LeftnavListRow:nth-of-type(3)
 feedly.com##.col-xl-3-xlarge-only
 ! Font
 feedly.com#$#.eqTnTmTjuLIeerFDMTIU { font-size: 1.8rem !important; margin-left: 10px !important; margin-top: 3.2rem !important; }
@@ -653,17 +648,23 @@ feedly.com#$#.LeftnavListRow { font-size: inherit !important; }
 feedly.com#$#.entryBody { font-family: sans-serif !important; margin-bottom: 25px !important; margin-top: 15px !important; }
 ! Backgrounds
 feedly.com##.entry--selected .CondensedToolbar:not(.entry:hover .CondensedToolbar, .entry--focused .CondensedToolbar)
+feedly.com#$#button:hover:not(.GiantMarkAsRead) { background-color: #fbfbfb !important; border-radius: .3rem !important; }
 feedly.com#$#.headerInfo-expanded-img:hover, .save-for-later:hover, .button-addurl:hover, .button-refresh:hover { background-color: transparent !important; }
 feedly.com#$#.entry--highlight { animation: none !important; }
-! Article: Frame and background colour – Title only layout: .HJ3eLXI7s3pda0M4xiUp; Magazine layout: .DIuLtN4A3ZFMmDSY4NFK; Card layout: .IxeftxjEsOn2nMvYCH5K
-feedly.com#$#.qppZDkwhe7ld1Jpq4Hrr, .d5SfpVkXoeKeMzKCBWXs, .llUk4Z8JQmLxlglvbxus { background-color: #ebebeb !important; }
-feedly.com#$#.jxKY0ySNBDaKATCnT_XQ { background: none !important; }
-feedly.com#$#.HJ3eLXI7s3pda0M4xiUp { margin: 0 !important; }
+feedly.com#$#.InlineArticleEdge--top:hover { border-radius: .4rem .4rem 0 0 !important; background-color: #F0F0F0 !important; }
+feedly.com#$#.iGGsxbNmuvNFfDqFfu2w { background-color: #f0f0f0 !important; border-color: transparent !important; }
+feedly.com#$#.E_F6s6qK2uYSQkejopR_ { background-color: rgb(235, 235, 235) !important; }
+feedly.com#$#.SelectedEntryScroller > DIV:hover, .entry--read > .SelectedEntryScroller > DIV:has(.EntryToolbar):hover, .InlineArticle, .InlineArticleEdge--top { border: none !important; background-color: #F6F6F6 !important; }
 feedly.com#$#.entry--read > .SelectedEntryScroller > DIV:has(.EntryToolbar) { background-color: #ebebeb !important; }
 feedly.com#$#.entry--read > .SelectedEntryScroller > DIV, .GiantMarkAsRead:hover { background-color: #f1f1f1 !important; }
-feedly.com#$#.E_F6s6qK2uYSQkejopR_ { background-color: rgb(235, 235, 235) !important; }
+! Article: Frame and background colour – Title only layout: .HJ3eLXI7s3pda0M4xiUp; Magazine layout: .DIuLtN4A3ZFMmDSY4NFK; Card layout: .IxeftxjEsOn2nMvYCH5K
+feedly.com#$#.ru3WTitJiLyEAbgomgOS { left: 0 !important; }
+feedly.com#$#.DIuLtN4A3ZFMmDSY4NFK { max-width: 100% !important; margin-left: 0 !important; }
+feedly.com#$#.fx .row { margin-right: 0 !important; }
+feedly.com#$#.jxKY0ySNBDaKATCnT_XQ { background: none !important; }
+feedly.com#$#.HJ3eLXI7s3pda0M4xiUp { margin: 0 !important; }
 feedly.com#$#.shareBarHolder { margin-bottom: 4px !important; }
-feedly.com#$#.ShareBar, .headerInfo, .HJ3eLXI7s3pda0M4xiUp, .entry.u0 { border: 0 !important; }
+feedly.com#$#.ShareBar, .headerInfo, .HJ3eLXI7s3pda0M4xiUp { border: 0 !important; }
 feedly.com#$#.headerInfo.headerInfo-article { margin-top: 0 !important; }
 feedly.com#$#.headerInfo-links.left { margin-left: -18px; !important; }
 feedly.com#$#.headerInfo-links.right { margin-right: -15px; !important; }
@@ -672,7 +673,6 @@ feedly.com#$#.Article__title { line-height: 2.3rem !important; }
 feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
 ! Article: Header line
 feedly.com##.Header__checkbox
-feedly.com##.right-col > div > button:nth-child(5)
 feedly.com#$#.TopHeaderBar { border-bottom: none !important; }
 feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
@@ -685,19 +685,17 @@ feedly.com#$#.header .right-col { padding-right: 0 !important; }
 ! Article
 feedly.com##.EntriesBatchSelection__checkbox
 feedly.com#$##feedlyPageFX, .entryBody { max-width: 100% !important; }
+feedly.com#$##feedlyPageFX { padding-left: 24px !important; }
+feedly.com#$##feedlyFrame, #barsFX { padding-left: 20px !important; }
+feedly.com#$#.SelectedEntryScroller > DIV { border: none !important; margin-top: 0 !important; margin-bottom: 3px !important; }
+feedly.com#$#.SelectedEntryScroller > DIV, .GiantMarkAsRead, .InlineArticleEdge--top, .LeftnavItem, .LeftnavHeading { border-radius: .4rem !important; }
 feedly.com#$#.EntryToolbar.TitleOnlyEntry__toolbar { margin-right: 5px !important; }
-feedly.com#$#.u100Entry, #feedlyPageFX:has(.presentation-100) { max-width: 1000px !important; width: auto !important; }
-feedly.com#$#.entry.u5, .entry.cards { margin-right: 0 !important; }
-feedly.com#$#.presentation-0 h4 { padding-left: 11px !important; }
-feedly.com#$#.presentation-0 h4.EntryList__heading { padding-left: 14px !important; }
-feedly.com#$#.presentation-0 header { height: 57px !important; }
-feedly.com#$#.presentation-4, .presentation-5, .presentation-0 > .list-entries--layout-u0, .presentation-100 { margin-top: -6px !important; }
-feedly.com#$#.presentation-4 > DIV > header, .presentation-5 > DIV > header { margin-bottom: 15px !important; }
+feedly.com#$#.u100Entry { max-width: 1000px !important; width: auto !important; }
+feedly.com#$#.entry.cards { margin-right: 0 !important; }
 feedly.com#$#.Article--inlined { padding-top: 45px !important; }
-feedly.com#$#.InlineArticle--u100 { padding: 33px 0 !important; }
-feedly.com#$#.InlineArticle--magazine > DIV > .Article--inlined > .entryholder > .u100Entry, .InlineArticle--titleOnly > DIV > .Article--inlined > .entryholder > .u100Entry { margin-left: 145px !important; }
+feedly.com#$#.InlineArticle--titleOnly > DIV > .Article--inlined > .entryholder > .u100Entry { margin-left: 145px !important; }
+feedly.com#$#.InlineArticle--magazine  > DIV > .Article--inlined > .entryholder > .u100Entry { margin-left: 130px !important; }
 feedly.com#$#.InlineArticle--magazine { margin-right: 0 !important; margin-left: 0 !important; }
-feedly.com#$#.u0 > DIV > article > .entryholder > .u100Entry, .container:has(.presentation-100), .u4 > DIV > article { margin-left: 162px !important; margin-right: 180px !important; }
 feedly.com#$#.col-xl-9.col-xl-9-xlarge-only { width: 100% !important; padding-top: 0 !important; }
 feedly.com#$#.container630 { max-width: 1000px !important; }
 feedly.com#$#.slideEntryContent > article > .entryholder > .u100Entry { max-width: 100% !important; }
@@ -714,6 +712,9 @@ feedly.com#$##feedlyPart0.area { padding-left: 15px !important; }
 feedly.com#$##feedlyPageHeader { margin-right: 23px !important; margin-left: 11px !important; }
 feedly.com#$##feedlyPart { padding-right: 15px !important; }
 ! Close article
+feedly.com#$#.EntryToolbar:not(.CardEntry__toolbar, .TitleOnlyEntry__toolbar) { margin: -6px -7px 0 !important; }
+feedly.com#$#.cards > .SelectedEntryScroller > DIV { margin: 0 3px 5px !important; }
+feedly.com#$#[aria-label="Close article"] { background-color: transparent !important; }
 feedly.com#$#.InlineArticleEdge--top { height: 31px !important; }
 feedly.com#$#.InlineArticleEdge--top:hover { border-radius: .25rem !important; opacity 1 !important; visibility: visible !important; background-color: #f6f7f8 !important; }
 feedly.com#$#.InlineArticle__close-button { padding: 7px 8px !important; }
@@ -722,23 +723,27 @@ feedly.com#$#.InlineArticle { border-width: 0 0 1px !important; }
 feedly.com#$#.GiantMarkAsRead       { background-color: #f6f6f6 !important; border: none !important; }
 feedly.com#$#.GiantMarkAsRead:hover { background-color: #ecedee !important; border: none !important; }
 feedly.com#$#.secondaryCallForAction:hover, .secondaryCallForAction { border: 0 !important; }
-feedly.com#$#.fx .button.secondary, .button-dropdown { border: none !important; }
 ! Menu left
+feedly.com#$##feedlyChrome { margin-left: -20px !important; }
 feedly.com##[aria-label="Toggle AI Actions Panel"]
 feedly.com##[aria-label="Create AI Feed"]
 feedly.com##[aria-label="Power Search"]
-feedly.com#$##feedlyChrome { margin-left: -20px !important; }
-feedly.com#$#.m-t-2 { margin-top: 1rem !important; }
+feedly.com#$#[aria-label="Hide Sidebar"] { padding-left: 12px !important; }
+feedly.com##[aria-label="Toggle Ask AI Panel"]
+feedly.com##.Header__right-column > DIV > button:nth-child(5)
+feedly.com##.LeftnavList__scrollable-area > .LeftnavDroppable:nth-child(2) > .LeftnavItem
+feedly.com##.LeftnavProfileItem__text
 feedly.com#$#.Leftnav { background-color: #f6f7f8 !important; border-right: 1px solid #efefef !important; }
 feedly.com#$#.LeftnavDock { width: 44px !important; }
-feedly.com#$#.LeftnavList__heading-button { margin-right: -16px !important; }
-feedly.com#$#.LeftnavList__heading-visibility-button { margin-right: 0 !important; }
 feedly.com#$#.LeftnavListRow__favicon { margin-bottom: 2px !important; }
-feedly.com#$#[aria-label="Hide Sidebar"] { padding-left: 12px !important; }
+feedly.com#$#.LeftnavSection { padding-right: .5rem !important; }
+feedly.com#$#.LeftnavItem__icon--expandable { margin-left: 3px !important; }
+feedly.com#$#.LeftnavItem__content { padding-right: .2rem !important; }
+feedly.com#$#.LeftnavHeading__content { padding-right: .25rem !important; }
+feedly.com#$#.Header__right-column { margin-bottom: 5px !important; padding-right: 0 !important; }
 ! Profile menu
-feedly.com##.ProfileBubble__plan
-feedly.com#$#.menu.m-a-0 { min-width: 160px !important; }
-feedly.com###ProfileBubble__menu3 > li:nth-child(3), #ProfileBubble__menu3 > li:nth-child(4), #ProfileBubble__menu3 > li:nth-child(5), #ProfileBubble__menu3 > li:nth-child(6)
+feedly.com##.ProfileMenu > li:nth-child(2)
+feedly.com##.ProfileMenu > li:nth-child(3)
 ! Article media size
 feedly.com#$#IMG[src^="https://theawesomer.com/"], IMG[src^="http://theawesomer.com/"], IMG[src^="https://abduzeedo.com/"], IMG[src^="http://imgs.abduzeedo.com/"], [data-alternate-link^="http://abduzeedo.com/"] > div > div > div > div > a > IMG, IMG[src^="http://img.etimg.com/"], IMG[src^="https://media.idownloadblog.com/"], IMG[src^="https://images.anandtech.com/"]:not(IMG[src^="https://images.anandtech.com/galleries/"]), IMG[src*=".digitaltrends.com/"], IMG[src^="https://cdn.vox-cdn.com/"], IMG[src^="https://www.designboom.com"], IMG[src^="https://www.yankodesign.com/images"], IMG[src^="https://images.prismic.io"], IMG[src*="behance.net"], IMG[src^="https://ksr-ugc.imgix.net"], IMG[src^="https://images.macrumors.com/"], IMG[src*=".appleinsider.com"], IMG[src^="https://pics.computerbase.de"], IMG[src^="https://cdn.cnn.com/"], IMG[src^="https://nikonrumors.com/"], IMG[src*="googleusercontent.com"], IMG[src^="https://img.welt.de/"], IMG[src*="static.foxnews.com/"], IMG[src^="https://www.gamespot.com"]:not(IMG[src*="square_avatar"]), IMG[src*=".formula1.com/"], IMG[src*=".cloudfront.net/image"], IMG[src^="https://cdn.80.lv/"], IMG[src^="https://frihetsnytt.se/"], IMG[src*="jungefreiheit.de/"], IMG[src^="https://www.tichyseinblick.de"] { max-width: 100% !important; width: 100% !important; height: auto !important; margin: 0 0 15px !important; }
 feedly.com#$#IMG[src^="https://s.w.org/images/core/emoji/"] { max-width: 13px !important; vertical-align: initial !important; }
