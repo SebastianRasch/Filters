@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.00
+! Version: 1.21.01
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -592,8 +592,6 @@ faz.net#$##FAZContentLeftInner .NachrichtenKamin { margin-left: 280px !important
 faz.net#$#.ContentFooter { margin-top: -50px !important; }
 ! FEEDLY
 feedly.com#@#button[title="Save to Twitter"]
-feedly.com##[id^="ShareBar__share-menu"] > li:not(li:nth-child(2), li:nth-child(3), li:nth-child(8))
-feedly.com###LeftnavDock__support-menu1 > li:nth-child(3)
 feedly.com##.LeftnavWebAlertsButton__wrapper
 feedly.com##.EmptyState__illustration
 feedly.com##.primary.button-icon-only
