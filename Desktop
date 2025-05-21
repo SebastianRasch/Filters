@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.01
+! Version: 1.21.02
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -591,6 +591,7 @@ faz.net#$##FAZContentLeftInner { margin: 0 !important; }
 faz.net#$##FAZContentLeftInner .NachrichtenKamin { margin-left: 280px !important; width: 666px !important; }
 faz.net#$#.ContentFooter { margin-top: -50px !important; }
 ! FEEDLY
+feedly.com##.EntryCheckbox
 feedly.com#@#button[title="Save to Twitter"]
 feedly.com##.LeftnavWebAlertsButton__wrapper
 feedly.com##.EmptyState__illustration
@@ -682,6 +683,7 @@ feedly.com#$#.EntryToolbar { gap: .5rem !important; }
 feedly.com#$#.header .right-col { padding-right: 0 !important; }
 ! Article
 feedly.com##.EntriesBatchSelection__checkbox
+feedly.com##[id^="ShareBar__share-menu"] li:not(:nth-child(2)):not(:nth-child(3)):not(:last-child)
 feedly.com#$##feedlyPageFX, .entryBody { max-width: 100% !important; }
 feedly.com#$##feedlyPageFX { padding-left: 24px !important; }
 feedly.com#$##feedlyFrame, #barsFX { padding-left: 20px !important; }
@@ -1327,6 +1329,11 @@ kingworldnews.com##.post-content > p:nth-last-child(-n+6)
 kingworldnews.com##ASIDE[class="widget-1 first widget"]
 ! KITCHENSTORIES
 kitchenstories.com##.sticky
+kitchenstories.com##article > div > div > .seperator > div > div
+kitchenstories.com##article > div > div > .seperator > div > button
+kitchenstories.com##.relative:has([id^="content_"])
+kitchenstories.com##.relative:has(#footer)
+kitchenstories.com##.relative:has(#header)
 ! KORREKTUREN
 korrekturen.de##[style^="width:300px; height:250px;float:left; margin-right:15px; margin-bottom:15px;"]
 korrekturen.de###contentbreit
@@ -1574,6 +1581,11 @@ qopla.com##.eiDuKV
 qopla.com##.dFmFVv
 ! QUORA
 quora.com##.dialog_wrapper
+! RALCOLORCHART
+ralcolorchart.com###banner_container_leaderboard
+ralcolorchart.com###banner_container_rectangle
+ralcolorchart.com###banner_container_halfpage
+ralcolorchart.com###banner_container_skyscraper
 ! RATSIT
 ratsit.se##.footer__information:nth-child(2)
 ratsit.se##.footer__downloads:nth-child(3)
@@ -1990,7 +2002,9 @@ x.com##[aria-label="Trending"] > DIV > DIV:nth-child(n+3):not(DIV:last-child)
 x.com##[aria-label="Verified Organizations"]
 x.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])
 x.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])~div
+x.com#$#.r-ro57m8 { border-width: 0 !important; padding: 0 !important; width: 1.25em !important; height: 1.25em !important; }
 x.com#$#[data-testid="tweetText"][style^="-webkit-line-clamp"] > [href^="http"] { margin-left: 3px !important; }
+x.com#$#[aria-label^="Subscribe"] { background-color: rgb(255, 212, 0) !important; }
 x.com#$#[aria-label="Post"], [data-testid="tweetButtonInline"], [data-testid="tweetButton"], DIV:has([data-testid="grok_post_atgrok_button"]) > a[href="/i/grok"] { background-color: rgb(255, 212, 0) !important; }
 x.com#$#[aria-label="Post"]:hover, [data-testid="tweetButtonInline"]:hover, [data-testid="tweetButton"]:hover, DIV:has([data-testid="grok_post_atgrok_button"]) > a[href="/i/grok"]:hover { background-color: rgb(255, 220, 51) !important; }
 ! YANKO DESIGN
