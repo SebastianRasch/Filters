@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.64
+! Version: 4.65
 !
 @@||/borlabs-cookie/*$~script
 80.lv##main > div:last-child > div:last-child
@@ -127,6 +127,7 @@ electrek.co##.adsense
 engadget.com##.latest
 engadget.com##amp-embed
 fandomwire.com##.relatedlinker
+fandomwire.com##.share-container
 faz.net##.adbox
 faz.net##.border_top_gray
 faz.net##.link_list
