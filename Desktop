@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.02
+! Version: 1.21.03
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -566,6 +566,8 @@ etsy.com##.chrome-footer__etsy-finds
 ! FACEBOOK
 facebook.com##.cxgpxx05:nth-child(2) > div:first-child > div
 facebook.com###u_0_c_zN
+! Fandomwire
+fandomwire.com##.relatedlinker
 ! FAZ
 faz.net##.Editors
 faz.net##.FAZArtikelFunktionen
