@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.03
+! Version: 1.21.04
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -568,6 +568,7 @@ facebook.com##.cxgpxx05:nth-child(2) > div:first-child > div
 facebook.com###u_0_c_zN
 ! Fandomwire
 fandomwire.com##.relatedlinker
+fandomwire.com##.share-container
 ! FAZ
 faz.net##.Editors
 faz.net##.FAZArtikelFunktionen
