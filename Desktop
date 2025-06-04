@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.05
+! Version: 1.21.06
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -747,6 +747,8 @@ feedly.com#$#.Header__right-column { margin-bottom: 5px !important; padding-righ
 ! Profile menu
 feedly.com##.ProfileMenu > li:nth-child(2)
 feedly.com##.ProfileMenu > li:nth-child(3)
+feedly.com##.ProfileMenu > li:nth-child(5)
+feedly.com##.ProfileMenu > li:nth-child(6)
 ! Article media size
 feedly.com#$#IMG[src^="https://theawesomer.com/"], IMG[src^="http://theawesomer.com/"], IMG[src^="https://abduzeedo.com/"], IMG[src^="http://imgs.abduzeedo.com/"], [data-alternate-link^="http://abduzeedo.com/"] > div > div > div > div > a > IMG, IMG[src^="http://img.etimg.com/"], IMG[src^="https://media.idownloadblog.com/"], IMG[src^="https://images.anandtech.com/"]:not(IMG[src^="https://images.anandtech.com/galleries/"]), IMG[src*=".digitaltrends.com/"], IMG[src^="https://cdn.vox-cdn.com/"], IMG[src^="https://www.designboom.com"], IMG[src^="https://www.yankodesign.com/images"], IMG[src^="https://images.prismic.io"], IMG[src*="behance.net"], IMG[src^="https://ksr-ugc.imgix.net"], IMG[src^="https://images.macrumors.com/"], IMG[src*=".appleinsider.com"], IMG[src^="https://pics.computerbase.de"], IMG[src^="https://cdn.cnn.com/"], IMG[src^="https://nikonrumors.com/"], IMG[src*="googleusercontent.com"], IMG[src^="https://img.welt.de/"], IMG[src*="static.foxnews.com/"], IMG[src^="https://www.gamespot.com"]:not(IMG[src*="square_avatar"]), IMG[src*=".formula1.com/"], IMG[src*=".cloudfront.net/image"], IMG[src^="https://cdn.80.lv/"], IMG[src^="https://frihetsnytt.se/"], IMG[src*="jungefreiheit.de/"], IMG[src^="https://www.tichyseinblick.de"] { max-width: 100% !important; width: 100% !important; height: auto !important; margin: 0 0 15px !important; }
 feedly.com#$#IMG[src^="https://s.w.org/images/core/emoji/"] { max-width: 13px !important; vertical-align: initial !important; }
