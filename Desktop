@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.07
+! Version: 1.21.08
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -742,7 +742,8 @@ feedly.com##.LeftnavProfileItem__text
 feedly.com#$#.Leftnav { background-color: #f6f7f8 !important; border-right: 1px solid #efefef !important; }
 feedly.com#$#.LeftnavDock { width: 44px !important; }
 feedly.com#$#.LeftnavListRow__favicon { margin-bottom: 2px !important; }
-feedly.com#$#.LeftnavSection { padding-right: .5rem !important; }
+feedly.com#$#.LeftnavList__scrollable-area::-webkit-scrollbar { width: 0 !important; }
+feedly.com#$#.LeftnavList__scrollable-area { padding-right: .5rem !important; }
 feedly.com#$#.LeftnavItem__icon--expandable { margin-left: 3px !important; }
 feedly.com#$#.LeftnavItem__content { padding-right: .2rem !important; }
 feedly.com#$#.LeftnavHeading__content { padding-right: .25rem !important; }
