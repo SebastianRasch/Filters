@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.18
+! Version: 1.21.19
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -374,6 +374,7 @@ computerbase.de##.abo-link
 computerbase.de##.article-view__footer-ad
 computerbase.de##.article-view__share-links-bottom
 computerbase.de##.article-view__share-links-top
+computerbase.de##.shoutbox-container--article-view
 computerbase.de##.wrapper--forum-footer-articles
 computerbase.de##.adbox
 computerbase.de##.promobar
