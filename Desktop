@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.19
+! Version: 1.21.20
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -677,10 +677,11 @@ feedly.com#$#.presentation-titleOnly > div:has(.entry.titleOnly)  { margin-top: 
 feedly.com#$#.presentation-cards > div:has(.entry.cards) { margin-top: 18px !important; }
 feedly.com#$#.EntryToolbar { gap: .5rem !important; }
 feedly.com#$#.header .right-col { padding-right: 0 !important; }
+feedly.com#$#.fcXAzy8cTVqEFQW97yRi { gap: 0 !important; }
+feedly.com#$#.fcXAzy8cTVqEFQW97yRi div:nth-child(2) { margin-bottom: 10px !important; }
 ! Article (.DIuLtN4A3ZFMmDSY4NFK = magazine layout)
 feedly.com#$#.ru3WTitJiLyEAbgomgOS { left: 0 !important; }
 feedly.com#$#.DIuLtN4A3ZFMmDSY4NFK { max-width: 100% !important; margin-left: 0 !important; }
-feedly.com#$#.fx .row { margin-right: 0 !important; }
 feedly.com#$#.jxKY0ySNBDaKATCnT_XQ { background: none !important; }
 feedly.com#$#.shareBarHolder { margin-bottom: 4px !important; }
 feedly.com#$#.ShareBar, .headerInfo, .HJ3eLXI7s3pda0M4xiUp { border: 0 !important; }
@@ -694,7 +695,10 @@ feedly.com##.EntriesBatchSelection__checkbox
 feedly.com##[id^="ShareBar__share-menu"] li:not(:nth-child(2)):not(:last-child)
 feedly.com#$##feedlyPageFX, .entryBody { max-width: 100% !important; }
 feedly.com#$##feedlyPageFX { padding-left: 24px !important; }
-feedly.com#$##feedlyFrame, #barsFX { padding-left: 20px !important; }
+feedly.com#$#.StreamPage .row DIV { padding-right: 0 !important; }
+feedly.com#$#.fx .row { margin-right: 0 !important; }
+feedly.com#$#.fx .container { max-width: 100% !important; padding-left: 40px !important; padding-right: 40px !important; }
+feedly.com#$#.entry.magazine > .SelectedEntryScroller > DIV { padding: 12px !important; }
 feedly.com#$#.SelectedEntryScroller > DIV { border: none !important; margin-top: 0 !important; margin-bottom: 3px !important; }
 feedly.com#$#.SelectedEntryScroller > DIV, .GiantMarkAsRead, .InlineArticleEdge--top, .LeftnavItem, .LeftnavHeading, .LeftnavProfileItem__button { border-radius: .4rem !important; }
 feedly.com#$#.EntryToolbar.TitleOnlyEntry__toolbar { margin-right: 5px !important; }
@@ -845,6 +849,10 @@ formula1.com##.f1-footer .f1-border
 formula1.com##DIV > p > strong:has(a)
 formula1.com##DIV > p > a:has(strong)
 formula1.com##section.mx-auto.max-w-full.\!rounded-10.border-gray20
+formula1.com##[class^="FeaturedButtonCard"]
+formula1.com##[class^="PromoCard-module"]
+formula1.com#$#.lg\:max-w-para-lg { max-width: 100% !important; text-align: justify !important; }
+formula1.com#$#[class*="Text-module_upper"] { text-align: left !important; }
 formula1.com#$#.col-span-6 { padding-bottom: 20px !important; }
 ! FORZAFOOTBALL
 forzafootball.com##[class^="AdSlot"]
