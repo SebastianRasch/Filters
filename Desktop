@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.25
+! Version: 1.21.26
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -683,11 +683,11 @@ feedly.com#$#.fcXAzy8cTVqEFQW97yRi { gap: 0 !important; }
 feedly.com#$#.fcXAzy8cTVqEFQW97yRi div:nth-child(2) { margin-bottom: 10px !important; }
 feedly.com#$#.titleOnly > .SelectedEntryScroller > DIV { height: 32px !important; }
 feedly.com#$#.yaz28Yz9NFoFqhwi3aY4 { margin-top: 1px !important; }
-! Article (.DIuLtN4A3ZFMmDSY4NFK = magazine layout)
+! Article
 feedly.com#$#.ru3WTitJiLyEAbgomgOS { left: 0 !important; }
 feedly.com#$#.entry, .TitleOnlyEntry { border: none !important; }
 feedly.com#$#.entry.magazine { width: 100% !important; margin-left: 0 !important; }
-feedly.com#$#.entry.magazine > .SelectedEntryScroller > DIV { padding: 12px !important; }
+feedly.com#$#.entry.magazine > .SelectedEntryScroller > DIV { max-width: 100% !important; padding: 12px !important; }
 feedly.com#$#.entry.cards { margin-right: 0 !important; }
 feedly.com#$#.entry .CondensedToolbar { margin-right: 4px !important; }
 feedly.com#$#.jxKY0ySNBDaKATCnT_XQ { background: none !important; }
@@ -2222,4 +2222,5 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
+
 
