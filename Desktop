@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.27
+! Version: 1.21.28
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -596,6 +596,7 @@ faz.net#$##FAZContentLeftInner { margin: 0 !important; }
 faz.net#$##FAZContentLeftInner .NachrichtenKamin { margin-left: 280px !important; width: 666px !important; }
 faz.net#$#.ContentFooter { margin-top: -50px !important; }
 ! FEEDLY
+feedly.com##IMG[alt="All done! illustration"]
 feedly.com##.LeftnavWebAlertsButton__wrapper
 feedly.com##.EmptyState__illustration
 feedly.com##.primary.button-icon-only
@@ -651,7 +652,7 @@ feedly.com#$#.entryBody { font-family: sans-serif !important; margin-bottom: 25p
 feedly.com#$#.GiantMarkAsRead       { background-color: #f6f6f6 !important; border: none !important; }
 feedly.com#$#.GiantMarkAsRead:hover { background-color: #f0f0f0 !important; border: none !important; }
 feedly.com##.entry--selected .CondensedToolbar:not(.entry:hover .CondensedToolbar, .entry--focused .CondensedToolbar)
-feedly.com#$#button:hover:not(.InlineArticle__close-button, .GiantMarkAsRead) { background-color: #fbfbfb !important; border-radius: .4rem !important; }
+feedly.com#$#button:hover:not(.InlineArticle__close-button, .Header__actions button, .GiantMarkAsRead, DIV:has(IMG[alt="All done! illustration"]) DIV button) { background-color: #ffffff !important; border-radius: .4rem !important; }
 feedly.com#$#.headerInfo-expanded-img:hover, .save-for-later:hover, .button-addurl:hover, .button-refresh:hover { background-color: transparent !important; }
 feedly.com#$#.entry--highlight { animation: none !important; }
 feedly.com#$#.E_F6s6qK2uYSQkejopR_ { background-color: rgb(235, 235, 235) !important; }
@@ -2223,6 +2224,7 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
+
 
 
 
