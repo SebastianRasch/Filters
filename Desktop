@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.26
+! Version: 1.21.27
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -596,8 +596,6 @@ faz.net#$##FAZContentLeftInner { margin: 0 !important; }
 faz.net#$##FAZContentLeftInner .NachrichtenKamin { margin-left: 280px !important; width: 666px !important; }
 faz.net#$#.ContentFooter { margin-top: -50px !important; }
 ! FEEDLY
-feedly.com##.EntryCheckbox
-feedly.com#@#button[title="Save to Twitter"]
 feedly.com##.LeftnavWebAlertsButton__wrapper
 feedly.com##.EmptyState__illustration
 feedly.com##.primary.button-icon-only
@@ -625,7 +623,6 @@ feedly.com##.col-xs-6.col-md-6 > DIV > .detail
 feedly.com##.kickered .extra
 feedly.com##[title="Share with teammates"]
 feedly.com##[title="Create Team Newsletter"]
-feedly.com##[data-alternate-link^="http://www.idownloadblog.com"] > .entryBody > .content > H2
 feedly.com##[data-matching-uri*="academy"]
 feedly.com##[data-uri="filters"]
 feedly.com##[src="//s3.feedly.com/production/head/images/ab-ifttt.png"]
@@ -684,6 +681,15 @@ feedly.com#$#.fcXAzy8cTVqEFQW97yRi div:nth-child(2) { margin-bottom: 10px !impor
 feedly.com#$#.titleOnly > .SelectedEntryScroller > DIV { height: 32px !important; }
 feedly.com#$#.yaz28Yz9NFoFqhwi3aY4 { margin-top: 1px !important; }
 ! Article
+feedly.com#@#button[title="Save to Twitter"]
+feedly.com##.EntryCheckbox
+feedly.com##.EntriesBatchSelection__checkbox
+feedly.com##[data-size="buylink__large"]
+feedly.com##[data-alternate-link^="http://www.idownloadblog.com"] > .entryBody > .content > H2
+feedly.com##[id^="ShareBar__share-menu"] li:not(:nth-child(2)):not(:last-child)
+feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
+feedly.com#$##feedlyPageFX, .entryBody { max-width: 100% !important; }
+feedly.com#$##feedlyPageFX { padding-left: 24px !important; }
 feedly.com#$#.ru3WTitJiLyEAbgomgOS { left: 0 !important; }
 feedly.com#$#.entry, .TitleOnlyEntry { border: none !important; }
 feedly.com#$#.entry.magazine { width: 100% !important; margin-left: 0 !important; }
@@ -697,11 +703,6 @@ feedly.com#$#.headerInfo.headerInfo-article { margin-top: 0 !important; }
 feedly.com#$#.headerInfo-links.left { margin-left: -18px; !important; }
 feedly.com#$#.headerInfo-links.right { margin-right: -15px; !important; }
 feedly.com#$#.Article__title { line-height: 2.3rem !important; }
-feedly.com#$##feedlyPart { padding-right: 24px !mportant; }
-feedly.com##.EntriesBatchSelection__checkbox
-feedly.com##[id^="ShareBar__share-menu"] li:not(:nth-child(2)):not(:last-child)
-feedly.com#$##feedlyPageFX, .entryBody { max-width: 100% !important; }
-feedly.com#$##feedlyPageFX { padding-left: 24px !important; }
 feedly.com#$#.StreamPage .row DIV { padding-right: 0 !important; }
 feedly.com#$#.fx .row { margin-right: 0 !important; }
 feedly.com#$#.fx .container { max-width: 100% !important; padding-left: 40px !important; padding-right: 40px !important; }
@@ -758,7 +759,7 @@ feedly.com##.ProfileMenu > li:nth-child(3)
 feedly.com##.ProfileMenu > li:nth-child(5)
 feedly.com##.ProfileMenu > li:nth-child(6)
 ! Article media size
-feedly.com#$#IMG[src^="https://theawesomer.com/"], IMG[src^="http://theawesomer.com/"], IMG[src^="https://abduzeedo.com/"], IMG[src^="http://imgs.abduzeedo.com/"], [data-alternate-link^="http://abduzeedo.com/"] > div > div > div > div > a > IMG, IMG[src^="http://img.etimg.com/"], IMG[src^="https://media.idownloadblog.com/"], IMG[src^="https://images.anandtech.com/"]:not(IMG[src^="https://images.anandtech.com/galleries/"]), IMG[src*=".digitaltrends.com/"], IMG[src^="https://cdn.vox-cdn.com/"], IMG[src^="https://www.designboom.com"], IMG[src^="https://www.yankodesign.com/images"], IMG[src^="https://images.prismic.io"], IMG[src*="behance.net"], IMG[src^="https://ksr-ugc.imgix.net"], IMG[src^="https://images.macrumors.com/"], IMG[src*=".appleinsider.com"], IMG[src^="https://pics.computerbase.de"], IMG[src^="https://cdn.cnn.com/"], IMG[src^="https://nikonrumors.com/"], IMG[src*="googleusercontent.com"], IMG[src^="https://img.welt.de/"], IMG[src*="static.foxnews.com/"], IMG[src^="https://www.gamespot.com"]:not(IMG[src*="square_avatar"]), IMG[src*=".formula1.com/"], IMG[src*=".cloudfront.net/image"], IMG[src^="https://cdn.80.lv/"], IMG[src^="https://frihetsnytt.se/"], IMG[src*="jungefreiheit.de/"], IMG[src^="https://www.tichyseinblick.de"] { max-width: 100% !important; width: 100% !important; height: auto !important; margin: 0 0 15px !important; }
+feedly.com#$#.PinableImageContainer > IMG, .entryBody > DIV > DIV > IMG { max-width: 100% !important; width: 100% !important; height: auto !important; margin: 0 0 15px !important; }
 feedly.com#$#IMG[src^="https://s.w.org/images/core/emoji/"] { max-width: 13px !important; vertical-align: initial !important; }
 feedly.com##IMG[src^="https://nikonrumors.com/"][src$="-170x170.jpg"]
 feedly.com#$#iframe:not(.twitter-tweet > iframe) { width: 100% !important; height: auto !important; aspect-ratio: auto 16 / 9 !important; }
@@ -2222,5 +2223,6 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
+
 
 
