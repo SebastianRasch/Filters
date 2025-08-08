@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.28
+! Version: 1.21.29
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -661,8 +661,7 @@ feedly.com#$#.entry--read > .SelectedEntryScroller > DIV:has(.EntryToolbar) { ba
 feedly.com#$#.entry--read > .SelectedEntryScroller > DIV { background-color: #f1f1f1 !important; }
 feedly.com#$#.SelectedEntryScroller > DIV, .GiantMarkAsRead, .InlineArticleEdge--top, .LeftnavItem, .LeftnavHeading, .LeftnavProfileItem__button { border-radius: .6rem !important; }
 feedly.com#$#.RgraMIHCDS_txxTx1tPF { border-radius: .3rem !important; }
-feedly.com#$#[aria-controls^="ShareBar__share-menu"] { background-color: #f0f0f0 !important; border: 1px solid #f0f0f0 !important; border-radius: .4rem !important; }
-feedly.com#$#[aria-controls^="ShareBar__share-menu2"]:hover { border-color: #fbfbfb !important; }
+feedly.com#$#[aria-controls^="ShareBar__share-menu"] { background-color: #f0f0f0 !important; border: 1px solid rgba(0,0,0,0) !important; border-radius: .4rem !important; }
 ! Article: Header line
 feedly.com##.Header__checkbox
 feedly.com#$#.TopHeaderBar { border-bottom: none !important; }
@@ -2224,6 +2223,7 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
+
 
 
 
