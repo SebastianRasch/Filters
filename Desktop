@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.31
+! Version: 1.21.32
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -494,27 +494,11 @@ designboom.com#$#.dboom-article-content { text-align: justify !important; }
 designboom.com#$#.dboom-wrapper { max-width: 810px !important; margin: 0 auto 0 auto !important; }
 designboom.com#$#.nav-bar { padding-left: 0 !important; }
 designboom.com#$#.nav-search-toggler { top: 7px !important; }
-! DI.FM
-di.fm##.section-title-component__title-button
-di.fm##.content-module-wrapper
-di.fm###content-lock-modal
-di.fm##.modal-backdrop
-di.fm##.premium-upsell
-di.fm##.side-nav-menu-item--premium
-di.fm##.sidepanel-notification
-di.fm##.temp-message.notice.visible
-di.fm##.get-apps-cta
-di.fm##[data-daily-free-region]
-di.fm##[class^="premium-upsell-banner"]
-di.fm##[class*="go-premium"]
-di.fm###main-footer > nav
-di.fm###responsive-module1279
-di.fm#$#.footer-bottom { margin: 0 !important; }
-di.fm#$##main-footer { padding-top: 0 !important; }
 ! DICT.CC
 dict.cc##.nolibg
 dict.cc###adrig
 dict.cc###layout-vis
+dict.cc###adslot_left
 dict.cc###msg
 dict.cc###inotherlangs
 dict.cc###sncmp-container
@@ -2225,6 +2209,7 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
+
 
 
 
