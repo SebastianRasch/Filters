@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.32
+! Version: 1.21.33
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -498,7 +498,6 @@ designboom.com#$#.nav-search-toggler { top: 7px !important; }
 dict.cc##.nolibg
 dict.cc###adrig
 dict.cc###layout-vis
-dict.cc###adslot_left
 dict.cc###msg
 dict.cc###inotherlangs
 dict.cc###sncmp-container
@@ -2209,6 +2208,7 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
+
 
 
 
