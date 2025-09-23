@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.33
+! Version: 1.21.34
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -637,6 +637,7 @@ feedly.com#$#.GiantMarkAsRead       { background-color: #f6f6f6 !important; bord
 feedly.com#$#.GiantMarkAsRead:hover { background-color: #f0f0f0 !important; border: none !important; }
 feedly.com##.entry--selected .CondensedToolbar:not(.entry:hover .CondensedToolbar, .entry--focused .CondensedToolbar)
 feedly.com#$#button:hover:not(.InlineArticle__close-button, .Header__actions button, .GiantMarkAsRead, DIV:has(IMG[alt="All done! illustration"]) DIV button) { background-color: #ffffff !important; border-radius: .4rem !important; }
+feedly.com#$#.yoIiIjPr2qmV0bsJprbe:not(.wy6Kk8iCNGAMUhOLnevd) {border-radius: .4rem !important; border-color: transparent !important; background-color: #f0f0f0 !important; }
 feedly.com#$#.headerInfo-expanded-img:hover, .save-for-later:hover, .button-addurl:hover, .button-refresh:hover { background-color: transparent !important; }
 feedly.com#$#.entry--highlight { animation: none !important; }
 feedly.com#$#.E_F6s6qK2uYSQkejopR_ { background-color: rgb(235, 235, 235) !important; }
@@ -2208,6 +2209,7 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
+
 
 
 
