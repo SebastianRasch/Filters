@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.34
+! Version: 1.21.35
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -641,7 +641,7 @@ feedly.com#$#.yoIiIjPr2qmV0bsJprbe:not(.wy6Kk8iCNGAMUhOLnevd) {border-radius: .4
 feedly.com#$#.headerInfo-expanded-img:hover, .save-for-later:hover, .button-addurl:hover, .button-refresh:hover { background-color: transparent !important; }
 feedly.com#$#.entry--highlight { animation: none !important; }
 feedly.com#$#.E_F6s6qK2uYSQkejopR_ { background-color: rgb(235, 235, 235) !important; }
-feedly.com#$#.SelectedEntryScroller > DIV:hover, .entry--read > .SelectedEntryScroller > DIV:has(.EntryToolbar):hover, .InlineArticle, .InlineArticleEdge--top { border: none !important; background-color: #F6F6F6 !important; }
+feedly.com#$#.SelectedEntryScroller > DIV, .entry--read > .SelectedEntryScroller > DIV:has(.EntryToolbar):hover, .InlineArticle, .InlineArticleEdge--top { border: none !important; background-color: #F6F6F6 !important; }
 feedly.com#$#.entry--read > .SelectedEntryScroller > DIV:has(.EntryToolbar) { background-color: #ebebeb !important; }
 feedly.com#$#.entry--read > .SelectedEntryScroller > DIV { background-color: #f1f1f1 !important; }
 feedly.com#$#.SelectedEntryScroller > DIV, .GiantMarkAsRead, .InlineArticleEdge--top, .LeftnavItem, .LeftnavHeading, .LeftnavProfileItem__button { border-radius: .6rem !important; }
@@ -2209,6 +2209,7 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
+
 
 
 
