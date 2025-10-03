@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.21.39
+! Version: 1.21.40
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -666,6 +666,7 @@ feedly.com#$#.fcXAzy8cTVqEFQW97yRi { gap: 0 !important; }
 feedly.com#$#.fcXAzy8cTVqEFQW97yRi div:nth-child(2) { margin-bottom: 10px !important; }
 feedly.com#$#.titleOnly > .SelectedEntryScroller > DIV { height: 32px !important; }
 feedly.com#$#.yaz28Yz9NFoFqhwi3aY4 { margin-top: 1px !important; }
+feedly.com##ul.a6l09XAvvnle8n9TgNUq li:nth-of-type(4).HeaderMoreMenuItem
 ! Article
 feedly.com#@#button[title="Save to Twitter"]
 feedly.com##.EntryCheckbox
@@ -2210,6 +2211,7 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
+
 
 
 
