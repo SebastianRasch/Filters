@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.22.01
+! Version: 1.22.02
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -636,8 +636,8 @@ feedly.com#$#.entryBody { font-family: sans-serif !important; margin-bottom: 25p
 feedly.com#$#.GiantMarkAsRead       { background-color: #f6f6f6 !important; border: none !important; }
 feedly.com#$#.GiantMarkAsRead:hover { background-color: #f0f0f0 !important; border: none !important; }
 feedly.com##.entry--selected .CondensedToolbar:not(.entry:hover .CondensedToolbar, .entry--focused .CondensedToolbar)
-feedly.com#$#.pw5rG38xWjWlltAAbr2w:hover:not(.InlineArticle__close-button, .Header__actions button), .yoIiIjPr2qmV0bsJprbe:hover:not(.wy6Kk8iCNGAMUhOLnevd) { background-color: #ffffff !important; border-radius: .4rem !important; }
-feedly.com#$#.yoIiIjPr2qmV0bsJprbe:not(.wy6Kk8iCNGAMUhOLnevd) {border-radius: .4rem !important; border-color: transparent !important; background-color: #f0f0f0 !important; }
+feedly.com#$#.pw5rG38xWjWlltAAbr2w:hover:not(.InlineArticle__close-button, .Header__actions button), .iGGsxbNmuvNFfDqFfu2w:hover:not(.GiantMarkAsRead) { background-color: #ffffff !important; border-radius: .4rem !important; }
+feedly.com#$#.iGGsxbNmuvNFfDqFfu2w:not(.GiantMarkAsRead) { background-color: #f0f0f0 !important; border-radius: .4rem !important; border-color: transparent !important; }
 feedly.com#$#.headerInfo-expanded-img:hover, .save-for-later:hover, .button-addurl:hover, .button-refresh:hover { background-color: transparent !important; }
 feedly.com#$#.entry--highlight { animation: none !important; }
 feedly.com#$#.InlineArticle, .InlineArticleEdge--top { border: none !important; background-color: #F6F6F6 !important; }
@@ -651,11 +651,13 @@ feedly.com#$#.RgraMIHCDS_txxTx1tPF { border-radius: .3rem !important; }
 feedly.com#$#[aria-controls^="ShareBar__share-menu"] { background-color: #f0f0f0 !important; border: 1px solid rgba(0,0,0,0) !important; border-radius: .4rem !important; }
 ! Article: Header line
 feedly.com##.Header__checkbox
+feedly.com#$#.TitleOnlyEntry__read-later, .TitleOnlyEntry__read-later:hover { margin: 0 5px 0 2px !important; padding: 0 !important; }
+feedly.com#$#.GOmU_rnsX_csjiqAf8_X { border-radius: .4rem !important; }
 feedly.com#$#.TopHeaderBar { border-bottom: none !important; }
-feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
 feedly.com#$##headerBarFX h2      { padding-left: 2px !important; font-size: 1.6rem !important; }
 feedly.com#$##headerBarFX .header { padding: 8px 21px 8px 32px !important; max-width: 100% !important; }
+feedly.com#$##feedlyMessageBar { width: 1162px !important; }
 feedly.com#$#.presentation-titleOnly > div:has(.entry.titleOnly)  { margin-top: 22px !important; }
 feedly.com#$#.presentation-cards > div:has(.entry.cards) { margin-top: 18px !important; }
 feedly.com#$#.EntryToolbar { gap: .5rem !important; }
@@ -2213,6 +2215,7 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
+
 
 
 
