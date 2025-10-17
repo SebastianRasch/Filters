@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.22.02
+! Version: 1.22.03
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -414,7 +414,6 @@ computerbase.de#$#.content-list > li { border-top: 0 !important; padding: .7em 0
 computerbase.de#$#.row-main { padding-left: 0 !important; }
 computerbase.de#$#.row-aside { padding-right: 0 !important; }
 ! Artikel
-computerbase.de#$#.header-row, .row--article-view, .padding-2 { padding: 0 !important; }
 computerbase.de#$#.article-view, .footer2 > .wrapper > .row { padding: 1.25em 0 !important; }
 computerbase.de#$#.article-view__header, .text-width { max-width: none !important; padding: 0 !important; }
 computerbase.de#$#.article-view__content { text-align: justify !important; }
@@ -426,7 +425,6 @@ computerbase.de#$#.article-view__entry-nav { margin-bottom: 0 !important; margin
 computerbase.de#$#.block1--alternate .row { background: none !important; }
 computerbase.de#$#.block1--breakout-2 > .row--padding-2 { padding: 0 !important; }
 computerbase.de#$#.related-list { padding: 1.25em 0 !important; column-rule-color: transparent !important; }
-computerbase.de#$#.headermeta { right: 0 !important; }
 computerbase.de#$#.entry-nav__link:before { margin-top: -26px !important; }
 computerbase.de#$#.entry-nav__item { padding-bottom: 12px !important; }
 computerbase.de#$#.blockquote:before, .twitter-tweet:before { left: -45px !important; }
@@ -443,7 +441,6 @@ computerbase.de#$#.gallery-prev--inline:hover, .entry-nav__prev:before { border-
 computerbase.de#$#.poll { border-width: 0 !important; }
 computerbase.de#$#.block1--breakout-2 .wrapper { background-color: transparent !important; }
 computerbase.de#$#.non-critical { padding-top: 40px !important; }
-computerbase.de#$#.footer2 > .row { padding: 20px 0 !important; }
 ! Forum
 computerbase.de#$##above_threadlist_controls.above_threadlist_controls.toolsmenu.clearfix, #thread_controls.thread_controls.toolsmenu.clearfix, .toolsmenu, .forumbit_nopost, .forumbits, .threadlist-wrapper { border: 0 !important; padding: 0 !important; background: 0 !important; }
 computerbase.de#$#.forumhead, .threadbit .sticky, .threadbit .nonsticky, .threadbit .discussionrow, .threadlisthead, .forumbit_nopost .forumbit_nopost .forumrow, .forumbit_post .forumrow, div.posthead.clearfix { border-color: transparent !important; }
@@ -2215,6 +2212,7 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
+
 
 
 
