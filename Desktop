@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.22.06
+! Version: 1.22.07
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -402,7 +402,7 @@ computerbase.de#$#.follow-links li:first-child { display: none !important; }
 computerbase.de#$#.follow-links li { margin: 9px 7px !important; }
 computerbase.de#$#.subheader { box-shadow: none !important; }
 computerbase.de#$#.subheader:before { background: none !important; }
-computerbase.de#$#.tagnav { padding: 0 !important; clip-path: none !important; }
+computerbase.de#$#.tagnav { padding: 0 !important; clip-path: none !important; margin: 0 120px !important; }
 ! Hauptseite
 computerbase.de#$#.block1 { padding: 0 !important; }
 computerbase.de#$#.block1--top:before, .main { background: none !important; }
@@ -2211,6 +2211,7 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
+
 
 
 
