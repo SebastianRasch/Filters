@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.22.07
+! Version: 1.22.08
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -1852,6 +1852,7 @@ theverge.com#$#.c-float-right > aside > q { padding-right: 0 !important; text-al
 theverge.com#$#.c-float-left { margin-left:  -15% !important; margin-right: 25px !important; width: 40% !important; }
 theverge.com#$#.c-float-left > q { text-align: left !important; }
 ! TICHYS EINBLICK
+tichyseinblick.de##.rty-pop-up
 tichyseinblick.de##.oembed-cached
 tichyseinblick.de###block-2
 tichyseinblick.de###block-4
@@ -2211,6 +2212,7 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
+
 
 
 
