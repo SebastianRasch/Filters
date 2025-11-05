@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.66
+! Version: 4.67
 !
 @@||/borlabs-cookie/*$~script
 80.lv##main > div:last-child > div:last-child
@@ -493,6 +493,7 @@ theverge.com###\37 EevTB
 theverge.com###\38 CgBwl
 theverge.com###chorus-social-fixed
 theverge.com###comments-touch-tools
+tichyseinblick.de##.rty-pop-up
 tichyseinblick.de##.noti-comment
 tichyseinblick.de##.adwidget_homepage
 tichyseinblick.de##.rty-title-authors-box
