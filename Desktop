@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.22.10
+! Version: 1.22.11
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -2010,9 +2010,8 @@ x.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has
 x.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])~div
 x.com#$#.r-ro57m8 { border-width: 0 !important; padding: 0 !important; width: 1.25em !important; height: 1.25em !important; }
 x.com#$#[data-testid="tweetText"][style^="-webkit-line-clamp"] > [href^="http"] { margin-left: 3px !important; }
-x.com#$#[aria-label^="Subscribe"] { background-color: rgb(255, 212, 0) !important; }
-x.com#$#[aria-label="Post"], [data-testid="tweetButtonInline"], [data-testid="tweetButton"], DIV:has([data-testid="grok_post_atgrok_button"]) > a[href="/i/grok"] { background-color: rgb(255, 212, 0) !important; }
-x.com#$#[aria-label="Post"]:hover, [data-testid="tweetButtonInline"]:hover, [data-testid="tweetButton"]:hover, DIV:has([data-testid="grok_post_atgrok_button"]) > a[href="/i/grok"]:hover { background-color: rgb(255, 220, 51) !important; }
+x.com#$#[aria-label="Post"], [aria-label^="Subscribe"], [data-testid="tweetButtonInline"], [data-testid="tweetButton"], DIV:has([data-testid="grok_post_atgrok_button"]) > a[href="/i/grok"] { background-color: rgb(255, 122, 0) !important; }
+x.com#$#[aria-label="Post"]:hover, [data-testid="tweetButtonInline"]:hover, [data-testid="tweetButton"]:hover, DIV:has([data-testid="grok_post_atgrok_button"]) > a[href="/i/grok"]:hover { background-color: rgb(255, 135, 51) !important; }
 ! YANKO DESIGN
 yankodesign.com##.top-strip
 ! YOUTUBE
@@ -2211,6 +2210,7 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
+
 
 
 
