@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.22.11
+! Version: 1.22.12
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -1577,6 +1577,8 @@ www1.thepiratebay3.to##a.download_buutoon
 www1.thepiratebay3.to##.download:nth-child(4)
 ! PROFIT F
 profitf.com###text-28
+! PROSHOP
+proshop.se##.hidden-xs.hidden-sm.mt-2
 ! QASA
 qasa.se##.qds-pydlfm
 qasa.se##.nav-avatar__BadgeContainer-sc-oa2hhz-1
@@ -1854,10 +1856,12 @@ theverge.com#$#.c-float-left > q { text-align: left !important; }
 tichyseinblick.de##.rty-pop-up
 tichyseinblick.de##.oembed-cached
 tichyseinblick.de###block-2
+tichyseinblick.de###block-3
 tichyseinblick.de###block-4
-tichyseinblick.de###block-3
-tichyseinblick.de###block-3
 tichyseinblick.de###header-widgets-0
+tichyseinblick.de###reward
+tichyseinblick.de##.noti-comment
+tichyseinblick.de##.rty-inner-post-box
 ! TIME
 time.com##.trc_rbox.ab_verticalx3_1x3.trc-content-organic
 ! TOMSHARDWARE
@@ -2210,6 +2214,7 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
+
 
 
 
