@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.22.12
+! Version: 1.22.13
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -39,12 +39,11 @@
 ##[id^="div-gpt-ad-"]
 ##[href^="http://easydownload4you.com"]
 ##[href^="http://starmediasearch.com"]
+##A[href^="https://www.bloomberg.com/subscriptions/"]
 ##IMG[src^="https://secure.adnxs.com"]
 ###js-gdpr-consent-banner
 #$#[src^="https://embed.podcasts.apple.com"] { max-width: 100% !important; }
 #$##adsense { display: none !important; }
-polygon.com, feedly.com#$#.twitter-tweet { width: 100% !important; }
-polygon.com, feedly.com#$#.EmbeddedTweet { max-width: 100% !important; }
 ||facebook.com/plugins/like_box.php*
 ||facebook.com/plugins/like.php 
 ||facebook.com/plugins/likebox.php*
@@ -751,6 +750,8 @@ feedly.com#$#IMG[src^="https://s.w.org/images/core/emoji/"] { max-width: 13px !i
 feedly.com##IMG[src^="https://nikonrumors.com/"][src$="-170x170.jpg"]
 feedly.com#$#iframe:not(.twitter-tweet > iframe) { width: 100% !important; height: auto !important; aspect-ratio: auto 16 / 9 !important; }
 feedly.com#$#IMG { border: 0 !important; }
+feedly.com#$#.twitter-tweet { width: 100% !important; }
+feedly.com#$#.EmbeddedTweet { max-width: 100% !important; }
 ! MacRumors white space bottom
 feedly.com#$#[href^="http://rc.feedsportal.com"] { display: block !important; margin-bottom: -59px !important; border-color: #FFF !important; }
 ! FIDO
@@ -2214,6 +2215,7 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
+
 
 
 
