@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.22.17
+! Version: 1.22.18
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -1398,6 +1398,7 @@ macrumors.com##[class^="colLinks--"]
 macrumors.com##[class^="colStaff--"] > div:last-child
 macrumors.com##[class^="colStaff--"] > .button
 macrumors.com##[class^="main--"] > div > h2
+forums.macrumors.com###mrsubscribe
 forums.macrumors.com##.button--scroll:last-child
 forums.macrumors.com##.similarThreads
 forums.macrumors.com##.samCodeUnit > .samItem > div
