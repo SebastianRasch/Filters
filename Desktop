@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.22.13
+! Version: 1.22.14
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -1855,14 +1855,14 @@ theverge.com#$#.c-float-left { margin-left:  -15% !important; margin-right: 25px
 theverge.com#$#.c-float-left > q { text-align: left !important; }
 ! TICHYS EINBLICK
 tichyseinblick.de##.rty-pop-up
-tichyseinblick.de##.oembed-cached
+tichyseinblick.de##.noti-comment
+tichyseinblick.de##.rty-inner-post-box
+tichyseinblick.de##.wp-embedded-content > .wp-embed-link > p
 tichyseinblick.de###block-2
 tichyseinblick.de###block-3
 tichyseinblick.de###block-4
 tichyseinblick.de###header-widgets-0
 tichyseinblick.de###reward
-tichyseinblick.de##.noti-comment
-tichyseinblick.de##.rty-inner-post-box
 ! TIME
 time.com##.trc_rbox.ab_verticalx3_1x3.trc-content-organic
 ! TOMSHARDWARE
