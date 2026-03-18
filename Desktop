@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.22.14
+! Version: 1.22.15
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -952,6 +952,9 @@ gamesradar.com#$#.menu-item-more { margin-bottom: -7px !important; }
 gamesradar.com#$#.nav-list.component-loaded { margin-top: -5px !important; }
 ! GAMESTAR
 gamestar.de##.adp-admarker-text
+gamestar.de###section152
+gamestar.de###section668
+gamestar.de##[data-label="button.plus"]
 ! GENIUS
 genius.com##dfp-ad
 ! GITHUB
@@ -1737,6 +1740,9 @@ online.swedbank.se##swed-alert-message
 swide.com##[class="widget_newsletter"]
 ! SYSTEMBOLAGET
 systembolaget.se##[ID^="vngage_banner_"]
+! TEAMS
+teams.cloud.microsoft###more-options-header > div.fui-Flex.___163jbpa.f22iagw.f1869bpl.f122n59:first-child
+teams.cloud.microsoft##.fui-MenuItem.rfoezjv:nth-child(2)
 ! TECHACROBAT
 techacrobat.com###cGxGVFdpWWo1MWhaeVU1UU1pR0dITExPQ3o0NFFqU3VOcktFWE9vOWxzMD0zfeiv
 ! TECHHIVE
@@ -2215,35 +2221,3 @@ zeitzonen.de##[class="small-12 large-5 column nopadding_column"]
 zeitzonen.de#$#.large-7 { width: 100% !important; }
 ! ZOOPLUS
 zooplus.se##[class="hidden-xs col-sm-6 pd__reco__similar "]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
