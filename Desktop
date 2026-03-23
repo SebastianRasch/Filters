@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.22.18
+! Version: 1.22.19
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -1870,6 +1870,7 @@ tichyseinblick.de###block-3
 tichyseinblick.de###block-4
 tichyseinblick.de###header-widgets-0
 tichyseinblick.de###reward
+tichyseinblick.de#$#.wp-embed-heading { padding: 0 !important; }
 tichyseinblick.de#$#.rty-category-focuskw { letter-spacing: 0.17em !important; margin-bottom: 10px !important;  }
 tichyseinblick.de#$#.rty-title-authors-box { margin-bottom: 0 !important; }
 tichyseinblick.de#$#.rty-tabs { margin-top: 35px !important; border-top: 0 !important; }
