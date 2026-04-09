@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.67
+! Version: 4.68
 !
 @@||/borlabs-cookie/*$~script
 80.lv##main > div:last-child > div:last-child
@@ -324,6 +324,11 @@ mashable.com##[id^="incontent-"]
 nius.de##.header-mobile_mobileCampaign__10OQc
 nius.de##.article_Article__related__YdAru
 nius.de##.article_Article__paywallBanner__PGSog
+nius.de##.footer_right__QkFCu:last-child
+nius.de##[class^="live-ticker-header_LiveTickerHeader"]:first-child
+nius.de##[class^="comment-section_paywall-backdrop"]
+nius.de##[class^="newsletter_container"]
+nius.de###modal-banner
 nytimes.com###appContainer
 n-tv.de##.download-app
 n-tv.de##.social-services
@@ -434,6 +439,8 @@ stern.de##.social-sharing-view-wrapper
 stern.de##.teaser-list-element
 stern.de##.text-element:nth-child(6) > .text-content
 stern.de###articlepage-hero
+sunsky-online.com##.page-overview-buyerrecomm
+sunsky-online.com##.page-overview-buyerrecotitle
 svenssons.se##.a9.bw.bx.by.c6.n2.n3.t.u5.u6.u7
 svd.se##[id^="AdWrapper-"]
 svt.se##.lp_share
@@ -493,6 +500,7 @@ theverge.com###\37 EevTB
 theverge.com###\38 CgBwl
 theverge.com###chorus-social-fixed
 theverge.com###comments-touch-tools
+tichyseinblick.de##.wp-embedded-content
 tichyseinblick.de##.rty-pop-up
 tichyseinblick.de##.noti-comment
 tichyseinblick.de##.adwidget_homepage
