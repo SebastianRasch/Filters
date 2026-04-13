@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.22.19
+! Version: 1.22.20
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -526,6 +526,8 @@ economictimes.indiatimes.com##.rtAdContainer
 economictimes.indiatimes.com##.twitter_promo.printLiveShow
 ! ECOSIA
 ecosia.org##.funnel-treedaybox
+! ELEMENT
+app.element.io#$#.mx_EventTile:hover:before { background: none !important; }
 ! ENGADGET
 engadget.com##.bg-gray-2\@tl\+
 engadget.com##.border-top
