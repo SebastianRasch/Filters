@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.22.21
+! Version: 1.22.22
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -290,6 +290,8 @@ bostonglobe.com##.global-bar.bar-yellow
 bpando.org##DIV[class="at4-follow-inner"]
 ! BUNDESLIGA-LIVE
 bundesliga-live.info##.col-md-4
+! BYGGHAHUS
+byggahus.se##.bbImageBlurOverlay
 ! CARANDDRIVER
 caranddriver.com###_evidon-barrier-wrapper
 ! CBSNEWS
@@ -646,6 +648,7 @@ feedly.com#$#.entry--read > .SelectedEntryScroller > .E_F6s6qK2uYSQkejopR_, .ent
 feedly.com#$#.SelectedEntryScroller > DIV, .GiantMarkAsRead, .LeftnavItem, .LeftnavHeading, .LeftnavProfileItem__button { border-radius: .6rem !important; }
 feedly.com#$#.RgraMIHCDS_txxTx1tPF { border-radius: .3rem !important; }
 feedly.com#$#[aria-controls^="ShareBar__share-menu"] { background-color: #f0f0f0 !important; border: 1px solid rgba(0,0,0,0) !important; border-radius: .4rem !important; }
+feedly.com#$#.c2ktFU2TmdghNwHpkFmW { margin: 0 .4rem 0 .22rem !important; }
 ! Article: Header line
 feedly.com##.Header__checkbox
 feedly.com#$#.TitleOnlyEntry__read-later, .TitleOnlyEntry__read-later:hover { margin: 0 5px 0 2px !important; padding: 0 !important; }
@@ -739,6 +742,7 @@ feedly.com#$#.LeftnavList__scrollable-area::-webkit-scrollbar { width: 0 !import
 feedly.com#$#.LeftnavList__scrollable-area { padding-right: .5rem !important; }
 feedly.com#$#.LeftnavItem__icon--expandable { margin-left: 3px !important; }
 feedly.com#$#.LeftnavItem__content { padding-right: .2rem !important; }
+feedly.com#$#.LeftnavItem__actions { background: none !important; }
 feedly.com#$#.LeftnavHeading__content { padding-right: .25rem !important; }
 feedly.com#$#.Header__right-column { margin-bottom: 5px !important; padding-right: 0 !important; }
 ! Profile menu
@@ -1093,6 +1097,7 @@ forum.golem.de#$#a.g3 { width: 860px !important; }
 forum.golem.de#$#p.g3 { width: 780px !important; }
 ! GOOGLE
 mail.google.com##DIV.nH.anT
+mail.google.com##span.I6agWe
 google.com,google.de,google.se##._fdd.std
 google.com,google.de,google.se##._Ubu
 google.com,google.de,google.se##.b2hzT
@@ -1116,6 +1121,8 @@ google.com,google.de,google.se#$#.YTDezd { background: #dd4b39 !important; }
 google.com,google.de,google.se#$#.kpbb { background-color: #d14836 !important; background-image: -webkit-linear-gradient(top, #dd4b39, #d14836) !important; border: 1px solid #d14836 !important; }
 ! GOTTA BE MOBILE
 gottabemobile.com###at4-share
+! GOVEE
+eu.govee.com##[data-component="BundleSales"]
 ! GUIDANTS
 guidants.com###cookie-notice
 guidants.com##.f-elements
@@ -1345,6 +1352,8 @@ kitchenstories.com##article > div > div > .seperator > div > button
 kitchenstories.com##.relative:has([id^="content_"])
 kitchenstories.com##.relative:has(#footer)
 kitchenstories.com##.relative:has(#header)
+! KITCHNSVERIGE
+kitchnsverige.se##.shoppingCartWrapper > div:last-child
 ! KORREKTUREN
 korrekturen.de##[style^="width:300px; height:250px;float:left; margin-right:15px; margin-bottom:15px;"]
 korrekturen.de###contentbreit
@@ -1863,6 +1872,7 @@ theverge.com#$#.c-float-right > aside > q { padding-right: 0 !important; text-al
 theverge.com#$#.c-float-left { margin-left:  -15% !important; margin-right: 25px !important; width: 40% !important; }
 theverge.com#$#.c-float-left > q { text-align: left !important; }
 ! TICHYS EINBLICK
+tichyseinblick.de##.pf-content > h5
 tichyseinblick.de##.rty-pop-up
 tichyseinblick.de##.noti-comment
 tichyseinblick.de##.rty-inner-post-box
@@ -2052,6 +2062,8 @@ youtube.com##.ytp-pause-overlay
 youtube.com##.ytp-cards-button
 youtube.com##.ytp-cards-teaser
 youtube.com##.ytp-ce-element
+youtube.com##.ytp-fullscreen-grid-stills-container
+youtube.com##.ytp-ce-hide-button-container
 youtube.com##.video-ads
 youtube.com###player-ads
 youtube.com#$##secondary-inner { margin-top: -7px !important; }
