@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.22.22
+! Version: 1.22.23
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -1754,7 +1754,6 @@ swide.com##[class="widget_newsletter"]
 systembolaget.se##[ID^="vngage_banner_"]
 ! TEAMS
 teams.cloud.microsoft###more-options-header > div.fui-Flex.___163jbpa.f22iagw.f1869bpl.f122n59:first-child
-teams.cloud.microsoft##.fui-MenuItem.rfoezjv:nth-child(2)
 ! TECHACROBAT
 techacrobat.com###cGxGVFdpWWo1MWhaeVU1UU1pR0dITExPQ3o0NFFqU3VOcktFWE9vOWxzMD0zfeiv
 ! TECHHIVE
