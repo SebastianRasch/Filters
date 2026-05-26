@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.23.00
+! Version: 1.23.01
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -737,18 +737,19 @@ feedly.com##[aria-label="Create AI Feed"]
 feedly.com##[aria-label="Power Search"]
 feedly.com#$#[aria-label="Hide Sidebar"] { padding-left: 12px !important; }
 feedly.com##[aria-label="Toggle Ask AI Panel"]
-feedly.com##.LeftnavList__scrollable-area > .LeftnavDroppable:nth-child(2) > .LeftnavItem
 feedly.com##.LeftnavProfileItem__text
-feedly.com#$#.LeftnavHoverBar { padding-left: 2rem !important; }
-feedly.com#$#.Leftnav { background-color: #f6f7f8 !important; border-right: 1px solid #efefef !important; }
-feedly.com#$#.LeftnavDock { width: 44px !important; }
-feedly.com#$#.LeftnavListRow__favicon { margin-bottom: 2px !important; }
+feedly.com##.LeftnavList__static-links > DIV:last-child
+feedly.com##.LeftnavList__scrollable-area > .LeftnavDroppable:nth-child(2) > .LeftnavItem
 feedly.com#$#.LeftnavList__scrollable-area::-webkit-scrollbar { width: 0 !important; }
 feedly.com#$#.LeftnavList__scrollable-area { padding-right: .5rem !important; }
 feedly.com#$#.LeftnavItem__icon--expandable { margin-left: 3px !important; }
 feedly.com#$#.LeftnavItem__content { padding-right: .2rem !important; }
 feedly.com#$#.LeftnavItem__actions { background: none !important; }
+feedly.com#$#.LeftnavHoverBar { padding-left: 2rem !important; }
+feedly.com#$#.LeftnavDock { width: 44px !important; }
+feedly.com#$#.LeftnavListRow__favicon { margin-bottom: 2px !important; }
 feedly.com#$#.LeftnavHeading__content { padding-right: .25rem !important; }
+feedly.com#$#.Leftnav { background-color: #f6f7f8 !important; border-right: 1px solid #efefef !important; }
 feedly.com#$#.Header__right-column { margin-bottom: 5px !important; padding-right: 0 !important; }
 ! Profile menu
 feedly.com##.ProfileMenu > li:nth-child(2)
