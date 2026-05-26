@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.23.b1
+! Version: 1.23.00
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -648,7 +648,7 @@ feedly.com#$#.entry--read > .SelectedEntryScroller > DIV:hover { background-colo
 feedly.com#$#.entry--read > .SelectedEntryScroller > .E_F6s6qK2uYSQkejopR_, .entry--read > .SelectedEntryScroller > .d5SfpVkXoeKeMzKCBWXs, .entry--read > .SelectedEntryScroller > .KoVmwei3_oXOJxjgV8Hm { background-color: rgb(235, 235, 235) !important; }
 feedly.com#$#.c2ktFU2TmdghNwHpkFmW { margin: 0 .4rem 0 .22rem !important; }
 feedly.com#$#.LeftnavProfileItem__button { padding: 0.2rem 0.25rem 0.2rem 4px !important; }
-! Corner roundings
+! Border radius
 feedly.com#$#.RgraMIHCDS_txxTx1tPF { border-radius: .6rem !important; }
 feedly.com#$#.InlineArticleEdge--top         { border-radius: 1.2rem 1.2rem 0 0 !important; }
 feedly.com#$#.InlineArticleEdge--top:hover   { border-radius: 1.2rem 1.2rem 0 0 !important; }
