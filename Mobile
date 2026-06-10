@@ -299,7 +299,7 @@ localiiz.com##.bglight-culture.block-articles.loaded-js
 localiiz.com###header-pre
 localiiz.com###header-top
 macrumors.com##.uix_fabBar
-macrumors.com##.block--2_RlJqhg
+macrumors.com##[data-track="popular-stories"]
 macrumors.com##.main--3s50rdtq > div:nth-of-type(4)
 macrumors.com##.footerRow--1v7dvMKX
 macrumors.com##.funbox
@@ -310,7 +310,6 @@ macrumors.com##.slick-inline-search-panel
 macrumors.com###adUnder_mobile
 macrumors.com###fRight
 macrumors.com###staffList
-macrumors.com##[class^="main--"] > div > h2
 forums.macrumors.com##FOOTER:not(.message-footer)
 macuser.de##.button.DisableOnSubmit
 macuser.de##.dataTable
