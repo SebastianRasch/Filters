@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.23.01
+! Version: 1.23.02
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -752,10 +752,10 @@ feedly.com#$#.LeftnavHeading__content { padding-right: .25rem !important; }
 feedly.com#$#.Leftnav { background-color: #f6f7f8 !important; border-right: 1px solid #efefef !important; }
 feedly.com#$#.Header__right-column { margin-bottom: 5px !important; padding-right: 0 !important; }
 ! Profile menu
-feedly.com##.ProfileMenu > li:nth-child(2)
-feedly.com##.ProfileMenu > li:nth-child(3)
-feedly.com##.ProfileMenu > li:nth-child(5)
-feedly.com##.ProfileMenu > li:nth-child(6)
+feedly.com##.theme--contextual > UL[tabindex="-1"] > li:nth-child(2)
+feedly.com##.theme--contextual > UL[tabindex="-1"] > li:nth-child(4)
+feedly.com##.theme--contextual > UL[tabindex="-1"] > li:nth-child(5)
+feedly.com##.theme--contextual > UL[tabindex="-1"] > li:nth-child(6)
 ! Article media size
 feedly.com#$#.PinableImageContainer > IMG, .entryBody > DIV > DIV > IMG { max-width: 100% !important; width: 100% !important; height: auto !important; margin: 0 0 15px !important; }
 feedly.com#$#IMG[src^="https://s.w.org/images/core/emoji/"] { max-width: 13px !important; vertical-align: initial !important; }
@@ -1402,7 +1402,6 @@ macos-app.com##[id="facebooklikebox-2"]
 macos-app.com###JLWrIrWclkrX
 ! MACRUMORS
 macrumors.com##.sidebar--1d3u_-lK
-macrumors.com##.block--2_RlJqhg
 macrumors.com##.main--3s50rdtq > div:nth-of-type(4)
 macrumors.com##.follow-banner
 macrumors.com##.accessibility--3XPTkAmp
@@ -1410,11 +1409,11 @@ macrumors.com##.tertiary
 macrumors.com##.slick-inline-search-panel
 macrumors.com###sideAd
 macrumors.com###contentAd
+macrumors.com##[data-track="popular-stories"]
 macrumors.com###mc-embedded-subscribe-form
 macrumors.com##[class^="colLinks--"]
 macrumors.com##[class^="colStaff--"] > div:last-child
 macrumors.com##[class^="colStaff--"] > .button
-macrumors.com##[class^="main--"] > div > h2
 forums.macrumors.com###mrsubscribe
 forums.macrumors.com##.button--scroll:last-child
 forums.macrumors.com##.similarThreads
