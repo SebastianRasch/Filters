@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.23.02
+! Version: 1.23.03
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -218,6 +218,9 @@ architonic.com##.header-top
 arstechnica.co.uk##.share-buttons
 arstechnica.co.uk###page-footer
 arstechnica.co.uk#$#.comments-bar { border-bottom: 0 !important; }
+! BAB.LA
+de.bab.la##.info-panel
+de.bab.la###fixed
 ! BLOCKET
 blocket.se##.eas_expander
 blocket.se##.list_filter_container > div:nth-of-type(3)
@@ -459,15 +462,6 @@ coolvibe.com##.opt-in-form
 coolvibe.com##.widget.widget_text
 ! CRACKDB
 crackdb.com##td:nth-of-type(1) > table:nth-of-type(3)
-! BAB.LA
-de.bab.la##.info-panel
-de.bab.la###fixed
-! FINANCE.YAHOO
-finance.yahoo.com##.yom-mod.yom-iframe
-finance.yahoo.com###mediaiframe
-finance.yahoo.com###mainArticleIdComments
-finance.yahoo.com###module-spotIm
-finance.yahoo.com###module-moreStories
 ! DEGIRO
 trader.degiro.nl##.gyfmR7wu._3qG1CsaZ
 ! DESIGNBOOM
@@ -657,6 +651,7 @@ feedly.com#$#.InlineArticleEdge--right:hover { border-radius: 0 1.2rem 1.2rem 0 
 feedly.com#$#.SelectedEntryScroller > DIV, .GiantMarkAsRead, .LeftnavItem, .LeftnavHeading, .LeftnavProfileItem__button, .pw5rG38xWjWlltAAbr2w:hover:not(.InlineArticle__close-button, .Header__actions button), .iGGsxbNmuvNFfDqFfu2w:not(.GiantMarkAsRead), .iGGsxbNmuvNFfDqFfu2w:hover:not(.GiantMarkAsRead), .GOmU_rnsX_csjiqAf8_X, [aria-controls^="ShareBar__share-menu"] { border-radius: 1.2rem !important; }
 ! Article: Header line
 feedly.com##.Header__checkbox
+feedly.com##.Header__actions > DIV
 feedly.com#$#.TitleOnlyEntry__read-later, .TitleOnlyEntry__read-later:hover { margin: 0 5px 0 2px !important; padding: 0 !important; }
 feedly.com#$#.TopHeaderBar { border-bottom: none !important; }
 feedly.com#$#.webFeedHeader { border-bottom: 0 !important; }
@@ -772,6 +767,12 @@ fido.ie##[id="f-sponsors"]
 fifa.com##.fc-header-promotion-bar_collapsedBanner__ifvxd
 fifa.com##.fc-layout_promotionBannerPlaceholder__KjrJM
 fifa.com#$#.fc-header_header__vEPcy { position: absolute !important; top: 0 !important; transition: none !important; transform: none !important; }
+! FINANCE.YAHOO
+finance.yahoo.com##.yom-mod.yom-iframe
+finance.yahoo.com###mediaiframe
+finance.yahoo.com###mainArticleIdComments
+finance.yahoo.com###module-spotIm
+finance.yahoo.com###module-moreStories
 ! FINANZEN
 finanzen.net##.bs-wrapper
 finanzen.net##.clear-block.actuals > .mainRight > DIV:nth-child(3)
@@ -1563,12 +1564,15 @@ pcgames.de##.textContainer:first-child > p > b
 pcgameshardware.de##.innerArticleModule .right .ghapi
 pcgameshardware.de##.pseudo .column .right
 pcgameshardware.de##.plusTeaserModule
+pcgameshardware.de##.googleSourceBtn
+pcgameshardware.de##.column.right
 pcgameshardware.de###topBannerWrapper
 pcgameshardware.de###plakatinhalttag_1
 pcgameshardware.de###pricehitsTextTeaser
 pcgameshardware.de###MagazineTeaserContainer
 pcgameshardware.de###stickyParent
 pcgameshardware.de###rgTable-1
+pcgameshardware.de#$#.article .column.left.column.left { width: 100% !important; max-width: none !important; margin-right: 30px !important; }
 ! PENSIONSMUNDIGHETEN
 pensionsmyndigheten.se##.pm_js-cookie-banner
 ! PINTEREST
