@@ -1,5 +1,5 @@
 ! Title: Mobilerate pronkoderke
-! Version: 4.69.2
+! Version: 4.69.3
 !
 @@||/borlabs-cookie/*$~script
 80.lv##main > div:last-child > div:last-child
@@ -310,7 +310,7 @@ macrumors.com##.social
 !macrumors.com###adUnder_mobile
 !macrumors.com###fRight
 !macrumors.com###staffList
-forums.macrumors.com##FOOTER:not(.message-footer)
+!forums.macrumors.com##FOOTER:not(.message-footer)
 macuser.de##.button.DisableOnSubmit
 macuser.de##.dataTable
 macuser.de##.footer_copyright
