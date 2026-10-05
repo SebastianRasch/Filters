@@ -1,5 +1,5 @@
 ! Title: Superstraktulation
-! Version: 1.23.03
+! Version: 1.23.04
 !
 @@||/borlabs-cookie/*$~script
 @@||account.formula1.com^$important,document
@@ -304,6 +304,8 @@ cbsnews.com#$#.content__promo-no-media { height: 285px !important; }
 cbsnews.com#$#.content__promo-image-wrapper { margin-left: calc((100vw - 1303px) / -2) !important; }
 ! CDON
 cdon.se###sponsoredProductsFragmentWrapper
+! CHATGPT
+chatgpt.com##.absolute.start-0.end-0.bottom-full.z-20
 ! CHEFKOCH
 chefkoch.de###rewe-button
 chefkoch.de##.ck-bring-button
@@ -1412,6 +1414,7 @@ macrumors.com###sideAd
 macrumors.com###contentAd
 macrumors.com##[data-track="popular-stories"]
 macrumors.com###mc-embedded-subscribe-form
+macrumors.com##[class^="subscribe"]
 macrumors.com##[class^="colLinks--"]
 macrumors.com##[class^="colStaff--"] > div:last-child
 macrumors.com##[class^="colStaff--"] > .button
@@ -1426,6 +1429,7 @@ macrumors.com#$#.discussionList .sectionHeaders a span { padding: 8px 6px !impor
 macrumors.com#$#.footerInner--U2z8mpf2 { padding-bottom: 40px !important; }
 macrumors.com#$#.colStaff--25U_xLo2 { margin: 0 0 -70px !important; }
 macrumors.com#$#article > div > p > img, article > div > div > p > img { width: 100% !important; }
+macrumors.com#$#table { max-width: none !important; }
 macrumors.com#$##guide-products { margin-top: 1px !important; }
 macrumors.com#$#@media (prefers-color-scheme: light) { body, HTML { background: none !important; }}
 ! MACTECHNEWS
